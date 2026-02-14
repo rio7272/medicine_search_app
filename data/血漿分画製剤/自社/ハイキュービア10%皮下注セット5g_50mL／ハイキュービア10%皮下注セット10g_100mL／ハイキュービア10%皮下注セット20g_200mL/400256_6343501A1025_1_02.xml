@@ -1,0 +1,2746 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PackIns version="1.0" xmlKind="Packins" drugType="Medicine" xmlns="http://info.pmda.go.jp/namespace/prescription_drugs/package_insert/1.0">
+  <PackageInsertNo>6343501A1025_1_02</PackageInsertNo>
+  <CompanyIdentifier>400256</CompanyIdentifier>
+  <!--ア.作成又は改訂年月-->
+  <DateOfPreparationOrRevision>
+    <PreparationOrRevision id="前回">
+      <YearMonth>2025-06</YearMonth>
+    </PreparationOrRevision>
+    <PreparationOrRevision id="今回">
+      <YearMonth>2025-06</YearMonth>
+      <Version>
+        <Lang xml:lang="ja">第3版</Lang>
+      </Version>
+      <ReasonForRevision>
+        <Lang xml:lang="ja">効能変更、用法及び用量変更</Lang>
+      </ReasonForRevision>
+    </PreparationOrRevision>
+  </DateOfPreparationOrRevision>
+  <!--イ.日本標準商品分類番号-->
+  <Sccj>
+    <SccjNo>876343</SccjNo>
+  </Sccj>
+  <!--オ.薬効分類名-->
+  <TherapeuticClassification>
+    <Detail>
+      <Lang xml:lang="ja">血漿分画製剤</Lang>
+    </Detail>
+    <Detail>
+      <Lang xml:lang="ja">皮下注用人免疫グロブリン製剤</Lang>
+    </Detail>
+    <Detail>
+      <Lang xml:lang="ja">ボルヒアルロニダーゼ　アルファ（遺伝子組換え）製剤</Lang>
+    </Detail>
+  </TherapeuticClassification>
+  <ApprovalEtc>
+    <DetailBrandName id="BRD_Drug1">
+      <ApprovalBrandName>
+        <Lang xml:lang="ja">ハイキュービア10%皮下注セット5g/50mL</Lang>
+      </ApprovalBrandName>
+      <BrandCode>
+        <YJCode>6343501A1025</YJCode>
+      </BrandCode>
+      <TrademarkInEnglish>
+        <TrademarkName>HyQvia 10% S.C. Injection Set 5g/50mL</TrademarkName>
+      </TrademarkInEnglish>
+      <BrandNameInHiragana>
+        <NameInHiragana>はいきゅーびあ10%ひかちゅうせっと</NameInHiragana>
+      </BrandNameInHiragana>
+      <!--ウ.承認番号-->
+      <ApprovalAndLicenseNo>
+        <ApprovalNo>30600AMX00299</ApprovalNo>
+      </ApprovalAndLicenseNo>
+      <!--ウ.販売開始年月-->
+      <StartingDateOfMarketing>2025-06</StartingDateOfMarketing>
+      <!--エ.貯法、有効期間-->
+      <Storage>
+        <StorageMethod>
+          <Lang xml:lang="ja">凍結を避け2～8℃で保存</Lang>
+        </StorageMethod>
+        <ShelfLife>
+          <Lang xml:lang="ja">製造日から24ヵ月</Lang>
+        </ShelfLife>
+      </Storage>
+      <!--キ.基準名-->
+      <StandardName>
+        <StandardNameCategory>
+          <StandardNameCategoryCode>2</StandardNameCategoryCode>
+          <StandardNameDetail>
+            <Lang xml:lang="ja">pH4処理酸性人免疫グロブリン（皮下注射）</Lang>
+          </StandardNameDetail>
+        </StandardNameCategory>
+      </StandardName>
+      <!--カ.規制区分-->
+      <RegulatoryClassification>
+        <RegulatoryClassificationCodeAndNote>
+          <RegulatoryClassificationCode>12</RegulatoryClassificationCode>
+        </RegulatoryClassificationCodeAndNote>
+        <RegulatoryClassificationCodeAndNote>
+          <RegulatoryClassificationCode>14</RegulatoryClassificationCode>
+        </RegulatoryClassificationCodeAndNote>
+      </RegulatoryClassification>
+    </DetailBrandName>
+    <DetailBrandName id="BRD_Drug2">
+      <ApprovalBrandName>
+        <Lang xml:lang="ja">ハイキュービア10%皮下注セット10g/100mL</Lang>
+      </ApprovalBrandName>
+      <BrandCode>
+        <YJCode>6343501A2021</YJCode>
+      </BrandCode>
+      <TrademarkInEnglish>
+        <TrademarkName>HyQvia 10% S.C. Injection Set 10g/100mL</TrademarkName>
+      </TrademarkInEnglish>
+      <BrandNameInHiragana>
+        <NameInHiragana>はいきゅーびあ10%ひかちゅうせっと</NameInHiragana>
+      </BrandNameInHiragana>
+      <!--ウ.承認番号-->
+      <ApprovalAndLicenseNo>
+        <ApprovalNo>30600AMX00300</ApprovalNo>
+      </ApprovalAndLicenseNo>
+      <!--ウ.販売開始年月-->
+      <StartingDateOfMarketing>2025-06</StartingDateOfMarketing>
+      <!--エ.貯法、有効期間-->
+      <Storage>
+        <StorageMethod>
+          <Lang xml:lang="ja">凍結を避け2～8℃で保存</Lang>
+        </StorageMethod>
+        <ShelfLife>
+          <Lang xml:lang="ja">製造日から24ヵ月</Lang>
+        </ShelfLife>
+      </Storage>
+      <!--キ.基準名-->
+      <StandardName>
+        <StandardNameCategory>
+          <StandardNameCategoryCode>2</StandardNameCategoryCode>
+          <StandardNameDetail>
+            <Lang xml:lang="ja">pH4処理酸性人免疫グロブリン（皮下注射）</Lang>
+          </StandardNameDetail>
+        </StandardNameCategory>
+      </StandardName>
+      <!--カ.規制区分-->
+      <RegulatoryClassification>
+        <RegulatoryClassificationCodeAndNote>
+          <RegulatoryClassificationCode>12</RegulatoryClassificationCode>
+        </RegulatoryClassificationCodeAndNote>
+        <RegulatoryClassificationCodeAndNote>
+          <RegulatoryClassificationCode>14</RegulatoryClassificationCode>
+        </RegulatoryClassificationCodeAndNote>
+      </RegulatoryClassification>
+    </DetailBrandName>
+    <DetailBrandName id="BRD_Drug3">
+      <ApprovalBrandName>
+        <Lang xml:lang="ja">ハイキュービア10%皮下注セット20g/200mL</Lang>
+      </ApprovalBrandName>
+      <BrandCode>
+        <YJCode>6343501A3028</YJCode>
+      </BrandCode>
+      <TrademarkInEnglish>
+        <TrademarkName>HyQvia 10% S.C. Injection Set 20g/200mL</TrademarkName>
+      </TrademarkInEnglish>
+      <BrandNameInHiragana>
+        <NameInHiragana>はいきゅーびあ10%ひかちゅうせっと</NameInHiragana>
+      </BrandNameInHiragana>
+      <!--ウ.承認番号-->
+      <ApprovalAndLicenseNo>
+        <ApprovalNo>30600AMX00301</ApprovalNo>
+      </ApprovalAndLicenseNo>
+      <!--ウ.販売開始年月-->
+      <StartingDateOfMarketing>2025-06</StartingDateOfMarketing>
+      <!--エ.貯法、有効期間-->
+      <Storage>
+        <StorageMethod>
+          <Lang xml:lang="ja">凍結を避け2～8℃で保存</Lang>
+        </StorageMethod>
+        <ShelfLife>
+          <Lang xml:lang="ja">製造日から24ヵ月</Lang>
+        </ShelfLife>
+      </Storage>
+      <!--キ.基準名-->
+      <StandardName>
+        <StandardNameCategory>
+          <StandardNameCategoryCode>2</StandardNameCategoryCode>
+          <StandardNameDetail>
+            <Lang xml:lang="ja">pH4処理酸性人免疫グロブリン（皮下注射）</Lang>
+          </StandardNameDetail>
+        </StandardNameCategory>
+      </StandardName>
+      <!--カ.規制区分-->
+      <RegulatoryClassification>
+        <RegulatoryClassificationCodeAndNote>
+          <RegulatoryClassificationCode>12</RegulatoryClassificationCode>
+        </RegulatoryClassificationCodeAndNote>
+        <RegulatoryClassificationCodeAndNote>
+          <RegulatoryClassificationCode>14</RegulatoryClassificationCode>
+        </RegulatoryClassificationCodeAndNote>
+      </RegulatoryClassification>
+    </DetailBrandName>
+  </ApprovalEtc>
+  <!--キ.一般的名称-->
+  <GenericName>
+    <Detail>
+      <Lang xml:lang="ja">pH4処理酸性人免疫グロブリン（皮下注射）<?enter?>ボルヒアルロニダーゼ　アルファ（遺伝子組換え）</Lang>
+    </Detail>
+  </GenericName>
+  <SpeciallyDescribedItems>
+    <Detail>
+      <Lang xml:lang="ja">本剤は、ヒト血漿を原料として製剤化したものである。原料となった血漿を採取する際には、問診、感染症関連の検査を実施するとともに、製造工程における一定の不活化・除去処理等を実施し、感染症に対する安全対策を講じているが、ヒト血漿を原料としていることによる感染症伝播のリスクを完全に排除することはできないため、疾病の治療上の必要性を十分に検討の上、必要最小限の使用にとどめること。</Lang>
+    </Detail>
+  </SpeciallyDescribedItems>
+  <!--２.禁忌（次の患者には投与しないこと）-->
+  <ContraIndications id="HDR_ContraIndications" heading="fixing">
+    <Detail>
+      <Lang xml:lang="ja">本剤の成分に対しショックの既往歴のある患者</Lang>
+    </Detail>
+  </ContraIndications>
+  <!--３.組成・性状-->
+  <CompositionAndProperty id="HDR_CompositionAndProperty" heading="fixing">
+    <!--３.１ 組成-->
+    <Composition id="HDR_Composition" heading="fixing">
+      <OverviewOfComposition>
+        <Lang xml:lang="ja">本剤は2製剤を同梱したものであり、1包装単位に人免疫グロブリン注射液1バイアル、ボルヒアルロニダーゼ　アルファ（遺伝子組換え）注射液1バイアルが含まれる。各々の組成・性状は以下のとおりである。</Lang>
+      </OverviewOfComposition>
+      <CompositionForBrand ref="BRD_Drug1">
+        <CompositionForConstituentUnits>
+          <ConstituentUnits>
+            <Lang xml:lang="ja">3.1.1 人免疫グロブリン注射液</Lang>
+          </ConstituentUnits>
+          <CompositionTable>
+            <CompositionAndPropertyTblTitle>
+              <Lang xml:lang="ja">1バイアル中に下記の成分を含有する。</Lang>
+            </CompositionAndPropertyTblTitle>
+            <ContainedAmount>
+              <ActiveIngredientName>
+                <Lang xml:lang="ja">人免疫グロブリンG</Lang>
+              </ActiveIngredientName>
+              <ValueAndUnit>
+                <Lang xml:lang="ja">5g</Lang>
+              </ValueAndUnit>
+            </ContainedAmount>
+            <Additives>
+              <IndividualAdditives>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">グリシン<Sup>注1）</Sup></Lang>
+                  </IndividualAdditive>
+                  <ValueAndUnit>
+                    <Lang xml:lang="ja">0.25mol/L</Lang>
+                  </ValueAndUnit>
+                </InfoIndividualAdditive>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">pH調節剤</Lang>
+                  </IndividualAdditive>
+                  <ValueAndUnit>
+                    <Lang xml:lang="ja">適量</Lang>
+                  </ValueAndUnit>
+                </InfoIndividualAdditive>
+              </IndividualAdditives>
+            </Additives>
+            <OtherComposition>
+              <CategoryName>
+                <Lang xml:lang="ja">備考</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail>
+                  <Lang xml:lang="ja">人免疫グロブリンGは、ヒト血液に由来する。（採血国：米国、採血の区別：非献血<Sup>注2）</Sup>）<?enter?>本剤は製造工程において、ブタの腸粘膜由来成分（ヘパリンナトリウム）を使用している。</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherComposition>
+          </CompositionTable>
+          <CommentsForConstituentUnits>
+            <Lang xml:lang="ja">注1）グリシン濃度は0.20～0.30mol/Lの範囲である。<?enter?>注2）「献血又は非献血の区別の考え方」参照</Lang>
+          </CommentsForConstituentUnits>
+        </CompositionForConstituentUnits>
+        <CompositionForConstituentUnits>
+          <ConstituentUnits>
+            <Lang xml:lang="ja">3.1.2 ボルヒアルロニダーゼ　アルファ（遺伝子組換え）注射液</Lang>
+          </ConstituentUnits>
+          <CompositionTable>
+            <CompositionAndPropertyTblTitle>
+              <Lang xml:lang="ja">1バイアル中に下記の成分を含有する。</Lang>
+            </CompositionAndPropertyTblTitle>
+            <ContainedAmount>
+              <ActiveIngredientName>
+                <Lang xml:lang="ja">ボルヒアルロニダーゼ　アルファ（遺伝子組換え）</Lang>
+              </ActiveIngredientName>
+              <ValueAndUnit>
+                <Lang xml:lang="ja">400単位</Lang>
+              </ValueAndUnit>
+            </ContainedAmount>
+            <Additives>
+              <IndividualAdditives>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">リン酸水素二ナトリウム二水和物</Lang>
+                  </IndividualAdditive>
+                  <ValueAndUnit>
+                    <Lang xml:lang="ja">4.5mg</Lang>
+                  </ValueAndUnit>
+                </InfoIndividualAdditive>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">ヒトアルブミン</Lang>
+                  </IndividualAdditive>
+                  <ValueAndUnit>
+                    <Lang xml:lang="ja">2.5mg</Lang>
+                  </ValueAndUnit>
+                </InfoIndividualAdditive>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">塩化カルシウム水和物</Lang>
+                  </IndividualAdditive>
+                  <ValueAndUnit>
+                    <Lang xml:lang="ja">1.0mg</Lang>
+                  </ValueAndUnit>
+                </InfoIndividualAdditive>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">エデト酸ナトリウム水和物</Lang>
+                  </IndividualAdditive>
+                  <ValueAndUnit>
+                    <Lang xml:lang="ja">2.5mg</Lang>
+                  </ValueAndUnit>
+                </InfoIndividualAdditive>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">等張化剤</Lang>
+                  </IndividualAdditive>
+                  <ValueAndUnit>
+                    <Lang xml:lang="ja">21.3mg</Lang>
+                  </ValueAndUnit>
+                </InfoIndividualAdditive>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">pH調節剤</Lang>
+                  </IndividualAdditive>
+                  <ValueAndUnit>
+                    <Lang xml:lang="ja">適量</Lang>
+                  </ValueAndUnit>
+                </InfoIndividualAdditive>
+              </IndividualAdditives>
+            </Additives>
+            <OtherComposition>
+              <CategoryName>
+                <Lang xml:lang="ja">備考</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail>
+                  <Lang xml:lang="ja">ヒトアルブミンは、ヒト血液に由来する。（採血国：米国、採血の区別：非献血<Sup>注）</Sup>）<?enter?>ヒトアルブミンの製造工程において、ブタの腸粘膜由来成分（ヘパリンナトリウム）を使用している。<?enter?>本剤はチャイニーズハムスター卵巣（CHO）細胞株を用いて製造される。</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherComposition>
+          </CompositionTable>
+          <CommentsForConstituentUnits>
+            <Lang xml:lang="ja">注）「献血又は非献血の区別の考え方」参照</Lang>
+          </CommentsForConstituentUnits>
+        </CompositionForConstituentUnits>
+      </CompositionForBrand>
+      <CompositionForBrand ref="BRD_Drug2">
+        <CompositionForConstituentUnits>
+          <ConstituentUnits>
+            <Lang xml:lang="ja">3.1.1 人免疫グロブリン注射液</Lang>
+          </ConstituentUnits>
+          <CompositionTable>
+            <CompositionAndPropertyTblTitle>
+              <Lang xml:lang="ja">1バイアル中に下記の成分を含有する。</Lang>
+            </CompositionAndPropertyTblTitle>
+            <ContainedAmount>
+              <ActiveIngredientName>
+                <Lang xml:lang="ja">人免疫グロブリンG</Lang>
+              </ActiveIngredientName>
+              <ValueAndUnit>
+                <Lang xml:lang="ja">10g</Lang>
+              </ValueAndUnit>
+            </ContainedAmount>
+            <Additives>
+              <IndividualAdditives>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">グリシン<Sup>注1）</Sup></Lang>
+                  </IndividualAdditive>
+                  <ValueAndUnit>
+                    <Lang xml:lang="ja">0.25mol/L</Lang>
+                  </ValueAndUnit>
+                </InfoIndividualAdditive>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">pH調節剤</Lang>
+                  </IndividualAdditive>
+                  <ValueAndUnit>
+                    <Lang xml:lang="ja">適量</Lang>
+                  </ValueAndUnit>
+                </InfoIndividualAdditive>
+              </IndividualAdditives>
+            </Additives>
+            <OtherComposition>
+              <CategoryName>
+                <Lang xml:lang="ja">備考</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail>
+                  <Lang xml:lang="ja">人免疫グロブリンGは、ヒト血液に由来する。（採血国：米国、採血の区別：非献血<Sup>注2）</Sup>）<?enter?>本剤は製造工程において、ブタの腸粘膜由来成分（ヘパリンナトリウム）を使用している。</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherComposition>
+          </CompositionTable>
+          <CommentsForConstituentUnits>
+            <Lang xml:lang="ja">注1）グリシン濃度は0.20～0.30mol/Lの範囲である。<?enter?>注2）「献血又は非献血の区別の考え方」参照</Lang>
+          </CommentsForConstituentUnits>
+        </CompositionForConstituentUnits>
+        <CompositionForConstituentUnits>
+          <ConstituentUnits>
+            <Lang xml:lang="ja">3.1.2 ボルヒアルロニダーゼ　アルファ（遺伝子組換え）注射液</Lang>
+          </ConstituentUnits>
+          <CompositionTable>
+            <CompositionAndPropertyTblTitle>
+              <Lang xml:lang="ja">1バイアル中に下記の成分を含有する。</Lang>
+            </CompositionAndPropertyTblTitle>
+            <ContainedAmount>
+              <ActiveIngredientName>
+                <Lang xml:lang="ja">ボルヒアルロニダーゼ　アルファ（遺伝子組換え）</Lang>
+              </ActiveIngredientName>
+              <ValueAndUnit>
+                <Lang xml:lang="ja">800単位</Lang>
+              </ValueAndUnit>
+            </ContainedAmount>
+            <Additives>
+              <IndividualAdditives>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">リン酸水素二ナトリウム二水和物</Lang>
+                  </IndividualAdditive>
+                  <ValueAndUnit>
+                    <Lang xml:lang="ja">8.9mg</Lang>
+                  </ValueAndUnit>
+                </InfoIndividualAdditive>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">ヒトアルブミン</Lang>
+                  </IndividualAdditive>
+                  <ValueAndUnit>
+                    <Lang xml:lang="ja">5mg</Lang>
+                  </ValueAndUnit>
+                </InfoIndividualAdditive>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">塩化カルシウム水和物</Lang>
+                  </IndividualAdditive>
+                  <ValueAndUnit>
+                    <Lang xml:lang="ja">2.0mg</Lang>
+                  </ValueAndUnit>
+                </InfoIndividualAdditive>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">エデト酸ナトリウム水和物</Lang>
+                  </IndividualAdditive>
+                  <ValueAndUnit>
+                    <Lang xml:lang="ja">5.0mg</Lang>
+                  </ValueAndUnit>
+                </InfoIndividualAdditive>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">等張化剤</Lang>
+                  </IndividualAdditive>
+                  <ValueAndUnit>
+                    <Lang xml:lang="ja">42.5mg</Lang>
+                  </ValueAndUnit>
+                </InfoIndividualAdditive>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">pH調節剤</Lang>
+                  </IndividualAdditive>
+                  <ValueAndUnit>
+                    <Lang xml:lang="ja">適量</Lang>
+                  </ValueAndUnit>
+                </InfoIndividualAdditive>
+              </IndividualAdditives>
+            </Additives>
+            <OtherComposition>
+              <CategoryName>
+                <Lang xml:lang="ja">備考</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail>
+                  <Lang xml:lang="ja">ヒトアルブミンは、ヒト血液に由来する。（採血国：米国、採血の区別：非献血<Sup>注）</Sup>）<?enter?>ヒトアルブミンの製造工程において、ブタの腸粘膜由来成分（ヘパリンナトリウム）を使用している。<?enter?>本剤はチャイニーズハムスター卵巣（CHO）細胞株を用いて製造される。</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherComposition>
+          </CompositionTable>
+          <CommentsForConstituentUnits>
+            <Lang xml:lang="ja">注）「献血又は非献血の区別の考え方」参照</Lang>
+          </CommentsForConstituentUnits>
+        </CompositionForConstituentUnits>
+      </CompositionForBrand>
+      <CompositionForBrand ref="BRD_Drug3">
+        <CompositionForConstituentUnits>
+          <ConstituentUnits>
+            <Lang xml:lang="ja">3.1.1 人免疫グロブリン注射液</Lang>
+          </ConstituentUnits>
+          <CompositionTable>
+            <CompositionAndPropertyTblTitle>
+              <Lang xml:lang="ja">1バイアル中に下記の成分を含有する。</Lang>
+            </CompositionAndPropertyTblTitle>
+            <ContainedAmount>
+              <ActiveIngredientName>
+                <Lang xml:lang="ja">人免疫グロブリンG</Lang>
+              </ActiveIngredientName>
+              <ValueAndUnit>
+                <Lang xml:lang="ja">20g</Lang>
+              </ValueAndUnit>
+            </ContainedAmount>
+            <Additives>
+              <IndividualAdditives>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">グリシン<Sup>注1）</Sup></Lang>
+                  </IndividualAdditive>
+                  <ValueAndUnit>
+                    <Lang xml:lang="ja">0.25mol/L</Lang>
+                  </ValueAndUnit>
+                </InfoIndividualAdditive>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">pH調節剤</Lang>
+                  </IndividualAdditive>
+                  <ValueAndUnit>
+                    <Lang xml:lang="ja">適量</Lang>
+                  </ValueAndUnit>
+                </InfoIndividualAdditive>
+              </IndividualAdditives>
+            </Additives>
+            <OtherComposition>
+              <CategoryName>
+                <Lang xml:lang="ja">備考</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail>
+                  <Lang xml:lang="ja">人免疫グロブリンGは、ヒト血液に由来する。（採血国：米国、採血の区別：非献血<Sup>注2）</Sup>）<?enter?>本剤は製造工程において、ブタの腸粘膜由来成分（ヘパリンナトリウム）を使用している。</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherComposition>
+          </CompositionTable>
+          <CommentsForConstituentUnits>
+            <Lang xml:lang="ja">注1）グリシン濃度は0.20～0.30mol/Lの範囲である。<?enter?>注2）「献血又は非献血の区別の考え方」参照</Lang>
+          </CommentsForConstituentUnits>
+        </CompositionForConstituentUnits>
+        <CompositionForConstituentUnits>
+          <ConstituentUnits>
+            <Lang xml:lang="ja">3.1.2 ボルヒアルロニダーゼ　アルファ（遺伝子組換え）注射液</Lang>
+          </ConstituentUnits>
+          <CompositionTable>
+            <CompositionAndPropertyTblTitle>
+              <Lang xml:lang="ja">1バイアル中に下記の成分を含有する。</Lang>
+            </CompositionAndPropertyTblTitle>
+            <ContainedAmount>
+              <ActiveIngredientName>
+                <Lang xml:lang="ja">ボルヒアルロニダーゼ　アルファ（遺伝子組換え）</Lang>
+              </ActiveIngredientName>
+              <ValueAndUnit>
+                <Lang xml:lang="ja">1600単位</Lang>
+              </ValueAndUnit>
+            </ContainedAmount>
+            <Additives>
+              <IndividualAdditives>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">リン酸水素二ナトリウム二水和物</Lang>
+                  </IndividualAdditive>
+                  <ValueAndUnit>
+                    <Lang xml:lang="ja">17.8mg</Lang>
+                  </ValueAndUnit>
+                </InfoIndividualAdditive>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">ヒトアルブミン</Lang>
+                  </IndividualAdditive>
+                  <ValueAndUnit>
+                    <Lang xml:lang="ja">10mg</Lang>
+                  </ValueAndUnit>
+                </InfoIndividualAdditive>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">塩化カルシウム水和物</Lang>
+                  </IndividualAdditive>
+                  <ValueAndUnit>
+                    <Lang xml:lang="ja">4.0mg</Lang>
+                  </ValueAndUnit>
+                </InfoIndividualAdditive>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">エデト酸ナトリウム水和物</Lang>
+                  </IndividualAdditive>
+                  <ValueAndUnit>
+                    <Lang xml:lang="ja">10.0mg</Lang>
+                  </ValueAndUnit>
+                </InfoIndividualAdditive>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">等張化剤</Lang>
+                  </IndividualAdditive>
+                  <ValueAndUnit>
+                    <Lang xml:lang="ja">85.0mg</Lang>
+                  </ValueAndUnit>
+                </InfoIndividualAdditive>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">pH調節剤</Lang>
+                  </IndividualAdditive>
+                  <ValueAndUnit>
+                    <Lang xml:lang="ja">適量</Lang>
+                  </ValueAndUnit>
+                </InfoIndividualAdditive>
+              </IndividualAdditives>
+            </Additives>
+            <OtherComposition>
+              <CategoryName>
+                <Lang xml:lang="ja">備考</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail>
+                  <Lang xml:lang="ja">ヒトアルブミンは、ヒト血液に由来する。（採血国：米国、採血の区別：非献血<Sup>注）</Sup>）<?enter?>ヒトアルブミンの製造工程において、ブタの腸粘膜由来成分（ヘパリンナトリウム）を使用している。<?enter?>本剤はチャイニーズハムスター卵巣（CHO）細胞株を用いて製造される。</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherComposition>
+          </CompositionTable>
+          <CommentsForConstituentUnits>
+            <Lang xml:lang="ja">注）「献血又は非献血の区別の考え方」参照</Lang>
+          </CommentsForConstituentUnits>
+        </CompositionForConstituentUnits>
+      </CompositionForBrand>
+    </Composition>
+    <!--３.２ 製剤の性状-->
+    <Property id="HDR_Property" heading="fixing">
+      <PropertyForBrand ref="BRD_Drug1">
+        <PropertyForConstituentUnits>
+          <ConstituentUnits>
+            <Lang xml:lang="ja">3.2.1 人免疫グロブリン注射液</Lang>
+          </ConstituentUnits>
+          <PropertyTable>
+            <Formulation>
+              <Lang xml:lang="ja">注射液（バイアル）</Lang>
+            </Formulation>
+            <pH>
+              <Lang xml:lang="ja">4.6～5.1</Lang>
+            </pH>
+            <OsmoticRatio>
+              <Lang xml:lang="ja">約1（生理食塩液に対する比）</Lang>
+            </OsmoticRatio>
+            <OtherProperty>
+              <CategoryName>
+                <Lang xml:lang="ja">性状</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail>
+                  <Lang xml:lang="ja">澄明又は僅かに乳白光を呈する無色から微黄色の液体であり、血漿たん白微粒子を認めることがある。</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherProperty>
+          </PropertyTable>
+        </PropertyForConstituentUnits>
+        <PropertyForConstituentUnits>
+          <ConstituentUnits>
+            <Lang xml:lang="ja">3.2.2 ボルヒアルロニダーゼ　アルファ（遺伝子組換え）注射液</Lang>
+          </ConstituentUnits>
+          <PropertyTable>
+            <Formulation>
+              <Lang xml:lang="ja">注射液（バイアル）</Lang>
+            </Formulation>
+            <pH>
+              <Lang xml:lang="ja">6.5～8.0</Lang>
+            </pH>
+            <OsmoticRatio>
+              <Lang xml:lang="ja">約1（生理食塩液に対する比）</Lang>
+            </OsmoticRatio>
+            <OtherProperty>
+              <CategoryName>
+                <Lang xml:lang="ja">性状</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail>
+                  <Lang xml:lang="ja">無色の澄明の液体であり、血漿たん白微粒子を認めることがある。</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherProperty>
+          </PropertyTable>
+        </PropertyForConstituentUnits>
+      </PropertyForBrand>
+      <PropertyForBrand ref="BRD_Drug2">
+        <PropertyForConstituentUnits>
+          <ConstituentUnits>
+            <Lang xml:lang="ja">3.2.1 人免疫グロブリン注射液</Lang>
+          </ConstituentUnits>
+          <PropertyTable>
+            <Formulation>
+              <Lang xml:lang="ja">注射液（バイアル）</Lang>
+            </Formulation>
+            <pH>
+              <Lang xml:lang="ja">4.6～5.1</Lang>
+            </pH>
+            <OsmoticRatio>
+              <Lang xml:lang="ja">約1（生理食塩液に対する比）</Lang>
+            </OsmoticRatio>
+            <OtherProperty>
+              <CategoryName>
+                <Lang xml:lang="ja">性状</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail>
+                  <Lang xml:lang="ja">澄明又は僅かに乳白光を呈する無色から微黄色の液体であり、血漿たん白微粒子を認めることがある。</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherProperty>
+          </PropertyTable>
+        </PropertyForConstituentUnits>
+        <PropertyForConstituentUnits>
+          <ConstituentUnits>
+            <Lang xml:lang="ja">3.2.2 ボルヒアルロニダーゼ　アルファ（遺伝子組換え）注射液</Lang>
+          </ConstituentUnits>
+          <PropertyTable>
+            <Formulation>
+              <Lang xml:lang="ja">注射液（バイアル）</Lang>
+            </Formulation>
+            <pH>
+              <Lang xml:lang="ja">6.5～8.0</Lang>
+            </pH>
+            <OsmoticRatio>
+              <Lang xml:lang="ja">約1（生理食塩液に対する比）</Lang>
+            </OsmoticRatio>
+            <OtherProperty>
+              <CategoryName>
+                <Lang xml:lang="ja">性状</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail>
+                  <Lang xml:lang="ja">無色の澄明の液体であり、血漿たん白微粒子を認めることがある。</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherProperty>
+          </PropertyTable>
+        </PropertyForConstituentUnits>
+      </PropertyForBrand>
+      <PropertyForBrand ref="BRD_Drug3">
+        <PropertyForConstituentUnits>
+          <ConstituentUnits>
+            <Lang xml:lang="ja">3.2.1 人免疫グロブリン注射液</Lang>
+          </ConstituentUnits>
+          <PropertyTable>
+            <Formulation>
+              <Lang xml:lang="ja">注射液（バイアル）</Lang>
+            </Formulation>
+            <pH>
+              <Lang xml:lang="ja">4.6～5.1</Lang>
+            </pH>
+            <OsmoticRatio>
+              <Lang xml:lang="ja">約1（生理食塩液に対する比）</Lang>
+            </OsmoticRatio>
+            <OtherProperty>
+              <CategoryName>
+                <Lang xml:lang="ja">性状</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail>
+                  <Lang xml:lang="ja">澄明又は僅かに乳白光を呈する無色から微黄色の液体であり、血漿たん白微粒子を認めることがある。</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherProperty>
+          </PropertyTable>
+        </PropertyForConstituentUnits>
+        <PropertyForConstituentUnits>
+          <ConstituentUnits>
+            <Lang xml:lang="ja">3.2.2 ボルヒアルロニダーゼ　アルファ（遺伝子組換え）注射液</Lang>
+          </ConstituentUnits>
+          <PropertyTable>
+            <Formulation>
+              <Lang xml:lang="ja">注射液（バイアル）</Lang>
+            </Formulation>
+            <pH>
+              <Lang xml:lang="ja">6.5～8.0</Lang>
+            </pH>
+            <OsmoticRatio>
+              <Lang xml:lang="ja">約1（生理食塩液に対する比）</Lang>
+            </OsmoticRatio>
+            <OtherProperty>
+              <CategoryName>
+                <Lang xml:lang="ja">性状</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail>
+                  <Lang xml:lang="ja">無色の澄明の液体であり、血漿たん白微粒子を認めることがある。</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherProperty>
+          </PropertyTable>
+        </PropertyForConstituentUnits>
+      </PropertyForBrand>
+    </Property>
+  </CompositionAndProperty>
+  <!--４.効能又は効果-->
+  <IndicationsOrEfficacy wordingPatternOfIndications="1" id="HDR_IndicationsOrEfficacy" heading="fixing">
+    <UnorderedList>
+      <Item>
+        <Detail>
+          <Lang xml:lang="ja">無又は低ガンマグロブリン血症</Lang>
+        </Detail>
+      </Item>
+      <Item>
+        <Detail modified="今回">
+          <Lang xml:lang="ja">慢性炎症性脱髄性多発根神経炎及び多巣性運動ニューロパチーの運動機能低下の進行抑制（筋力低下の改善が認められた場合）</Lang>
+        </Detail>
+      </Item>
+    </UnorderedList>
+  </IndicationsOrEfficacy>
+  <!--５.効能又は効果に関連する注意-->
+  <EfficacyRelatedPrecautions wordingPatternOfEfficacyRelatedPrecautions="1" id="HDR_EfficacyRelatedPrecautions" heading="fixing">
+    <SimpleList>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">〈慢性炎症性脱髄性多発根神経炎及び多巣性運動ニューロパチーの運動機能低下の進行抑制〉</Lang>
+        </Header>
+        <Detail modified="今回">
+          <Lang xml:lang="ja">慢性炎症性脱髄性多発根神経炎及び多巣性運動ニューロパチーの患者に対して静注用人免疫グロブリン製剤を投与し筋力低下の改善が認められたものの、症状の再発・再燃を繰り返している患者にのみ投与すること。</Lang>
+        </Detail>
+      </Item>
+    </SimpleList>
+  </EfficacyRelatedPrecautions>
+  <!--６.用法及び用量-->
+  <InfoDoseAdmin wordingPatternOfDoseAdmin="1" id="HDR_InfoDoseAdmin" heading="fixing">
+    <DoseAdmin>
+      <SimpleList>
+        <Item>
+          <Header>
+            <Lang xml:lang="ja">〈無又は低ガンマグロブリン血症〉</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">ボルヒアルロニダーゼ　アルファ（遺伝子組換え）を皮下投与した後、約10分以内に同じ部位へ人免疫グロブリンGを皮下投与する。<?enter?>人免疫グロブリンG及びボルヒアルロニダーゼ　アルファ（遺伝子組換え）の投与は、以下の用量の1/3又は1/4から開始し、漸増する。また、投与間隔は投与量に併せて延長する。</Lang>
+          </Detail>
+          <UnorderedList>
+            <Item>
+              <Detail>
+                <Lang xml:lang="ja">通常、人免疫グロブリンGとして150～600mg（1.5～6mL）/kg体重を3週間に1回又は200～800mg（2～8mL）/kg体重を4週間に1回投与する。</Lang>
+              </Detail>
+            </Item>
+            <Item>
+              <Detail>
+                <Lang xml:lang="ja">ボルヒアルロニダーゼ　アルファ（遺伝子組換え）は、人免疫グロブリンG 1gあたり80単位（0.5mL）を投与する。</Lang>
+              </Detail>
+            </Item>
+          </UnorderedList>
+        </Item>
+        <Item>
+          <Detail>
+            <Lang xml:lang="ja">なお、患者の状態に応じて、3週又は4週あたりの投与量及び投与回数は適宜増減する。</Lang>
+          </Detail>
+        </Item>
+        <Item>
+          <Header>
+            <Lang xml:lang="ja">〈慢性炎症性脱髄性多発根神経炎及び多巣性運動ニューロパチーの運動機能低下の進行抑制（筋力低下の改善が認められた場合）〉</Lang>
+          </Header>
+          <Detail modified="今回">
+            <Lang xml:lang="ja">通常、成人には、ボルヒアルロニダーゼ　アルファ（遺伝子組換え）を皮下投与した後、約10分以内に同じ部位へ人免疫グロブリンGを皮下投与する。<?enter?>人免疫グロブリンG及びボルヒアルロニダーゼ　アルファ（遺伝子組換え）は、以下の用法及び用量で皮下投与するが、原則として開始用量は、以下の用量の1/3又は1/4とし、投与量に併せて投与間隔を延長しながら漸増すること。</Lang>
+          </Detail>
+          <UnorderedList>
+            <Item>
+              <Detail>
+                <Lang xml:lang="ja">人免疫グロブリンGとして1.0g（10mL）/kg体重を3週間に1回投与するが、患者の状態に応じて、0.3～1.6g（3～16mL）/kg体重を3週間に1回、又は0.4～2.2g（4～22mL）/kg体重を4週間に1回の範囲で適宜増減する。</Lang>
+              </Detail>
+            </Item>
+            <Item>
+              <Detail>
+                <Lang xml:lang="ja">ボルヒアルロニダーゼ　アルファ（遺伝子組換え）は、人免疫グロブリンG 1gあたり80単位（0.5mL）を投与する。</Lang>
+              </Detail>
+            </Item>
+          </UnorderedList>
+        </Item>
+        <Item>
+          <Detail>
+            <Lang xml:lang="ja">なお、1回あたりの人免疫グロブリンGの投与量及び忍容性に応じて、人免疫グロブリンG及びボルヒアルロニダーゼ　アルファ（遺伝子組換え）を48～72時間間隔で分割して投与することができる。</Lang>
+          </Detail>
+        </Item>
+      </SimpleList>
+    </DoseAdmin>
+  </InfoDoseAdmin>
+  <!--７.用法及び用量に関連する注意-->
+  <InfoPrecautionsDosage wordingPatternOfInfoPrecautionsDosage="1" id="HDR_InfoPrecautionsDosage" heading="fixing">
+    <SimpleList>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">〈効能共通〉</Lang>
+        </Header>
+        <OrderedList numberContinued="false">
+          <Item id="HDR_InfoPrecautionsDosage_1" heading="free">
+            <Detail>
+              <Lang xml:lang="ja">皮下注射にのみ使用すること。静脈内に投与してはならない。</Lang>
+            </Detail>
+          </Item>
+          <Item id="HDR_InfoPrecautionsDosage_2" heading="free">
+            <Detail>
+              <Lang xml:lang="ja">必ずボルヒアルロニダーゼ　アルファ（遺伝子組換え）注射液から先に注入すること。ボルヒアルロニダーゼ　アルファ（遺伝子組換え）注射液と人免疫グロブリン注射液を混合しないこと。<HeaderRef ref="HDR_PrecautionsForApplication_OtherInformation_1_3" /></Lang>
+            </Detail>
+          </Item>
+          <Item id="HDR_InfoPrecautionsDosage_9" heading="free">
+            <Detail modified="今回">
+              <Lang xml:lang="ja">注入部位漏出が人免疫グロブリン注射液投与中又は投与後に生じる可能性があるため、患者の状態に応じて、複数の注入部位への投与及び投与速度の減速を検討すること。複数の部位へ投与する場合、各部位の投与量は同等となるように総投与量を部位数で割って算出すること。<HeaderRef ref="HDR_PrecautionsForApplication_OtherInformation_2_3" />,<HeaderRef ref="HDR_PrecautionsForApplication_OtherInformation_2_4" />,<HeaderRef ref="HDR_PrecautionsForApplication_OtherInformation_2_5" /></Lang>
+            </Detail>
+          </Item>
+        </OrderedList>
+      </Item>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">〈無又は低ガンマグロブリン血症〉</Lang>
+        </Header>
+        <OrderedList numberContinued="true">
+          <Item id="HDR_InfoPrecautionsDosage_3" heading="free">
+            <Detail>
+              <Lang xml:lang="ja">忍容性確保のため、本剤の投与時期及び投与量は下表の用量漸増法を参考にすること。投与量の漸増に伴い、投与間隔も延長すること。なお、本剤の投与量は、感染頻度や重症度等の本剤による治療の臨床反応及び血清IgG濃度を参考に調節すること。</Lang>
+            </Detail>
+            <TblBlock>
+              <TblCaption align="top">
+                <Lang xml:lang="ja">目標投与量（投与量漸増後の用量）を3週間間隔で投与する場合の用量漸増法</Lang>
+              </TblCaption>
+              <WidthDefinition totalWidth="100%">
+                <Col width="24.03%" />
+                <Col width="30.46%" />
+                <Col width="45.49%" />
+              </WidthDefinition>
+              <SimpleTable>
+                <SimpTblRow>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">投与回数</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">投与時期</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">投与量</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                </SimpTblRow>
+                <SimpTblRow>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">初回</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">1週目</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">目標投与量の1/3</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                </SimpTblRow>
+                <SimpTblRow>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">2回目</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">2週目</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">目標投与量の2/3</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                </SimpTblRow>
+                <SimpTblRow>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">3回目及び以後の投与</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">4週目及び以後3週間間隔</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">目標投与量</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                </SimpTblRow>
+              </SimpleTable>
+            </TblBlock>
+            <TblBlock>
+              <TblCaption align="top">
+                <Lang xml:lang="ja">目標投与量（投与量漸増後の用量）を4週間間隔で投与する場合の用量漸増法</Lang>
+              </TblCaption>
+              <WidthDefinition totalWidth="100%">
+                <Col width="24.03%" />
+                <Col width="30.46%" />
+                <Col width="45.49%" />
+              </WidthDefinition>
+              <SimpleTable>
+                <SimpTblRow>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">投与回数</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">投与時期</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">投与量</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                </SimpTblRow>
+                <SimpTblRow>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">初回</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">1週目</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">目標投与量の1/4</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                </SimpTblRow>
+                <SimpTblRow>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">2回目</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">2週目</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">目標投与量の1/2</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                </SimpTblRow>
+                <SimpTblRow>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">3回目</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">4週目</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">目標投与量の3/4</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                </SimpTblRow>
+                <SimpTblRow>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">4回目及び以後の投与</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">7週目及び以後4週間間隔</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">目標投与量</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                </SimpTblRow>
+              </SimpleTable>
+            </TblBlock>
+            <OrderedList numberContinued="false">
+              <Item id="HDR_InfoPrecautionsDosage_4" heading="free">
+                <Detail>
+                  <Lang xml:lang="ja">静注用人免疫グロブリン製剤から本剤に切り換える患者では、本剤の初回投与は、静注用人免疫グロブリン製剤の最終投与から約1週間後とすること。初回の人免疫グロブリン注射液の投与量は切換え前の静注用人免疫グロブリン製剤の1週あたりの投与量と同量とすること。漸増後の投与間隔は切換え前の静注用人免疫グロブリン製剤の投与間隔と同様とするが、患者の臨床反応に応じて変更も可能である。</Lang>
+                </Detail>
+              </Item>
+              <Item id="HDR_InfoPrecautionsDosage_5" heading="free">
+                <Detail>
+                  <Lang xml:lang="ja">他の皮下注用人免疫グロブリン製剤から本剤に切り換える患者では、本剤の初回投与は、他の皮下注用人免疫グロブリン製剤を週1回投与していた患者では他の皮下注用人免疫グロブリン製剤の最終投与から1週間後、他の皮下注用人免疫グロブリン製剤を2週に1回投与していた患者では他の皮下注用人免疫グロブリン製剤の最終投与から2週間後とすること。初回の人免疫グロブリン注射液の投与量は切換え前の他の皮下注用人免疫グロブリン製剤の1週あたりの投与量と同量とすること。漸増後の投与間隔は3週間又は4週間間隔に調整すること。</Lang>
+                </Detail>
+              </Item>
+              <Item id="HDR_InfoPrecautionsDosage_6" heading="free">
+                <Detail>
+                  <Lang xml:lang="ja">人免疫グロブリン製剤による治療歴のない患者を対象とした本剤の臨床試験は実施されていない。人免疫グロブリン製剤による治療歴のない患者に対して本剤による導入を行う場合は、感染頻度や重症度等の本剤による治療の臨床反応と血清IgG濃度を参考に、投与量を慎重に調節すること。漸増後の投与間隔は3週間又は4週間間隔に調整すること。</Lang>
+                </Detail>
+              </Item>
+            </OrderedList>
+          </Item>
+          <Item id="HDR_InfoPrecautionsDosage_8" heading="free">
+            <Detail>
+              <Lang xml:lang="ja">1日に投与できる人免疫グロブリン注射液の最大投与容量は、1部位に投与する場合は、体重40kg以上の患者では600mL、体重40kg未満の患者では300mL、複数部位に投与する場合は、体重40kg以上の患者では1200mL、体重40kg未満の患者では600mLである。<HeaderRef ref="HDR_PrecautionsForApplication_OtherInformation_2_4" /></Lang>
+            </Detail>
+          </Item>
+        </OrderedList>
+      </Item>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">〈慢性炎症性脱髄性多発根神経炎及び多巣性運動ニューロパチーの運動機能低下の進行抑制〉</Lang>
+        </Header>
+        <OrderedList numberContinued="true">
+          <Item id="HDR_InfoPrecautionsDosage_7" heading="free">
+            <Detail modified="今回">
+              <Lang xml:lang="ja">原則として、患者の忍容性を確保するため、本剤の投与時期及び投与量は下表の用量漸増法を参考に、最初の2回の投与で忍容性に問題がないことを確認したうえで、目標投与量に達するまで投与量を徐々に漸増するとともに、投与間隔も延長すること。</Lang>
+            </Detail>
+            <TblBlock>
+              <TblCaption align="top">
+                <Lang xml:lang="ja">本剤の用量漸増法</Lang>
+              </TblCaption>
+              <WidthDefinition totalWidth="100%">
+                <Col width="31.39%" />
+                <Col width="34.29%" />
+                <Col width="34.29%" />
+              </WidthDefinition>
+              <SimpleTable>
+                <SimpTblRow>
+                  <SimpTblCell align="left" valign="top" cspan="3">
+                    <Detail>
+                      <Lang xml:lang="ja">目標投与量を3週間間隔で投与する場合</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                </SimpTblRow>
+                <SimpTblRow>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">投与回数</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">投与時期</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">投与量</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                </SimpTblRow>
+                <SimpTblRow>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">初回</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">1週目</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">目標投与量の1/3</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                </SimpTblRow>
+                <SimpTblRow>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">2回目</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">2週目</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">目標投与量の1/3</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                </SimpTblRow>
+                <SimpTblRow>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">3回目</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">3週目</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">目標投与量の2/3</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                </SimpTblRow>
+                <SimpTblRow>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">4回目及び以後の投与</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">5週目及び以後3週間間隔</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">目標投与量</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                </SimpTblRow>
+                <SimpTblRow>
+                  <SimpTblCell align="left" valign="top" cspan="3">
+                    <Detail>
+                      <Lang xml:lang="ja">目標投与量を4週間間隔で投与する場合</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                </SimpTblRow>
+                <SimpTblRow>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">投与回数</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">投与時期</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">投与量</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                </SimpTblRow>
+                <SimpTblRow>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">初回</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">1週目</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">目標投与量の1/4</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                </SimpTblRow>
+                <SimpTblRow>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">2回目</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">2週目</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">目標投与量の1/4</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                </SimpTblRow>
+                <SimpTblRow>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">3回目</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">3週目</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">目標投与量の1/2</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                </SimpTblRow>
+                <SimpTblRow>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">4回目</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">5週目</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">目標投与量の3/4</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                </SimpTblRow>
+                <SimpTblRow>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">5回目及び以後の投与</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">8週目及び以後4週間間隔</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                  <SimpTblCell align="left" valign="top">
+                    <Detail>
+                      <Lang xml:lang="ja">目標投与量</Lang>
+                    </Detail>
+                  </SimpTblCell>
+                </SimpTblRow>
+              </SimpleTable>
+            </TblBlock>
+          </Item>
+          <Item id="HDR_InfoPrecautionsDosage_10" heading="free">
+            <Detail modified="今回">
+              <Lang xml:lang="ja">本剤の用量及び投与間隔は、以下を参考に調整することとし、患者の臨床反応に応じて適宜調整すること。</Lang>
+            </Detail>
+            <OrderedList numberContinued="false">
+              <Item id="HDR_InfoPrecautionsDosage_11" heading="free">
+                <Detail modified="今回">
+                  <Lang xml:lang="ja">静注用人免疫グロブリン製剤の維持療法から本剤に切り換える患者では、初回投与は切換え前の静注用人免疫グロブリン製剤の最終投与から2週間後とすること。人免疫グロブリン注射液の目標投与量は切換え前の静注用人免疫グロブリン製剤と同量とし、本剤の投与間隔は切換え前の静注用人免疫グロブリン製剤の投与間隔と同様とすること。切換え前の静注用人免疫グロブリン製剤の投与間隔が3又は4週間間隔ではない場合は、本剤の投与間隔は3又は4週間とし、1週間あたりの目標投与量は切換え前の静注用人免疫グロブリン製剤と同等とすること。</Lang>
+                </Detail>
+              </Item>
+              <Item id="HDR_InfoPrecautionsDosage_12" heading="free">
+                <Detail modified="今回">
+                  <Lang xml:lang="ja">既存の皮下注用人免疫グロブリン製剤の維持療法から本剤に切り換える患者では、初回用量は既存の皮下注用人免疫グロブリン製剤と同量とすること。</Lang>
+                </Detail>
+              </Item>
+              <Item id="HDR_InfoPrecautionsDosage_13" heading="free">
+                <Detail modified="今回">
+                  <Lang xml:lang="ja">静注用人免疫グロブリン製剤の導入療法後に本剤を維持療法として初めて開始する患者では、通常、目標投与量及び投与間隔は、人免疫グロブリンGとして、1.0g/kg体重を3週間に1回投与すること。</Lang>
+                </Detail>
+              </Item>
+            </OrderedList>
+          </Item>
+          <Item id="HDR_InfoPrecautionsDosage_14" heading="free">
+            <Detail modified="今回">
+              <Lang xml:lang="ja">1日に投与できる人免疫グロブリン注射液の最大投与容量は、1部位に投与する場合は、体重40kg以上の患者では600mL、体重40kg未満の患者では300mL、複数部位に投与する場合は、体重40kg以上の患者では1200mL、体重40kg未満の患者では600mLである。1日あたりの最大投与容量の上限を超える場合、又は忍容性が低い場合は、注入部位で人免疫グロブリン注射液が吸収されるように、48～72時間間隔で分割して投与する。分割して投与する場合においても、人免疫グロブリン注射液の投与前にボルヒアルロニダーゼ　アルファ（遺伝子組換え）注射液を都度投与すること。<HeaderRef ref="HDR_PrecautionsForApplication_OtherInformation_2_4" /></Lang>
+            </Detail>
+          </Item>
+        </OrderedList>
+      </Item>
+    </SimpleList>
+  </InfoPrecautionsDosage>
+  <!--８.重要な基本的注意-->
+  <ImportantPrecautions id="HDR_ImportantPrecautions" heading="fixing">
+    <SimpleList>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">〈効能共通〉</Lang>
+        </Header>
+        <OrderedList numberContinued="false">
+          <Item id="HDR_ImportantPrecautions_1" heading="free">
+            <Detail>
+              <Lang xml:lang="ja">本剤の使用にあたっては、疾病の治療における本剤の必要性とともに、本剤の製造に際し感染症の伝播を防止するための安全対策が講じられているが、ヒトの血漿を原料としていることに由来する感染症伝播のリスクを完全に排除することができないことを患者に対して説明し、その理解を得るよう努めること。</Lang>
+            </Detail>
+          </Item>
+          <Item id="HDR_ImportantPrecautions_2" heading="free">
+            <Detail>
+              <Lang xml:lang="ja">人免疫グロブリン注射液の原材料となる血漿については、HBs抗原、抗HCV抗体、抗HIV-1抗体及び抗HIV-2抗体が陰性であることを確認している。さらに、プールした試験血漿については、HAV、HBV、HCV、HIV-1及びヒトパルボウイルスB19について核酸増幅検査（NAT）を実施し、適合した血漿を本剤の製造に使用している。また、製造工程段階のプール血漿においてHBs抗原、抗HIV-1抗体及び抗HIV-2抗体が陰性であることを確認している。さらに、HAV、HBV、HCV、HIV-1及びヒトパルボウイルスB19についてNATを実施し、適合していることを確認しているが、当該NATの検出限界以下のウイルスが混入している可能性が常に存在する。人免疫グロブリン注射液の製造工程であるCohnの低温エタノール分画、ウイルス除去膜による濾過工程、有機溶媒／界面活性剤処理及び低pHインキュベーション処理は、各種ウイルスに対して不活化・除去作用を有することが確認されているが、投与に際しては、次の点に十分注意すること。</Lang>
+            </Detail>
+            <OrderedList numberContinued="false">
+              <Item id="HDR_ImportantPrecautions_3" heading="free">
+                <Detail>
+                  <Lang xml:lang="ja">血漿分画製剤の現在の製造工程では、ヒトパルボウイルスB19等のウイルスを完全に不活化・除去することが困難であるため、本剤の投与によりその感染の可能性を否定できないので、投与後の経過を十分に観察すること。<HeaderRef ref="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_4" />,<HeaderRef ref="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_5" />,<HeaderRef ref="HDR_UseInPregnant" /></Lang>
+                </Detail>
+              </Item>
+              <Item id="HDR_ImportantPrecautions_4" heading="free">
+                <Detail>
+                  <Lang xml:lang="ja">現在までに本剤の投与により変異型クロイツフェルト・ヤコブ病（vCJD）等が伝播したとの報告はない。しかしながら、製造工程において異常プリオンを低減し得るとの報告があるものの、理論的なvCJD等の伝播のリスクを完全には排除できないので、投与の際には患者への説明を十分行い、治療上の必要性を十分検討の上投与すること。</Lang>
+                </Detail>
+              </Item>
+            </OrderedList>
+          </Item>
+          <Item id="HDR_ImportantPrecautions_5" heading="free">
+            <Detail>
+              <Lang xml:lang="ja">人免疫グロブリン注射液は抗A及び抗B血液型抗体を有する。したがって、血液型がO型以外の患者に大量投与したとき、溶血性貧血を起こすことがある。<HeaderRef ref="HDR_SeriousAdverse_8" /></Lang>
+            </Detail>
+          </Item>
+          <Item id="HDR_ImportantPrecautions_6" heading="free">
+            <Detail>
+              <Lang xml:lang="ja">急性腎障害があらわれることがあるので、投与に先立って患者が脱水状態にないことを確認すること。<HeaderRef ref="HDR_PatientsWithRenalImpairment_1" />,<HeaderRef ref="HDR_SeriousAdverse_3" /></Lang>
+            </Detail>
+          </Item>
+          <Item id="HDR_ImportantPrecautions_7" heading="free">
+            <Detail>
+              <Lang xml:lang="ja">ボルヒアルロニダーゼ　アルファ（遺伝子組換え）注射液は、1mL中にナトリウム0.16mmol（3.68mg）を含有するため、ナトリウムの過剰摂取に注意して使用すること。</Lang>
+            </Detail>
+          </Item>
+        </OrderedList>
+      </Item>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">〈慢性炎症性脱髄性多発根神経炎及び多巣性運動ニューロパチーの運動機能低下の進行抑制〉</Lang>
+        </Header>
+        <OrderedList numberContinued="true">
+          <Item id="HDR_ImportantPrecautions_8" heading="free">
+            <Detail modified="今回">
+              <Lang xml:lang="ja">本剤による慢性炎症性脱髄性多発根神経炎及び多巣性運動ニューロパチーの治療は原因療法ではなく対症療法であることに留意すること。</Lang>
+            </Detail>
+          </Item>
+          <Item id="HDR_ImportantPrecautions_9" heading="free">
+            <Detail modified="今回">
+              <Lang xml:lang="ja">臨床症状の観察を十分に行い定期的に継続投与の必要性を確認すること。また、継続投与の結果十分な効果が認められず、運動機能低下の再発・再燃等を繰り返す場合には、本剤の継続投与は行わず、他の治療法を考慮すること。</Lang>
+            </Detail>
+          </Item>
+          <Item id="HDR_ImportantPrecautions_10" heading="free">
+            <Detail modified="今回">
+              <Lang xml:lang="ja">本剤を継続投与した結果、運動機能低下の再発・再燃が認められなくなった場合には、本剤の減量又は投与中止を考慮すること。</Lang>
+            </Detail>
+          </Item>
+        </OrderedList>
+      </Item>
+    </SimpleList>
+  </ImportantPrecautions>
+  <!--９.特定の背景を有する患者に関する注意-->
+  <UseInSpecificPopulations id="HDR_UseInSpecificPopulations" heading="fixing">
+    <!--９.１ 合併症・既往歴等のある患者-->
+    <UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc id="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc" heading="fixing">
+      <OrderedList numberContinued="false">
+        <Item id="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_1" heading="free">
+          <Header>
+            <Lang xml:lang="ja">本剤の成分に対し過敏症の既往歴のある患者</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">治療上やむを得ないと判断される場合を除き、投与しないこと。</Lang>
+          </Detail>
+        </Item>
+        <Item id="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_2" heading="free">
+          <Header>
+            <Lang xml:lang="ja">IgA欠損症の患者</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">抗IgA抗体を保有する患者では過敏反応を起こすおそれがある。</Lang>
+          </Detail>
+        </Item>
+        <Item id="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_3" heading="free">
+          <Header>
+            <Lang xml:lang="ja">血栓塞栓症の危険性の高い患者</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">適宜減量し、できるだけゆっくりと投与することが望ましい。血液粘度の上昇等により血栓塞栓症を起こすおそれがある。<HeaderRef ref="HDR_UseInTheElderly" />,<HeaderRef ref="HDR_SeriousAdverse_4" /></Lang>
+          </Detail>
+        </Item>
+        <Item id="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_4" heading="free">
+          <Header>
+            <Lang xml:lang="ja">溶血性・失血性貧血の患者</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">ヒトパルボウイルスB19の感染を起こす可能性を否定できない。感染した場合には、発熱と急激な貧血を伴う重篤な全身症状を起こすことがある。<HeaderRef ref="HDR_ImportantPrecautions_3" /></Lang>
+          </Detail>
+        </Item>
+        <Item id="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_5" heading="free">
+          <Header>
+            <Lang xml:lang="ja">免疫不全患者・免疫抑制状態の患者</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">ヒトパルボウイルスB19の感染を起こす可能性を否定できない。感染した場合には、持続性の貧血を起こすことがある。<HeaderRef ref="HDR_ImportantPrecautions_3" /></Lang>
+          </Detail>
+        </Item>
+      </OrderedList>
+    </UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc>
+    <!--９.２ 腎機能障害患者-->
+    <PatientsWithRenalImpairment id="HDR_PatientsWithRenalImpairment" heading="fixing">
+      <OrderedList numberContinued="false">
+        <Item id="HDR_PatientsWithRenalImpairment_1" heading="free">
+          <Header>
+            <Lang xml:lang="ja">腎機能障害又はその既往歴のある患者</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">適宜減量し、できるだけゆっくりと投与することが望ましい。腎機能を悪化させるおそれがある。<HeaderRef ref="HDR_ImportantPrecautions_6" />,<HeaderRef ref="HDR_SeriousAdverse_3" /></Lang>
+          </Detail>
+        </Item>
+      </OrderedList>
+    </PatientsWithRenalImpairment>
+    <!--９.５ 妊婦-->
+    <UseInPregnant id="HDR_UseInPregnant" heading="fixing">
+      <Detail>
+        <Lang xml:lang="ja">妊婦又は妊娠している可能性のある女性には、治療上の有益性が危険性を上回ると判断される場合にのみ投与すること。本剤の投与によりヒトパルボウイルスB19の感染の可能性を否定できない。感染した場合には胎児への障害（流産、胎児水腫、胎児死亡）が起こる可能性を否定できない。<HeaderRef ref="HDR_ImportantPrecautions_3" /></Lang>
+      </Detail>
+    </UseInPregnant>
+    <!--９.６ 授乳婦-->
+    <UseInNursing id="HDR_UseInNursing" heading="fixing">
+      <Detail>
+        <Lang xml:lang="ja">治療上の有益性及び母乳栄養の有益性を考慮し、授乳の継続又は中止を検討すること。</Lang>
+      </Detail>
+    </UseInNursing>
+    <!--９.７ 小児等-->
+    <PediatricUse id="HDR_PediatricUse" heading="fixing">
+      <SimpleList>
+        <Item>
+          <Header>
+            <Lang xml:lang="ja">〈無又は低ガンマグロブリン血症〉</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">低出生体重児、新生児、乳児及び2歳未満の幼児を対象とした臨床試験は実施していない。</Lang>
+          </Detail>
+        </Item>
+        <Item>
+          <Header>
+            <Lang xml:lang="ja">〈慢性炎症性脱髄性多発根神経炎及び多巣性運動ニューロパチーの運動機能低下の進行抑制〉</Lang>
+          </Header>
+          <Detail modified="今回">
+            <Lang xml:lang="ja">18歳未満の患者を対象とした臨床試験は実施していない。</Lang>
+          </Detail>
+        </Item>
+      </SimpleList>
+    </PediatricUse>
+    <!--９.８ 高齢者-->
+    <UseInTheElderly id="HDR_UseInTheElderly" heading="fixing">
+      <Detail>
+        <Lang xml:lang="ja">一般に生理機能が低下している。また、一般に脳・心臓血管障害又はその既往歴のある患者がみられ、血栓塞栓症を起こすおそれがある。<HeaderRef ref="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_3" />,<HeaderRef ref="HDR_SeriousAdverse_4" /></Lang>
+      </Detail>
+    </UseInTheElderly>
+  </UseInSpecificPopulations>
+  <!--１０.相互作用-->
+  <Interactions id="HDR_Interactions" heading="fixing">
+    <!--１０.２ 併用注意（併用に注意すること）-->
+    <PrecautionsForCombinations id="HDR_PrecautionsForCombinations" heading="fixing">
+      <PrecautionsForCombination>
+        <PrecautionsForCombi>
+          <WidthDefinition totalWidth="100%">
+            <Col width="34.02%" />
+            <Col width="34.45%" />
+            <Col width="31.51%" />
+          </WidthDefinition>
+          <Drug>
+            <DrugName>
+              <Detail>
+                <Lang xml:lang="ja">非経口用生ワクチン</Lang>
+              </Detail>
+              <SimpleList>
+                <Item>
+                  <Detail>
+                    <Lang xml:lang="ja">麻疹ワクチン<?enter?>おたふくかぜワクチン<?enter?>風疹ワクチン<?enter?>これら混合ワクチン<?enter?>水痘ワクチン等</Lang>
+                  </Detail>
+                </Item>
+              </SimpleList>
+            </DrugName>
+            <ClinSymptomsAndMeasures>
+              <Detail modified="今回">
+                <Lang xml:lang="ja">本剤の投与を受けた者は、生ワクチンの効果が得られないおそれがあるので、生ワクチンの接種は本剤投与後3ヵ月以上延期すること。また、生ワクチン接種後14日以内に本剤を投与した場合は、投与後3ヵ月以上経過した後に生ワクチンを再接種することが望ましい。<?enter?>なお、慢性炎症性脱髄性多発根神経炎及び多巣性運動ニューロパチーに対する大量療法（200mg/kg体重以上）後に生ワクチンを接種する場合は、原則として生ワクチンの接種を6ヵ月以上（麻疹感染の危険性が低い場合の麻疹ワクチン接種は11ヵ月以上）延期すること。</Lang>
+              </Detail>
+            </ClinSymptomsAndMeasures>
+            <MechanismAndRiskFactors>
+              <Detail>
+                <Lang xml:lang="ja">本剤の主成分は免疫抗体であるため、中和反応により生ワクチンの効果が減弱されるおそれがある。</Lang>
+              </Detail>
+            </MechanismAndRiskFactors>
+          </Drug>
+        </PrecautionsForCombi>
+      </PrecautionsForCombination>
+    </PrecautionsForCombinations>
+  </Interactions>
+  <!--１１.副作用-->
+  <AdverseEvents id="HDR_AdverseEvents" heading="fixing">
+    <CommonPrecautionsForAdverse>
+      <Lang xml:lang="ja">次の副作用があらわれることがあるので、観察を十分に行い、異常が認められた場合には投与を中止するなど適切な処置を行うこと。</Lang>
+    </CommonPrecautionsForAdverse>
+    <!--１１.１ 重大な副作用-->
+    <SeriousAdverseEvents id="HDR_SeriousAdverseEvents" heading="fixing">
+      <SeriousAdverse>
+        <OrderedList numberContinued="false">
+          <Item id="HDR_SeriousAdverse_1" heading="free">
+            <Header>
+              <Lang xml:lang="ja">アナフィラキシー反応（頻度不明）</Lang>
+            </Header>
+            <Detail>
+              <Lang xml:lang="ja">悪寒、全身紅潮、胸部不快感、頻脈、脈拍微弱、血圧低下、喘鳴、呼吸困難、チアノーゼ等異常が認められた場合には、直ちに投与を中止し、適切な処置を行うこと。</Lang>
+            </Detail>
+          </Item>
+          <Item id="HDR_SeriousAdverse_2" heading="free">
+            <Header>
+              <Lang xml:lang="ja">無菌性髄膜炎症候群（頻度不明）</Lang>
+            </Header>
+            <Detail>
+              <Lang xml:lang="ja">無菌性髄膜炎症候群（項部硬直、頭痛、発熱、羞明、悪心又は嘔吐等）があらわれることがある。</Lang>
+            </Detail>
+          </Item>
+          <Item id="HDR_SeriousAdverse_3" heading="free">
+            <Header>
+              <Lang xml:lang="ja">急性腎障害（頻度不明）</Lang>
+            </Header>
+            <Detail>
+              <Lang xml:lang="ja">腎機能検査値（BUN、血清クレアチニン等）の悪化、尿量減少が認められた場合には投与を中止し、適切な処置を行うこと。<HeaderRef ref="HDR_ImportantPrecautions_6" />,<HeaderRef ref="HDR_PatientsWithRenalImpairment_1" /></Lang>
+            </Detail>
+          </Item>
+          <Item id="HDR_SeriousAdverse_4" heading="free">
+            <Header modified="今回">
+              <Lang xml:lang="ja">血栓塞栓症（0.3%）</Lang>
+            </Header>
+            <Detail>
+              <Lang xml:lang="ja">血液粘度の上昇等により、脳梗塞、心筋梗塞、肺塞栓症、深部静脈血栓症等の血栓塞栓症があらわれることがある。中枢神経症状（めまい、意識障害、四肢麻痺等）、胸痛、突然の呼吸困難、息切れ、下肢の疼痛・浮腫等の症状が認められた場合には適切な処置を行うこと。<HeaderRef ref="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_3" />,<HeaderRef ref="HDR_UseInTheElderly" /></Lang>
+            </Detail>
+          </Item>
+          <Item id="HDR_SeriousAdverse_5" heading="free">
+            <Header modified="今回">
+              <Lang xml:lang="ja">肝機能障害、黄疸（1.0%）</Lang>
+            </Header>
+            <Detail>
+              <Lang xml:lang="ja">AST、ALT、Al-P、γ-GTP、LDH、ビリルビンの著しい上昇等を伴う肝機能障害、黄疸があらわれることがある。</Lang>
+            </Detail>
+          </Item>
+          <Item id="HDR_SeriousAdverse_6" heading="free">
+            <Header>
+              <Lang xml:lang="ja">血小板減少（頻度不明）</Lang>
+            </Header>
+          </Item>
+          <Item id="HDR_SeriousAdverse_7" heading="free">
+            <Header>
+              <Lang xml:lang="ja">肺水腫（頻度不明）</Lang>
+            </Header>
+            <Detail>
+              <Lang xml:lang="ja">呼吸困難等の症状があらわれた場合には投与を中止し、適切な処置を行うこと。</Lang>
+            </Detail>
+          </Item>
+          <Item id="HDR_SeriousAdverse_8" heading="free">
+            <Header>
+              <Lang xml:lang="ja">溶血性貧血（頻度不明）</Lang>
+            </Header>
+            <Detail>
+              <Lang xml:lang="ja">
+                <HeaderRef ref="HDR_ImportantPrecautions_5" />
+              </Lang>
+            </Detail>
+          </Item>
+        </OrderedList>
+      </SeriousAdverse>
+    </SeriousAdverseEvents>
+    <!--１１.２ その他の副作用-->
+    <OtherAdverseEvents id="HDR_OtherAdverseEvents" heading="fixing">
+      <OtherAdverseEvent>
+        <OtherAdverse>
+          <WidthDefinition totalWidth="100%">
+            <Col width="18.2%" />
+            <Col width="20.45%" />
+            <Col width="20.45%" />
+            <Col width="20.45%" />
+            <Col width="20.45%" />
+          </WidthDefinition>
+          <CategoryDefinition>
+            <Category id="OTHER1_TYPE1">
+              <Detail modified="今回">
+                <Lang xml:lang="ja">精神神経系</Lang>
+              </Detail>
+            </Category>
+            <Category id="OTHER1_TYPE2">
+              <Detail modified="今回">
+                <Lang xml:lang="ja">循環器</Lang>
+              </Detail>
+            </Category>
+            <Category id="OTHER1_TYPE3">
+              <Detail modified="今回">
+                <Lang xml:lang="ja">消化器</Lang>
+              </Detail>
+            </Category>
+            <Category id="OTHER1_TYPE4">
+              <Detail modified="今回">
+                <Lang xml:lang="ja">呼吸器</Lang>
+              </Detail>
+            </Category>
+            <Category id="OTHER1_TYPE5">
+              <Detail modified="今回">
+                <Lang xml:lang="ja">皮膚</Lang>
+              </Detail>
+            </Category>
+            <Category id="OTHER1_TYPE6">
+              <Detail modified="今回">
+                <Lang xml:lang="ja">筋・骨格系</Lang>
+              </Detail>
+            </Category>
+            <Category id="OTHER1_TYPE7">
+              <Detail modified="今回">
+                <Lang xml:lang="ja">投与部位</Lang>
+              </Detail>
+            </Category>
+            <Category id="OTHER1_TYPE8">
+              <Detail modified="今回">
+                <Lang xml:lang="ja">全身障害</Lang>
+              </Detail>
+            </Category>
+            <Category id="OTHER1_TYPE9">
+              <Detail modified="今回">
+                <Lang xml:lang="ja">臨床検査</Lang>
+              </Detail>
+            </Category>
+            <Category id="OTHER1_TYPE10">
+              <Detail modified="今回">
+                <Lang xml:lang="ja">その他</Lang>
+              </Detail>
+            </Category>
+          </CategoryDefinition>
+          <FrequencyDefinition>
+            <Frequency id="OTHER1_FRQ1">
+              <Detail>
+                <Lang xml:lang="ja">5%以上</Lang>
+              </Detail>
+            </Frequency>
+            <Frequency id="OTHER1_FRQ2">
+              <Detail>
+                <Lang xml:lang="ja">1%以上5%未満</Lang>
+              </Detail>
+            </Frequency>
+            <Frequency id="OTHER1_FRQ3">
+              <Detail>
+                <Lang xml:lang="ja">1%未満</Lang>
+              </Detail>
+            </Frequency>
+            <Frequency id="OTHER1_FRQ4">
+              <Detail>
+                <Lang xml:lang="ja">頻度不明</Lang>
+              </Detail>
+            </Frequency>
+          </FrequencyDefinition>
+          <AdverseReactions>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE1" frequencyRef="OTHER1_FRQ1">
+              <Detail>
+                <Lang xml:lang="ja">頭痛（21.6%）</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE1" frequencyRef="OTHER1_FRQ2">
+              <Detail>
+                <Lang xml:lang="ja">浮動性めまい、片頭痛</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE1" frequencyRef="OTHER1_FRQ3">
+              <Detail>
+                <Lang xml:lang="ja">嗜眠、錯感覚、振戦</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE2" frequencyRef="OTHER1_FRQ2">
+              <Detail>
+                <Lang xml:lang="ja">高血圧</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE2" frequencyRef="OTHER1_FRQ3">
+              <Detail>
+                <Lang xml:lang="ja">頻脈、低血圧</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE2" frequencyRef="OTHER1_FRQ4">
+              <Detail>
+                <Lang xml:lang="ja">洞性頻脈</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE3" frequencyRef="OTHER1_FRQ1">
+              <Detail>
+                <Lang xml:lang="ja">悪心</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE3" frequencyRef="OTHER1_FRQ2">
+              <Detail>
+                <Lang xml:lang="ja">嘔吐、腹痛、上腹部痛、腹部膨満、下腹部痛、下痢</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE3" frequencyRef="OTHER1_FRQ3">
+              <Detail>
+                <Lang xml:lang="ja">腹部圧痛</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE4" frequencyRef="OTHER1_FRQ3">
+              <Detail>
+                <Lang xml:lang="ja">呼吸困難</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE5" frequencyRef="OTHER1_FRQ2">
+              <Detail>
+                <Lang xml:lang="ja">紅斑、そう痒症、発疹</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE5" frequencyRef="OTHER1_FRQ3">
+              <Detail>
+                <Lang xml:lang="ja">紅斑性皮疹、じん麻疹、アレルギー性皮膚炎、斑状皮疹、斑状丘疹状皮疹、皮膚浮腫</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE5" frequencyRef="OTHER1_FRQ4">
+              <Detail>
+                <Lang xml:lang="ja">丘疹</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE6" frequencyRef="OTHER1_FRQ2">
+              <Detail>
+                <Lang xml:lang="ja">筋肉痛、関節痛、四肢痛、筋骨格系胸痛</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE6" frequencyRef="OTHER1_FRQ3">
+              <Detail>
+                <Lang xml:lang="ja">小結節、鼡径部痛、関節硬直、筋骨格硬直</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE6" frequencyRef="OTHER1_FRQ4">
+              <Detail>
+                <Lang xml:lang="ja">四肢不快感、背部痛</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE7" frequencyRef="OTHER1_FRQ1">
+              <Detail>
+                <Lang xml:lang="ja">注入部位反応（疼痛、紅斑、そう痒感、腫脹等）（54.8%）</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE7" frequencyRef="OTHER1_FRQ2">
+              <Detail>
+                <Lang xml:lang="ja">注入部位漏出</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE7" frequencyRef="OTHER1_FRQ3">
+              <Detail>
+                <Lang xml:lang="ja">熱感</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE8" frequencyRef="OTHER1_FRQ1">
+              <Detail>
+                <Lang xml:lang="ja">発熱、疲労</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE8" frequencyRef="OTHER1_FRQ2">
+              <Detail>
+                <Lang xml:lang="ja">疼痛、倦怠感、悪寒、無力症</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE8" frequencyRef="OTHER1_FRQ3">
+              <Detail>
+                <Lang xml:lang="ja">灼熱感、多汗症</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE9" frequencyRef="OTHER1_FRQ2">
+              <Detail>
+                <Lang xml:lang="ja">遊離ヘモグロビン陽性</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE9" frequencyRef="OTHER1_FRQ3">
+              <Detail>
+                <Lang xml:lang="ja">クームス試験陽性、ヘモジデリン尿症</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE10" frequencyRef="OTHER1_FRQ2">
+              <Detail>
+                <Lang xml:lang="ja">Infusion reaction<Sup>注）</Sup>、腫脹、限局性浮腫、浮腫、末梢性浮腫、末梢腫脹、性器浮腫、挫傷</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE10" frequencyRef="OTHER1_FRQ3">
+              <Detail>
+                <Lang xml:lang="ja">インフルエンザ様疾患、性器腫脹、外陰腟腫脹、副鼻腔炎、食欲減退、過敏症</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE10" frequencyRef="OTHER1_FRQ4">
+              <Detail>
+                <Lang xml:lang="ja">潮紅、蒼白、末梢冷感、顔面腫脹</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+          </AdverseReactions>
+        </OtherAdverse>
+        <ExplanatoryNotesForOtherAdverse>
+          <Lang xml:lang="ja">注）本剤投与中又は投与開始後短時間に発現した頭痛、疲労等</Lang>
+        </ExplanatoryNotesForOtherAdverse>
+      </OtherAdverseEvent>
+    </OtherAdverseEvents>
+  </AdverseEvents>
+  <!--１２.臨床検査結果に及ぼす影響-->
+  <InfluenceOnLaboratoryValues id="HDR_InfluenceOnLaboratoryValues" heading="fixing">
+    <Detail>
+      <Lang xml:lang="ja">本剤には供血者由来の各種抗体（各種感染症の病原体又はその産生物質に対する免疫抗体、自己抗体等）が含まれており、投与後の血中にこれらの免疫抗体が一時検出されることがあるので、臨床診断には注意を要する。また、供血者由来の赤血球型抗原に対する抗体（抗A、抗B及び抗D抗体）により、赤血球型同種抗体の血清学的検査（クームス試験）に干渉することがある。</Lang>
+    </Detail>
+  </InfluenceOnLaboratoryValues>
+  <!--１４.適用上の注意-->
+  <PrecautionsForApplication id="HDR_PrecautionsForApplication" heading="fixing">
+    <OtherInformation id="HDR_PrecautionsForApplication_OtherInformation_1" heading="free">
+      <Header>
+        <Lang xml:lang="ja">薬剤調製時の注意</Lang>
+      </Header>
+      <OrderedList numberContinued="false">
+        <Item id="HDR_PrecautionsForApplication_OtherInformation_1_1" heading="free">
+          <Detail>
+            <Lang xml:lang="ja">使用前に室温に戻し、室温に戻した後は、再び冷蔵庫に戻さず、3ヵ月以内に使用すること。</Lang>
+          </Detail>
+        </Item>
+        <Item id="HDR_PrecautionsForApplication_OtherInformation_1_2" heading="free">
+          <Detail>
+            <Lang xml:lang="ja">不溶物又は変色が認められるものは使用しないこと。本剤を振盪しないこと。</Lang>
+          </Detail>
+        </Item>
+        <Item id="HDR_PrecautionsForApplication_OtherInformation_1_3" heading="free">
+          <Detail>
+            <Lang xml:lang="ja">ボルヒアルロニダーゼ　アルファ（遺伝子組換え）注射液と人免疫グロブリン注射液を混合しないこと。また、他の製剤との混注を避けること。本剤を希釈しないこと。<HeaderRef ref="HDR_InfoPrecautionsDosage_2" /></Lang>
+          </Detail>
+        </Item>
+        <Item id="HDR_PrecautionsForApplication_OtherInformation_1_4" heading="free">
+          <Detail>
+            <Lang xml:lang="ja">本剤は開封後できるだけ速やかに使用すること。また、使用後の残液は、細菌汚染のおそれがあるので再使用しないこと。</Lang>
+          </Detail>
+        </Item>
+      </OrderedList>
+    </OtherInformation>
+    <OtherInformation id="HDR_PrecautionsForApplication_OtherInformation_2" heading="free">
+      <Header>
+        <Lang xml:lang="ja">薬剤投与時の注意</Lang>
+      </Header>
+      <OrderedList numberContinued="false">
+        <Item id="HDR_PrecautionsForApplication_OtherInformation_2_1" heading="free">
+          <Detail>
+            <Lang xml:lang="ja">ボルヒアルロニダーゼ　アルファ（遺伝子組換え）注射液については、輸液ポンプ等又は手動にて投与すること。</Lang>
+          </Detail>
+        </Item>
+        <Item id="HDR_PrecautionsForApplication_OtherInformation_2_2" heading="free">
+          <Detail>
+            <Lang xml:lang="ja">人免疫グロブリン注射液については、投与速度の調節可能な輸液ポンプ等を用いて投与すること。</Lang>
+          </Detail>
+        </Item>
+        <Item id="HDR_PrecautionsForApplication_OtherInformation_2_3" heading="free">
+          <Detail>
+            <Lang xml:lang="ja">本剤は腹部中央から上腹部及び大腿部等に皮下投与すること。2ヵ所又は3ヵ所から投与する場合、各注入部位は腹部中央から上腹部の反対側で10cm以上の間隔をあけるか、反対側の大腿部とすること。骨の隆起、瘢痕、炎症又は感染のある部位は避けること。<HeaderRef ref="HDR_InfoPrecautionsDosage_9" /></Lang>
+          </Detail>
+        </Item>
+        <Item id="HDR_PrecautionsForApplication_OtherInformation_2_4" heading="free">
+          <Detail>
+            <Lang xml:lang="ja">投与部位は3ヵ所までとし、1日あたりの人免疫グロブリン注射液の投与部位あたりの最大投与容量は下表に従うこと。<HeaderRef ref="HDR_InfoPrecautionsDosage_9" />,<HeaderRef ref="HDR_InfoPrecautionsDosage_8" />,<HeaderRef ref="HDR_InfoPrecautionsDosage_14" /></Lang>
+          </Detail>
+          <TblBlock>
+            <TblCaption align="top">
+              <Lang xml:lang="ja">1日あたりの人免疫グロブリン注射液の投与部位あたりの最大投与容量</Lang>
+            </TblCaption>
+            <WidthDefinition totalWidth="100%">
+              <Col width="23.32%" />
+              <Col width="38.33%" />
+              <Col width="38.33%" />
+            </WidthDefinition>
+            <SimpleTable>
+              <SimpTblRow>
+                <SimpTblCell align="left" valign="top" rspan="2">
+                  <Detail>
+                    <Lang xml:lang="ja">投与部位数</Lang>
+                  </Detail>
+                </SimpTblCell>
+                <SimpTblCell align="center" valign="top" cspan="2">
+                  <Detail>
+                    <Lang xml:lang="ja">1日あたりの人免疫グロブリン注射液の<?enter?>投与部位あたりの最大投与容量（mL）</Lang>
+                  </Detail>
+                </SimpTblCell>
+              </SimpTblRow>
+              <SimpTblRow>
+                <SimpTblCell align="left" valign="top">
+                  <Detail>
+                    <Lang xml:lang="ja">体重40kg未満の患者</Lang>
+                  </Detail>
+                </SimpTblCell>
+                <SimpTblCell align="left" valign="top">
+                  <Detail>
+                    <Lang xml:lang="ja">体重40kg以上の患者</Lang>
+                  </Detail>
+                </SimpTblCell>
+              </SimpTblRow>
+              <SimpTblRow>
+                <SimpTblCell align="left" valign="top">
+                  <Detail>
+                    <Lang xml:lang="ja">1ヵ所</Lang>
+                  </Detail>
+                </SimpTblCell>
+                <SimpTblCell align="left" valign="top">
+                  <Detail>
+                    <Lang xml:lang="ja">300</Lang>
+                  </Detail>
+                </SimpTblCell>
+                <SimpTblCell align="left" valign="top">
+                  <Detail>
+                    <Lang xml:lang="ja">600</Lang>
+                  </Detail>
+                </SimpTblCell>
+              </SimpTblRow>
+              <SimpTblRow>
+                <SimpTblCell align="left" valign="top">
+                  <Detail>
+                    <Lang xml:lang="ja">2ヵ所</Lang>
+                  </Detail>
+                </SimpTblCell>
+                <SimpTblCell align="left" valign="top">
+                  <Detail>
+                    <Lang xml:lang="ja">300</Lang>
+                  </Detail>
+                </SimpTblCell>
+                <SimpTblCell align="left" valign="top">
+                  <Detail>
+                    <Lang xml:lang="ja">600</Lang>
+                  </Detail>
+                </SimpTblCell>
+              </SimpTblRow>
+              <SimpTblRow>
+                <SimpTblCell align="left" valign="top">
+                  <Detail>
+                    <Lang xml:lang="ja">3ヵ所</Lang>
+                  </Detail>
+                </SimpTblCell>
+                <SimpTblCell align="left" valign="top">
+                  <Detail>
+                    <Lang xml:lang="ja">200</Lang>
+                  </Detail>
+                </SimpTblCell>
+                <SimpTblCell align="left" valign="top">
+                  <Detail>
+                    <Lang xml:lang="ja">400</Lang>
+                  </Detail>
+                </SimpTblCell>
+              </SimpTblRow>
+            </SimpleTable>
+          </TblBlock>
+        </Item>
+        <Item id="HDR_PrecautionsForApplication_OtherInformation_2_5" heading="free">
+          <Header>
+            <Lang xml:lang="ja">投与速度</Lang>
+          </Header>
+          <OrderedList numberContinued="false">
+            <Item id="HDR_PrecautionsForApplication_OtherInformation_2_6" heading="free">
+              <Detail>
+                <Lang xml:lang="ja">ボルヒアルロニダーゼ　アルファ（遺伝子組換え）注射液の投与速度は、投与部位あたり1～2mL/分、又は忍容性に応じて調整すること。人免疫グロブリン注射液は、ボルヒアルロニダーゼ　アルファ（遺伝子組換え）注射液の注入終了後約10分以内に同じ翼状針から投与すること。</Lang>
+              </Detail>
+            </Item>
+            <Item id="HDR_PrecautionsForApplication_OtherInformation_2_7" heading="free">
+              <Detail>
+                <Lang xml:lang="ja">人免疫グロブリン注射液の投与部位あたりの投与速度は、最初の4回又は5回の投与では下表に従うこと。以降の投与は患者の状態に応じて適宜調整すること。<HeaderRef ref="HDR_InfoPrecautionsDosage_9" /></Lang>
+              </Detail>
+              <TblBlock>
+                <TblCaption align="top">
+                  <Lang xml:lang="ja">人免疫グロブリン注射液の投与部位あたりの投与速度<?enter?>（最初の2回の投与）</Lang>
+                </TblCaption>
+                <WidthDefinition totalWidth="100%">
+                  <Col width="23.32%" />
+                  <Col width="38.33%" />
+                  <Col width="38.33%" />
+                </WidthDefinition>
+                <SimpleTable>
+                  <SimpTblRow>
+                    <SimpTblCell align="left" valign="top" rspan="2">
+                      <Detail>
+                        <Lang xml:lang="ja">投与開始後の経過時間</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="top" cspan="2">
+                      <Detail>
+                        <Lang xml:lang="ja">人免疫グロブリン注射液の<?enter?>投与部位あたりの投与速度（mL/時間）</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                  <SimpTblRow>
+                    <SimpTblCell align="left" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">体重40kg未満の患者</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="left" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">体重40kg以上の患者</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                  <SimpTblRow>
+                    <SimpTblCell align="left" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">最初の5～15分</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="left" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">5</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="left" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">10</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                  <SimpTblRow>
+                    <SimpTblCell align="left" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">次の5～15分</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="left" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">10</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="left" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">30</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                  <SimpTblRow>
+                    <SimpTblCell align="left" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">次の5～15分</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="left" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">20</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="left" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">60</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                  <SimpTblRow>
+                    <SimpTblCell align="left" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">次の5～15分</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="left" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">40</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="left" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">120</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                  <SimpTblRow>
+                    <SimpTblCell align="left" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">残りの投与</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="left" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">80</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="left" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">240</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                </SimpleTable>
+              </TblBlock>
+              <TblBlock>
+                <TblCaption align="top">
+                  <Lang xml:lang="ja">人免疫グロブリン注射液の投与部位あたりの投与速度<?enter?>（その後の2回又は3回の投与）</Lang>
+                </TblCaption>
+                <WidthDefinition totalWidth="100%">
+                  <Col width="23.32%" />
+                  <Col width="38.33%" />
+                  <Col width="38.33%" />
+                </WidthDefinition>
+                <SimpleTable>
+                  <SimpTblRow>
+                    <SimpTblCell align="left" valign="top" rspan="2">
+                      <Detail>
+                        <Lang xml:lang="ja">投与開始後の経過時間</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="top" cspan="2">
+                      <Detail>
+                        <Lang xml:lang="ja">人免疫グロブリン注射液の<?enter?>投与部位あたりの投与速度（mL/時間）</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                  <SimpTblRow>
+                    <SimpTblCell align="left" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">体重40kg未満の患者</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="left" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">体重40kg以上の患者</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                  <SimpTblRow>
+                    <SimpTblCell align="left" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">最初の5～15分</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="left" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">10</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="left" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">10</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                  <SimpTblRow>
+                    <SimpTblCell align="left" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">次の5～15分</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="left" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">20</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="left" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">30</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                  <SimpTblRow>
+                    <SimpTblCell align="left" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">次の5～15分</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="left" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">40</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="left" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">120</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                  <SimpTblRow>
+                    <SimpTblCell align="left" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">次の5～15分</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="left" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">80</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="left" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">240</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                  <SimpTblRow>
+                    <SimpTblCell align="left" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">残りの投与</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="left" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">160</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="left" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">300</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                </SimpleTable>
+              </TblBlock>
+            </Item>
+          </OrderedList>
+        </Item>
+      </OrderedList>
+    </OtherInformation>
+  </PrecautionsForApplication>
+  <!--１５.その他の注意-->
+  <OtherPrecautions id="HDR_OtherPrecautions" heading="fixing">
+    <!--１５.１ 臨床使用に基づく情報-->
+    <InformationBasedOnClinicalUse id="HDR_InformationBasedOnClinicalUse" heading="fixing">
+      <Detail modified="今回">
+        <Lang xml:lang="ja">国内外臨床試験（9試験）において、11.9%（37／310例）に、ボルヒアルロニダーゼ　アルファ（遺伝子組換え）に対する結合抗体が認められた。結合抗体は、成人男性の精巣、精巣上体及び精子に発現することが知られている内因性ヒアルロニダーゼと交差反応を呈する可能性がある。結合抗体のヒトにおける臨床的意義は不明である。また、国内外臨床試験（9試験）において、ボルヒアルロニダーゼ　アルファ（遺伝子組換え）に対する中和抗体陽性が0.6%（2/310例）で検出されたが、中和抗体陽性に関連する有効性及び安全性の問題は認められなかった。</Lang>
+      </Detail>
+    </InformationBasedOnClinicalUse>
+  </OtherPrecautions>
+  <!--１６.薬物動態-->
+  <Pharmacokinetics id="HDR_Pharmacokinetics" heading="fixing">
+    <!--１６.１ 血中濃度-->
+    <BloodLevel id="HDR_BloodLevel" heading="fixing">
+      <SimpleList>
+        <Item>
+          <Header>
+            <Lang xml:lang="ja">〈無又は低ガンマグロブリン血症〉</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">2歳以上の日本人原発性免疫不全症候群患者16例を対象に、本剤を3週間隔（平均投与量：IgGとして92.2mg/kg/週、範囲：52.0～129.6mg/kg/週）又は4週間隔（平均投与量：IgGとして120.6mg/kg/週、範囲：55.8～179.8mg/kg/週）で皮下投与した際の定常状態（本剤投与開始19週目以降）における血清中IgGトラフ濃度推移は以下のとおりであった。<?enter?>なお、本剤を3週間隔又は4週間隔で皮下投与した際の平均血清中IgGトラフ値は、それぞれ13.25g/L（2例：本剤投与開始28週目）又は9.343g/L（12例：本剤投与開始31週目）であった。</Lang>
+          </Detail>
+          <Graphic>
+            <GraphicBody gfname="400256_6343501A1025_fig01.gif" />
+            <GraphicCaption>
+              <Lang xml:lang="ja">本剤を3週間隔又は4週間隔で皮下投与した際の血清中IgGトラフ濃度推移</Lang>
+            </GraphicCaption>
+          </Graphic>
+          <Detail>
+            <Lang xml:lang="ja">12歳以上の日本人原発性免疫不全症候群患者4例を対象に、本剤を4週間隔で皮下投与（平均投与量：IgGとして452mg/kg、範囲：313～768mg/kg）した際の定常状態（本剤投与開始23週目又は27週目）における血清中IgGの薬物動態パラメータは以下のとおりであった<ReferenceBookRef ref="DOC_01" />。</Lang>
+          </Detail>
+          <TblBlock>
+            <TblCaption align="top">
+              <Lang xml:lang="ja">本剤を4週間隔で皮下投与した際の血清中IgGの薬物動態パラメータ（n=4）</Lang>
+            </TblCaption>
+            <WidthDefinition totalWidth="100%">
+              <Col width="20%" />
+              <Col width="20%" />
+              <Col width="20%" />
+              <Col width="20%" />
+              <Col width="20%" />
+            </WidthDefinition>
+            <SimpleTable>
+              <SimpTblRow>
+                <SimpTblCell align="center" valign="middle">
+                  <Detail>
+                    <Lang xml:lang="ja">AUC<Sub>0-τ</Sub>/week<?enter?>（g・day/L）</Lang>
+                  </Detail>
+                </SimpTblCell>
+                <SimpTblCell align="center" valign="middle">
+                  <Detail>
+                    <Lang xml:lang="ja">C<Sub>max</Sub><?enter?>（g/L）</Lang>
+                  </Detail>
+                </SimpTblCell>
+                <SimpTblCell align="center" valign="middle">
+                  <Detail>
+                    <Lang xml:lang="ja">C<Sub>min</Sub><?enter?>（g/L）</Lang>
+                  </Detail>
+                </SimpTblCell>
+                <SimpTblCell align="center" valign="middle">
+                  <Detail>
+                    <Lang xml:lang="ja">T<Sub>max</Sub><?enter?>（day）</Lang>
+                  </Detail>
+                </SimpTblCell>
+                <SimpTblCell align="center" valign="middle">
+                  <Detail>
+                    <Lang xml:lang="ja">CL/F<?enter?>（mL/day/kg）</Lang>
+                  </Detail>
+                </SimpTblCell>
+              </SimpTblRow>
+              <SimpTblRow>
+                <SimpTblCell align="center" valign="middle">
+                  <Detail>
+                    <Lang xml:lang="ja">81.98（17.6）</Lang>
+                  </Detail>
+                </SimpTblCell>
+                <SimpTblCell align="center" valign="middle">
+                  <Detail>
+                    <Lang xml:lang="ja">12.72（23.4）</Lang>
+                  </Detail>
+                </SimpTblCell>
+                <SimpTblCell align="center" valign="middle">
+                  <Detail>
+                    <Lang xml:lang="ja">9.347（17.9）</Lang>
+                  </Detail>
+                </SimpTblCell>
+                <SimpTblCell align="center" valign="middle">
+                  <Detail>
+                    <Lang xml:lang="ja">6.94<?enter?>[2.94, 8.85]</Lang>
+                  </Detail>
+                </SimpTblCell>
+                <SimpTblCell align="center" valign="middle">
+                  <Detail>
+                    <Lang xml:lang="ja">1.302（40.0）</Lang>
+                  </Detail>
+                </SimpTblCell>
+              </SimpTblRow>
+            </SimpleTable>
+            <SimpTblFoot align="left">
+              <Detail>
+                <Lang xml:lang="ja">幾何平均値（CV%）、T<Sub>max</Sub>は中央値[最小値, 最大値]、AUC<Sub>0-τ</Sub>/week及びCL/Fの例数は3例</Lang>
+              </Detail>
+            </SimpTblFoot>
+          </TblBlock>
+        </Item>
+        <Item>
+          <Header>
+            <Lang xml:lang="ja">〈慢性炎症性脱髄性多発根神経炎及び多巣性運動ニューロパチーの運動機能低下の進行抑制〉</Lang>
+          </Header>
+          <Detail modified="今回">
+            <Lang xml:lang="ja">日本人慢性炎症性脱髄性多発根神経炎患者19例及び多巣性運動ニューロパチー患者7例を対象に本剤を3週又は4週間間隔で皮下投与した際の投与6ヵ月目の血清中IgGトラフ濃度は、慢性炎症性脱髄性多発根神経炎患者（平均投与量：IgGとして1.24g/kg/月、範囲：0.71～1.64g/kg/月）においては17.39g/L、多巣性運動ニューロパチー患者（平均投与量：IgGとして1.20g/kg/月、範囲：0.85～1.46g/kg/月）においては15.64g/Lであり、本剤投与期間中を通して血清中IgGトラフ濃度は維持された<ReferenceBookRef ref="DOC_08" /><Sup>,</Sup><ReferenceBookRef ref="DOC_09" />。</Lang>
+          </Detail>
+        </Item>
+      </SimpleList>
+    </BloodLevel>
+  </Pharmacokinetics>
+  <!--１７.臨床成績-->
+  <ResultsOfClinicalTrials id="HDR_ResultsOfClinicalTrials" heading="fixing">
+    <!--１７.１ 有効性及び安全性に関する試験-->
+    <EfficacyAndSafety id="HDR_EfficacyAndSafety" heading="fixing">
+      <SimpleList>
+        <Item>
+          <Header>
+            <Lang xml:lang="ja">〈無又は低ガンマグロブリン血症〉</Lang>
+          </Header>
+          <OrderedList numberContinued="false">
+            <Item id="HDR_EfficacyAndSafety_1" heading="free">
+              <Header>
+                <Lang xml:lang="ja">国内第Ⅲ相試験</Lang>
+              </Header>
+              <Detail>
+                <Lang xml:lang="ja">2歳以上の原発性免疫不全症候群患者計16例を対象とし、本剤の投与量（初回投与は1週相当量）及び投与間隔（初回は1週間）を漸増したのちに3週又は4週間隔で24週間皮下投与した。本剤投与中の1週あたりの平均投与量は115mg/kg体重であった<Sup>注）</Sup>。<?enter?>最後の3回の来院におけるIgGトラフ値の幾何平均値は9.494g/Lであり、静注又は皮下注用人免疫グロブリン製剤による治療（IgGトラフ値の幾何平均値9.624g/L）と比較し同程度に維持された。本剤で治療中に発生した急性の重篤な細菌感染はなかった。全ての感染症は2.74件/人・年であった。<?enter?>本剤投与中の副作用は16例中11例（68.8%）に104件認められ、主な副作用は発熱5例（31.3%）、並びに注入部位紅斑、注射部位紅斑、注入部位腫脹、注入部位疼痛及び頭痛2例（各12.5%）であった<ReferenceBookRef ref="DOC_01" />。</Lang>
+              </Detail>
+            </Item>
+            <Item id="HDR_EfficacyAndSafety_2" heading="free">
+              <Header>
+                <Lang xml:lang="ja">海外第Ⅲ相試験（北米）</Lang>
+              </Header>
+              <Detail>
+                <Lang xml:lang="ja">2歳以上の原発性免疫不全症候群患者計83例を対象とし、本剤の投与量（初回投与は1週相当量）及び投与間隔（初回は1週間）を漸増したのちに3週又は4週間隔で14ヵ月間皮下投与した<Sup>注）</Sup>。漸増期間後の1週あたりの平均投与量は155mg/kg体重であった。漸増期間後に発生した急性の重篤な細菌感染は0.025件/人・年、全ての感染症は2.97件/人・年であった。<?enter?>本剤投与中（漸増期間を除く）の副作用は81例中58例（71.6%）に384件認められ、主な副作用は注入部位疼痛（32.1%）であった<ReferenceBookRef ref="DOC_02" /><Sup>,</Sup><ReferenceBookRef ref="DOC_03" />。</Lang>
+              </Detail>
+            </Item>
+          </OrderedList>
+        </Item>
+        <Item>
+          <Header>
+            <Lang xml:lang="ja">〈慢性炎症性脱髄性多発根神経炎及び多巣性運動ニューロパチーの運動機能低下の進行抑制〉</Lang>
+          </Header>
+          <OrderedList numberContinued="true">
+            <Item id="HDR_EfficacyAndSafety_3" heading="free">
+              <Header modified="今回">
+                <Lang xml:lang="ja">国内第Ⅲ相試験</Lang>
+              </Header>
+              <Detail>
+                <Lang xml:lang="ja">IVIGの治療により状態が安定していた18歳以上の慢性炎症性脱髄性多発根神経炎患者及び多巣性運動ニューロパチー患者それぞれ19例及び7例を対象に、本剤を漸増したのちに、IgGの投与量として1ヵ月あたり0.4～2.4g/kgの用量で本剤を3又は4週間間隔で12ヵ月間皮下投与した<Sup>注）</Sup>。<?enter?>その結果、慢性炎症性脱髄性多発根神経炎患者に対する主要評価項目である投与6ヵ月目までにおける再発率（調整INCATスコアでベースラインスコアから1ポイント以上増加した被験者の割合）[95%信頼区間]は0%[0.00, 17.65]であり、その95%信頼区間の上限は事前に規定した閾値である57%より低かった。<?enter?>また、多巣性運動ニューロパチー患者に対する主要評価項目である投与6ヵ月目における、より障害が認められる手の最大握力値の皮下投与前のベースラインからの変化量の中央値は、0.0kPa（範囲：−16～18kPa）、算術平均値（標準偏差）は−1.1（12.73）kPaであった。<?enter?>副作用は26例中18例（69.2%）に認められ、主な副作用は注入部位紅斑9例（34.6%）、頭痛5例（19.2%）、投与部位疼痛4例（15.4%）並びに注射部位そう痒感、注射部位腫脹、発熱及びそう痒症各3例（11.5%）であった<ReferenceBookRef ref="DOC_10" />。</Lang>
+              </Detail>
+            </Item>
+            <Item id="HDR_EfficacyAndSafety_4" heading="free">
+              <Header modified="今回">
+                <Lang xml:lang="ja">海外第Ⅲ相試験</Lang>
+              </Header>
+              <Detail>
+                <Lang xml:lang="ja">IVIGの治療により状態が安定していた18歳以上の慢性炎症性脱髄性多発根神経炎患者計132例を対象に、本剤（漸増したのちに、IgGの投与量として1ヵ月あたり0.4～2.4g/kgの用量）又はプラセボを2、3又は4週間間隔で6ヵ月間皮下投与した<Sup>注）</Sup>。その結果、主要評価項目である投与6ヵ月目までの再発率（調整INCATスコアで2回連続の評価でベースラインから1ポイント以上増加した被験者の割合）は、以下のとおりであった<ReferenceBookRef ref="DOC_11" />。</Lang>
+              </Detail>
+              <TblBlock>
+                <TblCaption align="top">
+                  <Lang xml:lang="ja">本試験期間中における再発率（有効性主要解析集団<Sup>a）</Sup>）</Lang>
+                </TblCaption>
+                <WidthDefinition totalWidth="100%">
+                  <Col width="20.45%" />
+                  <Col width="30.12%" />
+                  <Col width="32.81%" />
+                  <Col width="16.6%" />
+                </WidthDefinition>
+                <SimpleTable>
+                  <SimpTblRow>
+                    <SimpTblCell align="center" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">投与群</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">再発率<Sup>b）</Sup></Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">治療群間の差<?enter?>［95%信頼区間］<Sup>c）</Sup></Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">p値<Sup>d）</Sup></Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                  <SimpTblRow>
+                    <SimpTblCell align="center" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">プラセボ群</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">32.3%（21/65例）</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="top" rspan="2">
+                      <Detail>
+                        <Lang xml:lang="ja">−23.5<?enter?>［−36.60, −9.20］</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="top" rspan="2">
+                      <Detail>
+                        <Lang xml:lang="ja">0.0032</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                  <SimpTblRow>
+                    <SimpTblCell align="center" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">本剤群</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="top">
+                      <Detail>
+                        <Lang xml:lang="ja">8.8%（5/57例）</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                </SimpleTable>
+                <SimpTblFoot align="left">
+                  <Detail>
+                    <Lang xml:lang="ja">a）mITT集団のうち、原資料の管理に問題のあった治験実施施設1施設に組み入れられた被験者10例を除いた集団。<?enter?>b）再発判定が欠測であった被験者は再発なしとされた。<?enter?>c）信頼区間はNewcombe法に基づき算出。<?enter?>d）連続性補正をしたカイ二乗検定に基づくp値。有意水準は両側5%。</Lang>
+                  </Detail>
+                </SimpTblFoot>
+              </TblBlock>
+              <Detail>
+                <Lang xml:lang="ja">副作用は本剤群で62例中38例（61.3%）に認められ、主な副作用は悪心、注射部位紅斑及び注入部位紅斑（各9.7%、6/62例）であった<ReferenceBookRef ref="DOC_12" />。<?enter?>注）本剤を投与する際には、ボルヒアルロニダーゼ　アルファ（遺伝子組換え）を人免疫グロブリンG 1gあたり80単位皮下投与した後、人免疫グロブリンGを皮下投与することとされた。</Lang>
+              </Detail>
+            </Item>
+          </OrderedList>
+        </Item>
+      </SimpleList>
+    </EfficacyAndSafety>
+  </ResultsOfClinicalTrials>
+  <!--１８.薬効薬理-->
+  <EfficacyPharmacology id="HDR_EfficacyPharmacology" heading="fixing">
+    <!--１８.１ 作用機序-->
+    <MechanismOfAction id="HDR_MechanismOfAction" heading="fixing">
+      <OrderedList numberContinued="false">
+        <Item id="HDR_MechanismOfAction_1" heading="free">
+          <Header>
+            <Lang xml:lang="ja">人免疫グロブリンG</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">人免疫グロブリンGの作用機序は完全には解明されていない。</Lang>
+          </Detail>
+        </Item>
+        <Item id="HDR_MechanismOfAction_2" heading="free">
+          <Header>
+            <Lang xml:lang="ja">ボルヒアルロニダーゼ　アルファ（遺伝子組換え）</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">結合組織におけるヒアルロン酸の脱重合を介し、皮下組織の浸透性が増加することで、人免疫グロブリンGの拡散吸収が促進する<ReferenceBookRef ref="DOC_04" />。</Lang>
+          </Detail>
+        </Item>
+      </OrderedList>
+    </MechanismOfAction>
+    <OtherInformation id="HDR_EfficacyPharmacology_OtherInformation_1" heading="free">
+      <Header>
+        <Lang xml:lang="ja">薬理作用</Lang>
+      </Header>
+      <OrderedList numberContinued="false">
+        <Item id="HDR_EfficacyPharmacology_OtherInformation_1_1" heading="free">
+          <Header>
+            <Lang xml:lang="ja">抗体価</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">広範囲の細菌及びウイルスに対して抗体価を有する（<Italic>in vitro</Italic>）<ReferenceBookRef ref="DOC_05" />。</Lang>
+          </Detail>
+        </Item>
+        <Item id="HDR_EfficacyPharmacology_OtherInformation_1_2" heading="free">
+          <Header>
+            <Lang xml:lang="ja">オプソニン作用</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">大腸菌及びB群連鎖球菌に対してオプソニン作用が認められた（<Italic>in vitro</Italic>）<ReferenceBookRef ref="DOC_06" />。</Lang>
+          </Detail>
+        </Item>
+        <Item id="HDR_EfficacyPharmacology_OtherInformation_1_3" heading="free">
+          <Header>
+            <Lang xml:lang="ja">感染防御作用</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">マウスにおける肺炎球菌及び肺炎桿菌感染に対して防御作用が認められた<ReferenceBookRef ref="DOC_07" />。</Lang>
+          </Detail>
+        </Item>
+      </OrderedList>
+    </OtherInformation>
+  </EfficacyPharmacology>
+  <!--１９.有効成分に関する理化学的知見-->
+  <PhyschemOfActIngredients id="HDR_PhyschemOfActIngredients" heading="fixing">
+    <PhyschemOfActIngredientsSection>
+      <PhyschemOfActIngredientsSectionTitle>
+        <Lang xml:lang="ja">19.1 人免疫グロブリンG</Lang>
+      </PhyschemOfActIngredientsSectionTitle>
+      <GeneralName>
+        <Detail>
+          <Lang xml:lang="ja">pH4処理酸性人免疫グロブリン（皮下注射）（pH4-Treated Acidic Normal Human Immunoglobulin［Subcutaneous injection］）</Lang>
+        </Detail>
+      </GeneralName>
+      <Nature>
+        <Detail>
+          <Lang xml:lang="ja">グリシンを安定剤として含有する高濃度人免疫グロブリン。平均37μg/mLのIgAを含む。<?enter?>IgGサブクラスの分布は以下の通り。</Lang>
+        </Detail>
+        <SimpleList>
+          <Item>
+            <Detail>
+              <Lang xml:lang="ja">IgG1≧51.6%<?enter?>IgG2≧24.2%<?enter?>IgG3≧2.2%<?enter?>IgG4≧1.6%</Lang>
+            </Detail>
+          </Item>
+        </SimpleList>
+      </Nature>
+    </PhyschemOfActIngredientsSection>
+    <PhyschemOfActIngredientsSection>
+      <PhyschemOfActIngredientsSectionTitle>
+        <Lang xml:lang="ja">19.2 ボルヒアルロニダーゼ　アルファ（遺伝子組換え）</Lang>
+      </PhyschemOfActIngredientsSectionTitle>
+      <GeneralName>
+        <Detail>
+          <Lang xml:lang="ja">ボルヒアルロニダーゼ　アルファ（遺伝子組換え）（Vorhyaluronidase Alfa［Genetical Recombination］）〔JAN〕</Lang>
+        </Detail>
+      </GeneralName>
+      <MolecularWeight>
+        <Detail>
+          <Lang xml:lang="ja">60,000～65,000</Lang>
+        </Detail>
+      </MolecularWeight>
+      <Nature>
+        <Detail>
+          <Lang xml:lang="ja">遺伝子組換えヒトヒアルロニダーゼPH-20類縁体であり、ヒトヒアルロニダーゼPH-20のアミノ酸配列の36～482番目に相当する。チャイニーズハムスター卵巣細胞により産生される。447個のアミノ酸残基からなる糖タンパク質である。</Lang>
+        </Detail>
+      </Nature>
+    </PhyschemOfActIngredientsSection>
+  </PhyschemOfActIngredients>
+  <!--２０.取扱い上の注意-->
+  <PrecautionsForHandling id="HDR_PrecautionsForHandling" heading="fixing">
+    <OrderedList numberContinued="false">
+      <Item id="HDR_PrecautionsForHandling_1" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">本剤は特定生物由来製品に該当することから、本剤を投与した場合は、医薬品名（販売名）、製造番号、投与した日、投与を受けた患者の氏名、住所等を記録し、少なくとも20年間保存すること。</Lang>
+        </Detail>
+      </Item>
+      <Item id="HDR_PrecautionsForHandling_2" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">光の影響を防ぐために、薬剤バイアルは外箱に入れた状態で保存すること。</Lang>
+        </Detail>
+      </Item>
+    </OrderedList>
+  </PrecautionsForHandling>
+  <!--２１.承認条件-->
+  <ConditionsOfApproval id="HDR_ConditionsOfApproval" heading="fixing">
+    <Detail>
+      <Lang xml:lang="ja">医薬品リスク管理計画を策定の上、適切に実施すること。</Lang>
+    </Detail>
+  </ConditionsOfApproval>
+  <!--２２.包装-->
+  <Package id="HDR_Package" heading="fixing">
+    <SimpleList>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">〈ハイキュービア10%皮下注セット5g/50mL〉</Lang>
+        </Header>
+        <Detail>
+          <Lang xml:lang="ja">人免疫グロブリン注射液1瓶（人免疫グロブリンG 5g含有）、ボルヒアルロニダーゼ　アルファ（遺伝子組換え）注射液1瓶（ボルヒアルロニダーゼ　アルファ（遺伝子組換え）400単位含有）</Lang>
+        </Detail>
+      </Item>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">〈ハイキュービア10%皮下注セット10g/100mL〉</Lang>
+        </Header>
+        <Detail>
+          <Lang xml:lang="ja">人免疫グロブリン注射液1瓶（人免疫グロブリンG 10g含有）、ボルヒアルロニダーゼ　アルファ（遺伝子組換え）注射液1瓶（ボルヒアルロニダーゼ　アルファ（遺伝子組換え）800単位含有）</Lang>
+        </Detail>
+      </Item>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">〈ハイキュービア10%皮下注セット20g/200mL〉</Lang>
+        </Header>
+        <Detail>
+          <Lang xml:lang="ja">人免疫グロブリン注射液1瓶（人免疫グロブリンG 20g含有）、ボルヒアルロニダーゼ　アルファ（遺伝子組換え）注射液1瓶（ボルヒアルロニダーゼ　アルファ（遺伝子組換え）1600単位含有）</Lang>
+        </Detail>
+      </Item>
+    </SimpleList>
+  </Package>
+  <!--２３.主要文献-->
+  <MainLiterature id="HDR_MainLiterature" heading="fixing">
+    <Reference id="DOC_01">
+      <Lang xml:lang="ja">社内資料：国内第Ⅲ相試験（2024年12月27日承認、CTD2.7.6.3）</Lang>
+    </Reference>
+    <Reference id="DOC_08" modified="今回">
+      <Lang xml:lang="ja">社内資料：臨床的安全性（2025年6月24日承認、CTD2.7.4.1）</Lang>
+    </Reference>
+    <Reference id="DOC_09" modified="今回">
+      <Lang xml:lang="ja">社内資料：臨床薬理試験（2025年6月24日承認、CTD2.7.2.2）</Lang>
+    </Reference>
+    <Reference id="DOC_02">
+      <Lang xml:lang="ja">社内資料：海外第Ⅲ相試験（2024年12月27日承認、CTD2.7.6.4）</Lang>
+    </Reference>
+    <Reference id="DOC_03">
+      <Lang xml:lang="ja">社内資料：海外第Ⅲ相試験（2024年12月27日承認、CTD2.7.4.2）</Lang>
+    </Reference>
+    <Reference id="DOC_10" modified="今回">
+      <Lang xml:lang="ja">社内資料：国内第Ⅲ相試験（2025年6月24日承認、CTD2.7.6.5）</Lang>
+    </Reference>
+    <Reference id="DOC_11" modified="今回">
+      <Lang xml:lang="ja">社内資料：海外第Ⅲ相試験（2025年6月24日承認、CTD2.7.6.2）</Lang>
+    </Reference>
+    <Reference id="DOC_12" modified="今回">
+      <Lang xml:lang="ja">社内資料：臨床的安全性（2025年6月24日承認、CTD2.7.4.2）</Lang>
+    </Reference>
+    <Reference id="DOC_04">
+      <Lang xml:lang="ja">Wasserman RL：Immunotherapy. 2017；9：1035-50.</Lang>
+    </Reference>
+    <Reference id="DOC_05">
+      <Lang xml:lang="ja">Teschner W, et al.：Vox Sang. 2007；92：42-55.</Lang>
+    </Reference>
+    <Reference id="DOC_06">
+      <Lang xml:lang="ja">社内資料：オプソニン作用（2024年12月27日承認、CTD2.6.2.2）</Lang>
+    </Reference>
+    <Reference id="DOC_07">
+      <Lang xml:lang="ja">社内資料：感染防御作用（2024年12月27日承認、CTD 2.6.2.2）</Lang>
+    </Reference>
+  </MainLiterature>
+  <!--２４.文献請求先及び問い合わせ先-->
+  <AddresseeOfLiteratureRequest id="HDR_AddresseeOfLiteratureRequest" heading="fixing">
+    <AddresseeInfo>
+      <AddresseeOfInquiry>
+        <Lang xml:lang="ja">武田薬品工業株式会社　くすり相談室</Lang>
+      </AddresseeOfInquiry>
+      <Address>
+        <Lang xml:lang="ja">〒103-8668　東京都中央区日本橋本町二丁目1番1号</Lang>
+      </Address>
+      <ContactInformation>
+        <Detail>
+          <Lang xml:lang="ja">フリーダイヤル　0120-566-587<?enter?>受付時間　9：00〜17：30（土日祝日・弊社休業日を除く）</Lang>
+        </Detail>
+      </ContactInformation>
+    </AddresseeInfo>
+  </AddresseeOfLiteratureRequest>
+  <!--２６.製造販売業者等-->
+  <NameAddressManufact id="HDR_NameAddressManufact" heading="fixing">
+    <Manufacturer>
+      <TypeOfIndustry>
+        <Lang xml:lang="ja">製造販売（輸入）元</Lang>
+      </TypeOfIndustry>
+      <Name>
+        <Lang xml:lang="ja">武田薬品工業株式会社</Lang>
+      </Name>
+      <Address>
+        <Lang xml:lang="ja">〒540-8645　大阪市中央区道修町四丁目1番1号</Lang>
+      </Address>
+    </Manufacturer>
+  </NameAddressManufact>
+  <ReferenceInformation>
+    <Graphic>
+      <GraphicBody gfname="400256_6343501A1025_fig02.gif" />
+    </Graphic>
+  </ReferenceInformation>
+</PackIns>

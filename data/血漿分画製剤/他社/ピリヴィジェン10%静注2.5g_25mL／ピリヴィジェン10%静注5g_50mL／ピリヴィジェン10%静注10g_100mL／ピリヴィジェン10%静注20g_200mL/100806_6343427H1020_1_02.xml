@@ -1,0 +1,1719 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PackIns version="1.0" xmlKind="Packins" drugType="Medicine" referenceOfPrecautionsForUse="6343427-S0001" referenceOfPrecautionsForHandling="6343427-T0001" xmlns="http://info.pmda.go.jp/namespace/prescription_drugs/package_insert/1.0">
+  <PackageInsertNo>6343427H1020_1_02</PackageInsertNo>
+  <CompanyIdentifier>100806</CompanyIdentifier>
+  <!--ア.作成又は改訂年月-->
+  <DateOfPreparationOrRevision>
+    <PreparationOrRevision id="前回">
+      <YearMonth>2020-12</YearMonth>
+      <Version>
+        <Lang xml:lang="ja">第2版</Lang>
+      </Version>
+    </PreparationOrRevision>
+    <PreparationOrRevision id="今回">
+      <YearMonth>2021-10</YearMonth>
+      <Version>
+        <Lang xml:lang="ja">第3版</Lang>
+      </Version>
+    </PreparationOrRevision>
+  </DateOfPreparationOrRevision>
+  <!--イ.日本標準商品分類番号-->
+  <Sccj>
+    <SccjNo>876343</SccjNo>
+  </Sccj>
+  <!--オ.薬効分類名-->
+  <TherapeuticClassification>
+    <Detail>
+      <Lang xml:lang="ja">血漿分画製剤（液状静注用人免疫グロブリン製剤）</Lang>
+    </Detail>
+  </TherapeuticClassification>
+  <ApprovalEtc>
+    <DetailBrandName id="BRD_Drug4">
+      <ApprovalBrandName modified="前回">
+        <Lang xml:lang="ja">ピリヴィジェン10%静注2.5g/25mL</Lang>
+      </ApprovalBrandName>
+      <BrandCode>
+        <YJCode>6343427H1020</YJCode>
+      </BrandCode>
+      <TrademarkInEnglish>
+        <TrademarkName>Privigen 10% I.V. Injection 2.5g/25mL</TrademarkName>
+      </TrademarkInEnglish>
+      <BrandNameInHiragana>
+        <NameInHiragana>ぴりゔぃじぇん10%じょうちゅう</NameInHiragana>
+      </BrandNameInHiragana>
+      <!--ウ.承認番号-->
+      <ApprovalAndLicenseNo>
+        <ApprovalNo>30200AMX00452</ApprovalNo>
+      </ApprovalAndLicenseNo>
+      <!--ウ.販売開始年月-->
+      <StartingDateOfMarketing>2021-02</StartingDateOfMarketing>
+      <!--エ.貯法、有効期間-->
+      <Storage>
+        <StorageMethod>
+          <Lang xml:lang="ja">凍結を避けて2～25℃で保存</Lang>
+        </StorageMethod>
+        <ShelfLife>
+          <Lang xml:lang="ja">製造日から36箇月</Lang>
+        </ShelfLife>
+      </Storage>
+      <!--キ.基準名-->
+      <StandardName>
+        <StandardNameCategory>
+          <StandardNameCategoryCode>2</StandardNameCategoryCode>
+          <StandardNameDetail>
+            <Lang xml:lang="ja">pH4処理酸性人免疫グロブリン</Lang>
+          </StandardNameDetail>
+        </StandardNameCategory>
+      </StandardName>
+      <!--カ.規制区分-->
+      <RegulatoryClassification>
+        <RegulatoryClassificationCodeAndNote>
+          <RegulatoryClassificationCode>12</RegulatoryClassificationCode>
+        </RegulatoryClassificationCodeAndNote>
+        <RegulatoryClassificationCodeAndNote>
+          <RegulatoryClassificationCode>14</RegulatoryClassificationCode>
+        </RegulatoryClassificationCodeAndNote>
+      </RegulatoryClassification>
+    </DetailBrandName>
+    <DetailBrandName id="BRD_Drug1">
+      <ApprovalBrandName modified="前回">
+        <Lang xml:lang="ja">ピリヴィジェン10%静注5g/50mL</Lang>
+      </ApprovalBrandName>
+      <BrandCode>
+        <YJCode>6343427A7038</YJCode>
+      </BrandCode>
+      <TrademarkInEnglish>
+        <TrademarkName>Privigen 10% I.V. Injection 5g/50mL</TrademarkName>
+      </TrademarkInEnglish>
+      <BrandNameInHiragana>
+        <NameInHiragana>ぴりゔぃじぇん10%じょうちゅう</NameInHiragana>
+      </BrandNameInHiragana>
+      <!--ウ.承認番号-->
+      <ApprovalAndLicenseNo>
+        <ApprovalNo>30200AMX00418</ApprovalNo>
+      </ApprovalAndLicenseNo>
+      <!--ウ.販売開始年月-->
+      <StartingDateOfMarketing>2019-08</StartingDateOfMarketing>
+      <!--エ.貯法、有効期間-->
+      <Storage>
+        <StorageMethod>
+          <Lang xml:lang="ja">凍結を避けて2～25℃で保存</Lang>
+        </StorageMethod>
+        <ShelfLife>
+          <Lang xml:lang="ja">製造日から36箇月</Lang>
+        </ShelfLife>
+      </Storage>
+      <!--キ.基準名-->
+      <StandardName>
+        <StandardNameCategory>
+          <StandardNameCategoryCode>2</StandardNameCategoryCode>
+          <StandardNameDetail>
+            <Lang xml:lang="ja">pH4処理酸性人免疫グロブリン</Lang>
+          </StandardNameDetail>
+        </StandardNameCategory>
+      </StandardName>
+      <!--カ.規制区分-->
+      <RegulatoryClassification>
+        <RegulatoryClassificationCodeAndNote>
+          <RegulatoryClassificationCode>12</RegulatoryClassificationCode>
+        </RegulatoryClassificationCodeAndNote>
+        <RegulatoryClassificationCodeAndNote>
+          <RegulatoryClassificationCode>14</RegulatoryClassificationCode>
+        </RegulatoryClassificationCodeAndNote>
+      </RegulatoryClassification>
+    </DetailBrandName>
+    <DetailBrandName id="BRD_Drug2">
+      <ApprovalBrandName modified="前回">
+        <Lang xml:lang="ja">ピリヴィジェン10%静注10g/100mL</Lang>
+      </ApprovalBrandName>
+      <BrandCode>
+        <YJCode>6343427A8034</YJCode>
+      </BrandCode>
+      <TrademarkInEnglish>
+        <TrademarkName>Privigen 10% I.V. Injection 10g/100mL</TrademarkName>
+      </TrademarkInEnglish>
+      <BrandNameInHiragana>
+        <NameInHiragana>ぴりゔぃじぇん10%じょうちゅう</NameInHiragana>
+      </BrandNameInHiragana>
+      <!--ウ.承認番号-->
+      <ApprovalAndLicenseNo>
+        <ApprovalNo>30200AMX00419</ApprovalNo>
+      </ApprovalAndLicenseNo>
+      <!--ウ.販売開始年月-->
+      <StartingDateOfMarketing>2019-08</StartingDateOfMarketing>
+      <!--エ.貯法、有効期間-->
+      <Storage>
+        <StorageMethod>
+          <Lang xml:lang="ja">凍結を避けて2～25℃で保存</Lang>
+        </StorageMethod>
+        <ShelfLife>
+          <Lang xml:lang="ja">製造日から36箇月</Lang>
+        </ShelfLife>
+      </Storage>
+      <!--キ.基準名-->
+      <StandardName>
+        <StandardNameCategory>
+          <StandardNameCategoryCode>2</StandardNameCategoryCode>
+          <StandardNameDetail>
+            <Lang xml:lang="ja">pH4処理酸性人免疫グロブリン</Lang>
+          </StandardNameDetail>
+        </StandardNameCategory>
+      </StandardName>
+      <!--カ.規制区分-->
+      <RegulatoryClassification>
+        <RegulatoryClassificationCodeAndNote>
+          <RegulatoryClassificationCode>12</RegulatoryClassificationCode>
+        </RegulatoryClassificationCodeAndNote>
+        <RegulatoryClassificationCodeAndNote>
+          <RegulatoryClassificationCode>14</RegulatoryClassificationCode>
+        </RegulatoryClassificationCodeAndNote>
+      </RegulatoryClassification>
+    </DetailBrandName>
+    <DetailBrandName id="BRD_Drug3">
+      <ApprovalBrandName modified="前回">
+        <Lang xml:lang="ja">ピリヴィジェン10%静注20g/200mL</Lang>
+      </ApprovalBrandName>
+      <BrandCode>
+        <YJCode>6343427A9030</YJCode>
+      </BrandCode>
+      <TrademarkInEnglish>
+        <TrademarkName>Privigen 10% I.V. Injection 20g/200mL</TrademarkName>
+      </TrademarkInEnglish>
+      <BrandNameInHiragana>
+        <NameInHiragana>ぴりゔぃじぇん10%じょうちゅう</NameInHiragana>
+      </BrandNameInHiragana>
+      <!--ウ.承認番号-->
+      <ApprovalAndLicenseNo>
+        <ApprovalNo>30200AMX00420</ApprovalNo>
+      </ApprovalAndLicenseNo>
+      <!--ウ.販売開始年月-->
+      <StartingDateOfMarketing>2019-08</StartingDateOfMarketing>
+      <!--エ.貯法、有効期間-->
+      <Storage>
+        <StorageMethod>
+          <Lang xml:lang="ja">凍結を避けて2～25℃で保存</Lang>
+        </StorageMethod>
+        <ShelfLife>
+          <Lang xml:lang="ja">製造日から36箇月</Lang>
+        </ShelfLife>
+      </Storage>
+      <!--キ.基準名-->
+      <StandardName>
+        <StandardNameCategory>
+          <StandardNameCategoryCode>2</StandardNameCategoryCode>
+          <StandardNameDetail>
+            <Lang xml:lang="ja">pH4処理酸性人免疫グロブリン</Lang>
+          </StandardNameDetail>
+        </StandardNameCategory>
+      </StandardName>
+      <!--カ.規制区分-->
+      <RegulatoryClassification>
+        <RegulatoryClassificationCodeAndNote>
+          <RegulatoryClassificationCode>12</RegulatoryClassificationCode>
+        </RegulatoryClassificationCodeAndNote>
+        <RegulatoryClassificationCodeAndNote>
+          <RegulatoryClassificationCode>14</RegulatoryClassificationCode>
+        </RegulatoryClassificationCodeAndNote>
+      </RegulatoryClassification>
+    </DetailBrandName>
+  </ApprovalEtc>
+  <!--キ.一般的名称-->
+  <GenericName>
+    <Detail>
+      <Lang xml:lang="ja">pH4処理酸性人免疫グロブリン</Lang>
+    </Detail>
+  </GenericName>
+  <SpeciallyDescribedItems>
+    <Detail>
+      <Lang xml:lang="ja">本剤は、貴重なヒト血液を原料として製剤化したものである。原料となった血液を採取する際には、問診、感染症関連の検査を実施するとともに、製造工程における一定の不活化・除去処理などを実施し、感染症に対する安全対策を講じているが、ヒト血液を原料としていることによる感染症伝播のリスクを完全に排除することはできないため、疾病の治療上の必要性を十分に検討の上、必要最小限の使用にとどめること。</Lang>
+    </Detail>
+  </SpeciallyDescribedItems>
+  <!--２.禁忌（次の患者には投与しないこと）-->
+  <ContraIndications heading="fixing" id="HDR_ContraIndications">
+    <Detail>
+      <Lang xml:lang="ja">本剤の成分にショックの既往歴のある患者</Lang>
+    </Detail>
+  </ContraIndications>
+  <!--３.組成・性状-->
+  <CompositionAndProperty id="HDR_CompositionAndProperty" heading="fixing">
+    <!--３.１ 組成-->
+    <Composition id="HDR_Composition" heading="fixing">
+      <CompositionForBrand ref="BRD_Drug4">
+        <CompositionForConstituentUnits>
+          <CompositionTable>
+            <ContainedAmount>
+              <ActiveIngredientName modified="前回">
+                <Lang xml:lang="ja">人免疫グロブリンG</Lang>
+              </ActiveIngredientName>
+              <ValueAndUnit>
+                <Lang xml:lang="ja">2.5g</Lang>
+              </ValueAndUnit>
+            </ContainedAmount>
+            <Additives>
+              <IndividualAdditives>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive modified="前回">
+                    <Lang xml:lang="ja">L-プロリン</Lang>
+                  </IndividualAdditive>
+                  <ValueAndUnit>
+                    <Lang xml:lang="ja">0.72g</Lang>
+                  </ValueAndUnit>
+                </InfoIndividualAdditive>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive modified="前回">
+                    <Lang xml:lang="ja">pH調節剤</Lang>
+                  </IndividualAdditive>
+                </InfoIndividualAdditive>
+              </IndividualAdditives>
+            </Additives>
+            <OtherComposition>
+              <CategoryName>
+                <Lang xml:lang="ja">備考</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail modified="前回">
+                  <Lang xml:lang="ja">ヒト血液由来成分<?enter?>採血国：ドイツ、オーストリア、ポーランド<?enter?>採血の区分<CommentRef ref="TBLFN_01" /> ：献血<?enter?>及び<?enter?>採血国：米国、スイス<?enter?>採血の区分<CommentRef ref="TBLFN_01" /> ：非献血</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherComposition>
+          </CompositionTable>
+        </CompositionForConstituentUnits>
+      </CompositionForBrand>
+      <CompositionForBrand ref="BRD_Drug1">
+        <CompositionForConstituentUnits>
+          <CompositionTable>
+            <ContainedAmount>
+              <ActiveIngredientName>
+                <Lang xml:lang="ja">人免疫グロブリンG</Lang>
+              </ActiveIngredientName>
+              <ValueAndUnit>
+                <Lang xml:lang="ja">5g</Lang>
+              </ValueAndUnit>
+            </ContainedAmount>
+            <Additives>
+              <IndividualAdditives>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">L-プロリン</Lang>
+                  </IndividualAdditive>
+                  <ValueAndUnit>
+                    <Lang xml:lang="ja">1.44g</Lang>
+                  </ValueAndUnit>
+                </InfoIndividualAdditive>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">pH調節剤</Lang>
+                  </IndividualAdditive>
+                </InfoIndividualAdditive>
+              </IndividualAdditives>
+            </Additives>
+            <OtherComposition>
+              <CategoryName>
+                <Lang xml:lang="ja">備考</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail>
+                  <Lang xml:lang="ja">ヒト血液由来成分<?enter?>採血国：ドイツ、オーストリア、ポーランド<?enter?>採血の区分<CommentRef ref="TBLFN_01" /> ：献血<?enter?>及び<?enter?>採血国：米国、スイス<?enter?>採血の区分<CommentRef ref="TBLFN_01" /> ：非献血</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherComposition>
+          </CompositionTable>
+        </CompositionForConstituentUnits>
+      </CompositionForBrand>
+      <CompositionForBrand ref="BRD_Drug2">
+        <CompositionForConstituentUnits>
+          <CompositionTable>
+            <ContainedAmount>
+              <ActiveIngredientName>
+                <Lang xml:lang="ja">人免疫グロブリンG</Lang>
+              </ActiveIngredientName>
+              <ValueAndUnit>
+                <Lang xml:lang="ja">10g</Lang>
+              </ValueAndUnit>
+            </ContainedAmount>
+            <Additives>
+              <IndividualAdditives>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">L-プロリン</Lang>
+                  </IndividualAdditive>
+                  <ValueAndUnit>
+                    <Lang xml:lang="ja">2.88g</Lang>
+                  </ValueAndUnit>
+                </InfoIndividualAdditive>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">pH調節剤</Lang>
+                  </IndividualAdditive>
+                </InfoIndividualAdditive>
+              </IndividualAdditives>
+            </Additives>
+            <OtherComposition>
+              <CategoryName>
+                <Lang xml:lang="ja">備考</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail>
+                  <Lang xml:lang="ja">ヒト血液由来成分<?enter?>採血国：ドイツ、オーストリア、ポーランド<?enter?>採血の区分<CommentRef ref="TBLFN_01" /> ：献血<?enter?>及び<?enter?>採血国：米国、スイス<?enter?>採血の区分<CommentRef ref="TBLFN_01" /> ：非献血</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherComposition>
+          </CompositionTable>
+        </CompositionForConstituentUnits>
+      </CompositionForBrand>
+      <CompositionForBrand ref="BRD_Drug3">
+        <CompositionForConstituentUnits>
+          <CompositionTable>
+            <ContainedAmount>
+              <ActiveIngredientName>
+                <Lang xml:lang="ja">人免疫グロブリンG</Lang>
+              </ActiveIngredientName>
+              <ValueAndUnit>
+                <Lang xml:lang="ja">20g</Lang>
+              </ValueAndUnit>
+            </ContainedAmount>
+            <Additives>
+              <IndividualAdditives>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">L-プロリン</Lang>
+                  </IndividualAdditive>
+                  <ValueAndUnit>
+                    <Lang xml:lang="ja">5.76g</Lang>
+                  </ValueAndUnit>
+                </InfoIndividualAdditive>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">pH調節剤</Lang>
+                  </IndividualAdditive>
+                </InfoIndividualAdditive>
+              </IndividualAdditives>
+            </Additives>
+            <OtherComposition>
+              <CategoryName>
+                <Lang xml:lang="ja">備考</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail>
+                  <Lang xml:lang="ja">ヒト血液由来成分<?enter?>採血国：ドイツ、オーストリア、ポーランド<?enter?>採血の区分<CommentRef ref="TBLFN_01" /> ：献血<?enter?>及び<?enter?>採血国：米国、スイス<?enter?>採血の区分<CommentRef ref="TBLFN_01" /> ：非献血</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherComposition>
+          </CompositionTable>
+        </CompositionForConstituentUnits>
+      </CompositionForBrand>
+      <CompositionComments>
+        <Lang xml:lang="ja">
+          <Comment id="TBLFN_01">
+            <Lang xml:lang="ja">「献血又は非献血の区別の考え方」参照</Lang>
+          </Comment>
+        </Lang>
+      </CompositionComments>
+    </Composition>
+    <!--３.２ 製剤の性状-->
+    <Property id="HDR_Property" heading="fixing">
+      <PropertyForBrand ref="BRD_Drug4">
+        <PropertyForConstituentUnits>
+          <PropertyTable>
+            <pH modified="前回">
+              <Lang xml:lang="ja">4.60～5.00</Lang>
+            </pH>
+            <OsmoticRatio modified="前回">
+              <Lang xml:lang="ja">0.8～1.5（生理食塩液に対する比）</Lang>
+            </OsmoticRatio>
+            <OtherProperty>
+              <CategoryName>
+                <Lang xml:lang="ja">性状</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail modified="前回">
+                  <Lang xml:lang="ja">本剤は、無色澄明～淡黄色の僅かに白濁した液剤である。</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherProperty>
+          </PropertyTable>
+        </PropertyForConstituentUnits>
+      </PropertyForBrand>
+      <PropertyForBrand ref="BRD_Drug1">
+        <PropertyForConstituentUnits>
+          <PropertyTable>
+            <pH>
+              <Lang xml:lang="ja">4.60～5.00</Lang>
+            </pH>
+            <OsmoticRatio>
+              <Lang xml:lang="ja">0.8～1.5（生理食塩液に対する比）</Lang>
+            </OsmoticRatio>
+            <OtherProperty>
+              <CategoryName>
+                <Lang xml:lang="ja">性状</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail>
+                  <Lang xml:lang="ja">本剤は、無色澄明～淡黄色の僅かに白濁した液剤である。</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherProperty>
+          </PropertyTable>
+        </PropertyForConstituentUnits>
+      </PropertyForBrand>
+      <PropertyForBrand ref="BRD_Drug2">
+        <PropertyForConstituentUnits>
+          <PropertyTable>
+            <pH>
+              <Lang xml:lang="ja">4.60～5.00</Lang>
+            </pH>
+            <OsmoticRatio>
+              <Lang xml:lang="ja">0.8～1.5（生理食塩液に対する比）</Lang>
+            </OsmoticRatio>
+            <OtherProperty>
+              <CategoryName>
+                <Lang xml:lang="ja">性状</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail>
+                  <Lang xml:lang="ja">本剤は、無色澄明～淡黄色の僅かに白濁した液剤である。</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherProperty>
+          </PropertyTable>
+        </PropertyForConstituentUnits>
+      </PropertyForBrand>
+      <PropertyForBrand ref="BRD_Drug3">
+        <PropertyForConstituentUnits>
+          <PropertyTable>
+            <pH>
+              <Lang xml:lang="ja">4.60～5.00</Lang>
+            </pH>
+            <OsmoticRatio>
+              <Lang xml:lang="ja">0.8～1.5（生理食塩液に対する比）</Lang>
+            </OsmoticRatio>
+            <OtherProperty>
+              <CategoryName>
+                <Lang xml:lang="ja">性状</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail>
+                  <Lang xml:lang="ja">本剤は、無色澄明～淡黄色の僅かに白濁した液剤である。</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherProperty>
+          </PropertyTable>
+        </PropertyForConstituentUnits>
+      </PropertyForBrand>
+    </Property>
+  </CompositionAndProperty>
+  <!--４.効能又は効果-->
+  <IndicationsOrEfficacy wordingPatternOfIndications="1" id="HDR_IndicationsOrEfficacy" heading="fixing">
+    <UnorderedList>
+      <Item>
+        <Detail>
+          <Lang xml:lang="ja">無又は低ガンマグロブリン血症</Lang>
+        </Detail>
+      </Item>
+      <Item>
+        <Detail>
+          <Lang xml:lang="ja">慢性炎症性脱髄性多発根神経炎の筋力低下の改善</Lang>
+        </Detail>
+      </Item>
+      <Item>
+        <Detail>
+          <Lang xml:lang="ja">慢性炎症性脱髄性多発根神経炎の運動機能低下の進行抑制（筋力低下の改善が認められた場合）</Lang>
+        </Detail>
+      </Item>
+    </UnorderedList>
+  </IndicationsOrEfficacy>
+  <!--５.効能又は効果に関連する注意-->
+  <EfficacyRelatedPrecautions heading="fixing" id="HDR_EfficacyRelatedPrecautions" wordingPatternOfEfficacyRelatedPrecautions="1">
+    <SimpleList>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">〈慢性炎症性脱髄性多発根神経炎の運動機能低下の進行抑制〉</Lang>
+        </Header>
+        <Detail>
+          <Lang xml:lang="ja">「慢性炎症性脱髄性多発根神経炎の筋力低下の改善」に対する本剤の有効性が認められたものの、症状の再発・再燃を繰り返している患者にのみ投与すること。</Lang>
+        </Detail>
+      </Item>
+    </SimpleList>
+  </EfficacyRelatedPrecautions>
+  <!--６.用法及び用量-->
+  <InfoDoseAdmin wordingPatternOfDoseAdmin="1" id="HDR_InfoDoseAdmin" heading="fixing">
+    <DoseAdmin>
+      <SimpleList>
+        <Item>
+          <Header>
+            <Lang xml:lang="ja">〈無又は低ガンマグロブリン血症〉</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">通常、1回人免疫グロブリンGとして200～600mg（2～6mL）/kg体重を3～4週間隔で点滴静注又は緩徐に静注する。患者の状態によって適宜増減する。</Lang>
+          </Detail>
+        </Item>
+        <Item>
+          <Header>
+            <Lang xml:lang="ja">〈慢性炎症性脱髄性多発根神経炎の筋力低下の改善〉</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">通常、成人には1日に人免疫グロブリンGとして400mg（4mL）/kg体重を5日間連日点滴静注する。</Lang>
+          </Detail>
+        </Item>
+        <Item>
+          <Header>
+            <Lang xml:lang="ja">〈慢性炎症性脱髄性多発根神経炎の運動機能低下の進行抑制（筋力低下の改善が認められた場合）〉</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">通常、成人には人免疫グロブリンGとして「1,000mg（10mL）/kg体重を1日」又は「500mg（5mL）/kg体重を2日間連日」を3週間隔で点滴静注する。</Lang>
+          </Detail>
+        </Item>
+      </SimpleList>
+    </DoseAdmin>
+  </InfoDoseAdmin>
+  <!--７.用法及び用量に関連する注意-->
+  <InfoPrecautionsDosage heading="fixing" id="HDR_InfoPrecautionsDosage" wordingPatternOfInfoPrecautionsDosage="1">
+    <SimpleList>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">〈効能共通〉</Lang>
+        </Header>
+        <OrderedList numberContinued="false">
+          <Item heading="free" id="HDR_InfoPrecautionsDosage_1">
+            <Detail>
+              <Lang xml:lang="ja">急速に注射すると血圧降下を起こす可能性がある。特に無又は低ガンマグロブリン血症の患者には注意すること。<HeaderRef ref="HDR_PediatricUse_1" />,<HeaderRef ref="HDR_PrecautionsForApplication_OtherInformation_2_2" /></Lang>
+            </Detail>
+          </Item>
+        </OrderedList>
+      </Item>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">〈無又は低ガンマグロブリン血症〉</Lang>
+        </Header>
+        <OrderedList numberContinued="true">
+          <Item heading="free" id="HDR_PMDA_InfoPrecautionsDosage_20200219181316_2">
+            <Detail>
+              <Lang xml:lang="ja">血清IgGトラフ値を参考に、基礎疾患や感染症などの臨床症状に応じて、投与量、投与間隔を調節する必要があることを考慮すること。</Lang>
+            </Detail>
+          </Item>
+        </OrderedList>
+      </Item>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">〈慢性炎症性脱髄性多発根神経炎の筋力低下の改善〉</Lang>
+        </Header>
+        <OrderedList numberContinued="true">
+          <Item heading="free" id="HDR_PMDA_InfoPrecautionsDosage_20200219181316_3">
+            <Detail>
+              <Lang xml:lang="ja">本剤投与4週後に筋力低下の改善が認められることがあるので、投与後の経過を十分に観察し、本剤投与後4週間においては本剤の追加投与は行わないこと。</Lang>
+            </Detail>
+          </Item>
+        </OrderedList>
+      </Item>
+    </SimpleList>
+  </InfoPrecautionsDosage>
+  <!--８.重要な基本的注意-->
+  <ImportantPrecautions heading="fixing" id="HDR_ImportantPrecautions">
+    <SimpleList>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">〈効能共通〉</Lang>
+        </Header>
+        <OrderedList numberContinued="false">
+          <Item heading="free" id="HDR_PMDA_ImportantPrecautions_20200219181316_4">
+            <Detail>
+              <Lang xml:lang="ja">本剤の使用にあたっては、疾病の治療における本剤の必要性とともに、本剤の製造に際し感染症の伝播を防止するための安全対策が講じられているが、血液を原料等としていることに由来する感染症伝播のリスクを完全に排除することができないことを患者に対して説明し、理解を得るよう努めること。</Lang>
+            </Detail>
+          </Item>
+          <Item heading="free" id="HDR_ImportantPrecautions_2">
+            <Detail>
+              <Lang xml:lang="ja">本剤の原料等となる血漿については、HBs抗原、抗HCV抗体、抗HIV-1抗体及び抗HIV-2抗体が陰性であることを確認している。さらに、プールした試験血漿については、HIV-1、HBV、HCV及びHAVについて核酸増幅検査（NAT）を実施し、適合した血漿を本剤の製造に使用しているが、当該NATの検出限界以下のウイルスが混入している可能性が常に存在する。また、ヒトパルボウイルスB19についてもNATによるスクリーニングを実施し、適合した血漿を用いている。<?enter?>その後の製造工程であるデプスフィルトレーション、pH4処理及びナノフィルトレーションは、HIV、HBV、HCV等のエンベロープを有するウイルス及びエンベロープを有しないHAV、ヒトパルボウイルスB19をはじめとする各種ウイルス除去・不活化効果が確認されているが、投与に際しては、次の点に十分に注意すること。<?enter?>血漿分画製剤の現在の製造工程では、ヒトパルボウイルスB19等のウイルスを完全に不活化・除去することが困難であるため、本剤の投与によりその感染の可能性を否定できないので、投与後の経過を十分に観察すること。<HeaderRef ref="HDR_PMDA_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_20200219181316_15" />,<HeaderRef ref="HDR_PMDA_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_20200219181316_16" />,<HeaderRef ref="HDR_UseInPregnant" /></Lang>
+            </Detail>
+          </Item>
+          <Item heading="free" id="HDR_PMDA_ImportantPrecautions_20200219181316_6">
+            <Detail>
+              <Lang xml:lang="ja">現在までに本剤の投与により変異型クロイツフェルト・ヤコブ病（vCJD）等が伝播したとの報告はない。しかしながら、製造工程において異常プリオンを低減し得るとの報告があるものの、理論的なvCJD等の伝播のリスクを完全には排除できないので、投与の際には患者への説明を十分行い、治療上の必要性を十分検討の上投与すること。</Lang>
+            </Detail>
+          </Item>
+        </OrderedList>
+      </Item>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">〈慢性炎症性脱髄性多発根神経炎〉</Lang>
+        </Header>
+        <OrderedList numberContinued="true">
+          <Item heading="free" id="HDR_PMDA_ImportantPrecautions_20200219181316_7">
+            <Detail>
+              <Lang xml:lang="ja">本剤による慢性炎症性脱髄性多発根神経炎の治療は原因療法ではなく対症療法であることに留意すること。</Lang>
+            </Detail>
+          </Item>
+          <Item heading="free" id="HDR_PMDA_ImportantPrecautions_20200219181316_8">
+            <Detail>
+              <Lang xml:lang="ja">「慢性炎症性脱髄性多発根神経炎の筋力低下の改善」の用法及び用量で本剤を反復投与した場合の有効性、安全性は確立していないことに留意すること。</Lang>
+            </Detail>
+          </Item>
+          <Item heading="free" id="HDR_PMDA_ImportantPrecautions_20200219181316_9">
+            <Detail>
+              <Lang xml:lang="ja">「慢性炎症性脱髄性多発根神経炎の運動機能低下の進行抑制」を目的として用いる場合、臨床症状の観察を十分に行い定期的に継続投与の必要性を確認すること。また、継続投与の結果十分な効果が認められず、運動機能低下の再発・再燃等を繰り返す場合には、本剤の継続投与は行わず、他の治療法を考慮すること。</Lang>
+            </Detail>
+          </Item>
+          <Item heading="free" id="HDR_PMDA_ImportantPrecautions_20200219181316_10">
+            <Detail>
+              <Lang xml:lang="ja">「慢性炎症性脱髄性多発根神経炎の運動機能低下の進行抑制」を目的として本剤を継続投与した結果、運動機能低下の再発・再燃が認められなくなった場合には、本剤の減量又は投与中止を考慮すること。</Lang>
+            </Detail>
+          </Item>
+        </OrderedList>
+      </Item>
+    </SimpleList>
+  </ImportantPrecautions>
+  <!--９.特定の背景を有する患者に関する注意-->
+  <UseInSpecificPopulations id="HDR_UseInSpecificPopulations" heading="fixing">
+    <!--９.１ 合併症・既往歴等のある患者-->
+    <UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc heading="fixing" id="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc">
+      <OrderedList numberContinued="false">
+        <Item heading="free" id="HDR_PMDA_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_20200219181316_11">
+          <Header>
+            <Lang xml:lang="ja">本剤の成分に過敏症の既往歴のある患者</Lang>
+          </Header>
+        </Item>
+        <Item heading="free" id="HDR_PMDA_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_20200219181316_12">
+          <Header>
+            <Lang xml:lang="ja">IgA欠損症の患者</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">抗IgA抗体を保有する患者では過敏反応を起こすおそれがある。</Lang>
+          </Detail>
+        </Item>
+        <Item heading="free" id="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_3">
+          <Header>
+            <Lang xml:lang="ja">脳・心臓血管障害又はその既往歴のある患者</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">大量投与による血液粘度の上昇等により脳梗塞又は心筋梗塞等の血栓塞栓症を起こすおそれがある。<HeaderRef ref="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_4" />,<HeaderRef ref="HDR_UseInTheElderly" />,<HeaderRef ref="HDR_PMDA_SeriousAdverseEvents_20200219181316_27" /></Lang>
+          </Detail>
+        </Item>
+        <Item heading="free" id="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_4">
+          <Header>
+            <Lang xml:lang="ja">血栓塞栓症の危険性の高い患者</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">適宜減量し、できるだけゆっくりと投与することが望ましい。大量投与による血液粘度の上昇等により血栓塞栓症を起こすおそれがある。<HeaderRef ref="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_3" />,<HeaderRef ref="HDR_UseInTheElderly" />,<HeaderRef ref="HDR_PMDA_SeriousAdverseEvents_20200219181316_27" /></Lang>
+          </Detail>
+        </Item>
+        <Item heading="free" id="HDR_PMDA_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_20200219181316_15">
+          <Header>
+            <Lang xml:lang="ja">溶血性・失血性貧血の患者</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">ヒトパルボウイルスB19の感染を起こす可能性を否定できない。感染した場合には、発熱と急激な貧血を伴う重篤な全身症状を起こすことがある。<HeaderRef ref="HDR_ImportantPrecautions_2" /></Lang>
+          </Detail>
+        </Item>
+        <Item heading="free" id="HDR_PMDA_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_20200219181316_16">
+          <Header>
+            <Lang xml:lang="ja">免疫不全患者・免疫抑制状態の患者</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">ヒトパルボウイルスB19の感染を起こす可能性を否定できない。感染した場合には、持続性の貧血を起こすことがある。<HeaderRef ref="HDR_ImportantPrecautions_2" /></Lang>
+          </Detail>
+        </Item>
+        <Item heading="free" id="HDR_PMDA_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_20200219181316_17">
+          <Header>
+            <Lang xml:lang="ja">心機能の低下している患者</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">大量投与により、心不全を発症又は悪化させるおそれがある。</Lang>
+          </Detail>
+        </Item>
+        <Item heading="free" id="HDR_PMDA_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_20200219181316_18">
+          <Header>
+            <Lang xml:lang="ja">高プロリン血症1型又は2型の患者</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">添加剤としてL-プロリンを含有するため、症状を悪化させるおそれがある。</Lang>
+          </Detail>
+        </Item>
+      </OrderedList>
+    </UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc>
+    <!--９.２ 腎機能障害患者-->
+    <PatientsWithRenalImpairment heading="fixing" id="HDR_PatientsWithRenalImpairment">
+      <OrderedList numberContinued="false">
+        <Item heading="free" id="HDR_PMDA_PatientsWithRenalImpairment_20200219181316_19">
+          <Header>
+            <Lang xml:lang="ja">腎障害のある患者</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">腎機能を悪化させるおそれがある。<HeaderRef ref="HDR_PMDA_SeriousAdverseEvents_20200219181316_28" /></Lang>
+          </Detail>
+        </Item>
+        <Item heading="free" id="HDR_PMDA_PatientsWithRenalImpairment_20200219181316_20">
+          <Header>
+            <Lang xml:lang="ja">急性腎障害の危険性の高い患者</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">適宜減量し、できるだけゆっくりと投与することが望ましい。<HeaderRef ref="HDR_PMDA_SeriousAdverseEvents_20200219181316_28" /></Lang>
+          </Detail>
+        </Item>
+      </OrderedList>
+    </PatientsWithRenalImpairment>
+    <!--９.５ 妊婦-->
+    <UseInPregnant heading="fixing" id="HDR_UseInPregnant">
+      <Detail>
+        <Lang xml:lang="ja">妊婦又は妊娠している可能性のある女性には、治療上の有益性が危険性を上回ると判断される場合にのみ投与すること。本剤の投与によりヒトパルボウイルスB19の感染の可能性を否定できない。感染した場合には胎児への障害（流産、胎児水腫、胎児死亡）が起こる可能性がある。<HeaderRef ref="HDR_ImportantPrecautions_2" /></Lang>
+      </Detail>
+    </UseInPregnant>
+    <!--９.７ 小児等-->
+    <PediatricUse heading="fixing" id="HDR_PediatricUse">
+      <SimpleList>
+        <Item>
+          <Header>
+            <Lang xml:lang="ja">〈無又は低ガンマグロブリン血症〉</Lang>
+          </Header>
+          <OrderedList numberContinued="false">
+            <Item heading="free" id="HDR_PediatricUse_1">
+              <Detail>
+                <Lang xml:lang="ja">投与速度に注意するとともに、経過を十分に観察すること。ショック等重篤な副作用を起こすことがある。<HeaderRef ref="HDR_InfoPrecautionsDosage_1" />,<HeaderRef ref="HDR_PrecautionsForApplication_OtherInformation_2_2" /></Lang>
+              </Detail>
+            </Item>
+            <Item heading="free" id="HDR_PMDA_PediatricUse_20200219181316_22">
+              <Detail>
+                <Lang xml:lang="ja">低出生体重児、新生児、乳児、3歳未満の幼児は臨床試験では除外されている。</Lang>
+              </Detail>
+            </Item>
+          </OrderedList>
+        </Item>
+        <Item>
+          <Header>
+            <Lang xml:lang="ja">〈慢性炎症性脱髄性多発根神経炎〉</Lang>
+          </Header>
+          <OrderedList numberContinued="true">
+            <Item heading="free" id="HDR_PMDA_PediatricUse_20200219181316_23">
+              <Detail>
+                <Lang xml:lang="ja">18歳未満の患者は臨床試験では除外されている。</Lang>
+              </Detail>
+            </Item>
+          </OrderedList>
+        </Item>
+      </SimpleList>
+    </PediatricUse>
+    <!--９.８ 高齢者-->
+    <UseInTheElderly heading="fixing" id="HDR_UseInTheElderly">
+      <Detail>
+        <Lang xml:lang="ja">患者の状態を観察しながら慎重に投与すること。一般に生理機能が低下している。また、一般に脳・心臓血管障害又はその既往歴のある患者がみられ、血栓塞栓症を起こすおそれがある。<HeaderRef ref="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_3" />,<HeaderRef ref="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_4" />,<HeaderRef ref="HDR_PMDA_SeriousAdverseEvents_20200219181316_27" /></Lang>
+      </Detail>
+    </UseInTheElderly>
+  </UseInSpecificPopulations>
+  <!--１０.相互作用-->
+  <Interactions id="HDR_Interactions" heading="fixing">
+    <!--１０.２ 併用注意（併用に注意すること）-->
+    <PrecautionsForCombinations id="HDR_PrecautionsForCombinations" heading="fixing">
+      <PrecautionsForCombination>
+        <PrecautionsForCombi>
+          <WidthDefinition>
+            <Col />
+            <Col />
+            <Col />
+          </WidthDefinition>
+          <Drug>
+            <DrugName>
+              <Detail>
+                <Lang xml:lang="ja">非経口用生ワクチン<?enter?>（麻疹ワクチン、おたふくかぜワクチン、風疹ワクチン、これら混合ワクチン、水痘ワクチン等）</Lang>
+              </Detail>
+            </DrugName>
+            <ClinSymptomsAndMeasures>
+              <Detail>
+                <Lang xml:lang="ja">本剤の投与を受けた者は、生ワクチンの効果が得られないおそれがあるので、生ワクチンの接種は本剤投与後3ヵ月以上延期すること。また、生ワクチン接種後14日以内に本剤を投与した場合は、投与後3ヵ月以上経過した後に生ワクチンを再接種することが望ましい。<?enter?>なお、慢性炎症性脱髄性多発根神経炎に対する大量療法（200mg/kg体重以上）後に生ワクチンを接種する場合は、原則として生ワクチンの接種を6ヵ月以上（麻疹感染の危険性が低い場合の麻疹ワクチン接種は11ヵ月以上）延期すること。</Lang>
+              </Detail>
+            </ClinSymptomsAndMeasures>
+            <MechanismAndRiskFactors>
+              <Detail>
+                <Lang xml:lang="ja">本剤の主成分は免疫抗体であるため、中和反応により生ワクチンの効果が減弱されるおそれがある。</Lang>
+              </Detail>
+            </MechanismAndRiskFactors>
+          </Drug>
+        </PrecautionsForCombi>
+      </PrecautionsForCombination>
+    </PrecautionsForCombinations>
+  </Interactions>
+  <!--１１.副作用-->
+  <AdverseEvents id="HDR_AdverseEvents" heading="fixing">
+    <CommonPrecautionsForAdverse>
+      <Lang xml:lang="ja">次の副作用があらわれることがあるので、観察を十分に行い、異常が認められた場合には投与を中止するなど適切な処置を行うこと。</Lang>
+    </CommonPrecautionsForAdverse>
+    <!--１１.１ 重大な副作用-->
+    <SeriousAdverseEvents id="HDR_SeriousAdverseEvents" heading="fixing">
+      <SeriousAdverse>
+        <OrderedList numberContinued="false">
+          <Item heading="free" id="HDR_PMDA_SeriousAdverseEvents_20200219181316_24">
+            <Header>
+              <Lang xml:lang="ja">アナフィラキシー反応（頻度不明）</Lang>
+            </Header>
+            <Detail>
+              <Lang xml:lang="ja">びまん性紅斑を伴う全身潮紅、胸部不快感、頻脈、低血圧、喘鳴、喘息、呼吸困難、チアノーゼ等異常が認められた場合には、直ちに投与を中止し、適切な処置を行うこと。</Lang>
+            </Detail>
+          </Item>
+          <Item heading="free" id="HDR_PMDA_SeriousAdverseEvents_20200219181316_25">
+            <Header>
+              <Lang xml:lang="ja">溶血性貧血（0.3%）</Lang>
+            </Header>
+            <Detail>
+              <Lang xml:lang="ja">本剤は抗A及び抗B血液型抗体を有するため、血液型がO型以外の患者への大量投与により、溶血性貧血があらわれる可能性がある。</Lang>
+            </Detail>
+          </Item>
+          <Item heading="free" id="HDR_PMDA_SeriousAdverseEvents_20200219181316_26">
+            <Header>
+              <Lang xml:lang="ja">無菌性髄膜炎症候群（頻度不明）</Lang>
+            </Header>
+            <Detail>
+              <Lang xml:lang="ja">大量投与により無菌性髄膜炎の症状があらわれることがある。</Lang>
+            </Detail>
+          </Item>
+          <Item heading="free" id="HDR_PMDA_SeriousAdverseEvents_20200219181316_27">
+            <Header>
+              <Lang xml:lang="ja">血栓塞栓症（0.3%）</Lang>
+            </Header>
+            <Detail>
+              <Lang xml:lang="ja">大量投与例で血液粘度の上昇等により、心筋梗塞、脳血管障害（脳卒中を含む）、肺塞栓症、深部静脈血栓症等の血栓塞栓症があらわれることがある。<HeaderRef ref="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_3" />,<HeaderRef ref="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_4" />,<HeaderRef ref="HDR_UseInTheElderly" /></Lang>
+            </Detail>
+          </Item>
+          <Item heading="free" id="HDR_PMDA_SeriousAdverseEvents_20200219181316_28">
+            <Header>
+              <Lang xml:lang="ja">急性腎障害（0.3%）</Lang>
+            </Header>
+            <Detail>
+              <Lang xml:lang="ja">投与に先立って患者が脱水状態にないことを確認するとともに、観察を十分に行い、腎機能検査値（BUN、血清クレアチニン等）の悪化、尿量減少が認められた場合には投与を中止し、適切な処置を行うこと。<HeaderRef ref="HDR_PatientsWithRenalImpairment" /></Lang>
+            </Detail>
+          </Item>
+          <Item heading="free" id="HDR_PMDA_SeriousAdverseEvents_20200219181316_29">
+            <Header>
+              <Lang xml:lang="ja">肺水腫（頻度不明）</Lang>
+            </Header>
+            <Detail>
+              <Lang xml:lang="ja">呼吸困難等の症状があらわれた場合には投与を中止し、適切な処置を行うこと。</Lang>
+            </Detail>
+          </Item>
+          <Item heading="free" id="HDR_PMDA_SeriousAdverseEvents_20200219181316_30">
+            <Header>
+              <Lang xml:lang="ja">血小板減少（頻度不明）</Lang>
+            </Header>
+          </Item>
+          <Item heading="free" id="HDR_PMDA_SeriousAdverseEvents_20200219181316_31">
+            <Header>
+              <Lang xml:lang="ja">肝機能障害、黄疸（頻度不明）</Lang>
+            </Header>
+            <Detail>
+              <Lang xml:lang="ja">AST、ALT、ALP、γ-GTP、LDHの著しい上昇等を伴う肝機能障害、黄疸があらわれることがある。</Lang>
+            </Detail>
+          </Item>
+        </OrderedList>
+      </SeriousAdverse>
+    </SeriousAdverseEvents>
+    <!--１１.２ その他の副作用-->
+    <OtherAdverseEvents id="HDR_OtherAdverseEvents" heading="fixing">
+      <OtherAdverseEvent>
+        <OtherAdverse>
+          <WidthDefinition totalWidth="100%">
+            <Col width="47.41px" />
+            <Col width="64.06px" />
+            <Col width="64.06px" />
+            <Col width="51.47px" />
+          </WidthDefinition>
+          <CategoryDefinition>
+            <Category id="OTHER1_TYPE1">
+              <Detail>
+                <Lang xml:lang="ja">血液及びリンパ系障害</Lang>
+              </Detail>
+            </Category>
+            <Category id="OTHER1_TYPE2">
+              <Detail>
+                <Lang xml:lang="ja">免疫系障害</Lang>
+              </Detail>
+            </Category>
+            <Category id="OTHER1_TYPE3">
+              <Detail>
+                <Lang xml:lang="ja">神経系障害</Lang>
+              </Detail>
+            </Category>
+            <Category id="OTHER1_TYPE4">
+              <Detail>
+                <Lang xml:lang="ja">心臓障害</Lang>
+              </Detail>
+            </Category>
+            <Category id="OTHER1_TYPE5">
+              <Detail>
+                <Lang xml:lang="ja">血管障害</Lang>
+              </Detail>
+            </Category>
+            <Category id="OTHER1_TYPE6">
+              <Detail>
+                <Lang xml:lang="ja">呼吸器、胸郭及び縦隔障害</Lang>
+              </Detail>
+            </Category>
+            <Category id="OTHER1_TYPE7">
+              <Detail>
+                <Lang xml:lang="ja">胃腸障害</Lang>
+              </Detail>
+            </Category>
+            <Category id="OTHER1_TYPE8">
+              <Detail>
+                <Lang xml:lang="ja">肝胆道系障害</Lang>
+              </Detail>
+            </Category>
+            <Category id="OTHER1_TYPE9">
+              <Detail>
+                <Lang xml:lang="ja">皮膚及び皮下組織障害</Lang>
+              </Detail>
+            </Category>
+            <Category id="OTHER1_TYPE10">
+              <Detail>
+                <Lang xml:lang="ja">筋骨格系及び結合組織障害</Lang>
+              </Detail>
+            </Category>
+            <Category id="OTHER1_TYPE11">
+              <Detail>
+                <Lang xml:lang="ja">腎及び尿路障害</Lang>
+              </Detail>
+            </Category>
+            <Category id="OTHER1_TYPE12">
+              <Detail>
+                <Lang xml:lang="ja">一般・全身障害及び投与部位の状態</Lang>
+              </Detail>
+            </Category>
+            <Category id="OTHER1_TYPE13">
+              <Detail>
+                <Lang xml:lang="ja">臨床検査</Lang>
+              </Detail>
+            </Category>
+          </CategoryDefinition>
+          <FrequencyDefinition>
+            <Frequency id="OTHER1_FRQ1">
+              <Detail>
+                <Lang xml:lang="ja">0.5%以上</Lang>
+              </Detail>
+            </Frequency>
+            <Frequency id="OTHER1_FRQ2">
+              <Detail>
+                <Lang xml:lang="ja">0.5%未満</Lang>
+              </Detail>
+            </Frequency>
+            <Frequency id="OTHER1_FRQ3">
+              <Detail>
+                <Lang xml:lang="ja">頻度不明<CommentRef ref="TBLFN_PMDA_02" /></Lang>
+              </Detail>
+            </Frequency>
+          </FrequencyDefinition>
+          <AdverseReactions>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE1" frequencyRef="OTHER1_FRQ1">
+              <Detail>
+                <Lang xml:lang="ja">溶血、白血球減少症</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE1" frequencyRef="OTHER1_FRQ2">
+              <Detail>
+                <Lang xml:lang="ja">貧血</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE1" frequencyRef="OTHER1_FRQ3">
+              <Detail>
+                <Lang xml:lang="ja">赤血球大小不同症、小赤血球症、血小板増加症、好中球数減少</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE2" frequencyRef="OTHER1_FRQ1">
+              <Detail>
+                <Lang xml:lang="ja">過敏症</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE3" frequencyRef="OTHER1_FRQ1">
+              <Detail>
+                <Lang xml:lang="ja">頭痛（18.4%）、浮動性めまい、片頭痛、振戦、回転性めまい</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE3" frequencyRef="OTHER1_FRQ2">
+              <Detail>
+                <Lang xml:lang="ja">傾眠、緊張性頭痛、副鼻腔炎に伴う頭痛</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE3" frequencyRef="OTHER1_FRQ3">
+              <Detail>
+                <Lang xml:lang="ja">頭部不快感</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE4" frequencyRef="OTHER1_FRQ1">
+              <Detail>
+                <Lang xml:lang="ja">動悸</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE4" frequencyRef="OTHER1_FRQ3">
+              <Detail>
+                <Lang xml:lang="ja">頻脈</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE5" frequencyRef="OTHER1_FRQ1">
+              <Detail>
+                <Lang xml:lang="ja">高血圧、低血圧、ほてり</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE5" frequencyRef="OTHER1_FRQ2">
+              <Detail>
+                <Lang xml:lang="ja">末梢血管障害、血管炎、潮紅</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE5" frequencyRef="OTHER1_FRQ3">
+              <Detail>
+                <Lang xml:lang="ja">充血</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE6" frequencyRef="OTHER1_FRQ1">
+              <Detail>
+                <Lang xml:lang="ja">呼吸困難、胸痛</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE6" frequencyRef="OTHER1_FRQ2">
+              <Detail>
+                <Lang xml:lang="ja">胸部不快感、呼吸時疼痛</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE7" frequencyRef="OTHER1_FRQ1">
+              <Detail>
+                <Lang xml:lang="ja">悪心、嘔吐、腹痛、下痢</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE8" frequencyRef="OTHER1_FRQ2">
+              <Detail>
+                <Lang xml:lang="ja">高ビリルビン血症</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE9" frequencyRef="OTHER1_FRQ1">
+              <Detail>
+                <Lang xml:lang="ja">発疹、じん麻疹、斑状丘疹状皮疹、そう痒症</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE9" frequencyRef="OTHER1_FRQ2">
+              <Detail>
+                <Lang xml:lang="ja">皮膚剥脱、紅斑</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE9" frequencyRef="OTHER1_FRQ3">
+              <Detail>
+                <Lang xml:lang="ja">皮膚障害</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE10" frequencyRef="OTHER1_FRQ1">
+              <Detail>
+                <Lang xml:lang="ja">筋痙縮</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE10" frequencyRef="OTHER1_FRQ2">
+              <Detail>
+                <Lang xml:lang="ja">筋肉痛、筋骨格硬直、筋骨格痛</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE11" frequencyRef="OTHER1_FRQ3">
+              <Detail>
+                <Lang xml:lang="ja">蛋白尿、血中クレアチニン増加</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE12" frequencyRef="OTHER1_FRQ1">
+              <Detail>
+                <Lang xml:lang="ja">疲労、悪寒、発熱、疼痛、インフルエンザ様疾患、無力症、背部痛、注射部位疼痛、関節痛、上咽頭炎</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE12" frequencyRef="OTHER1_FRQ2">
+              <Detail>
+                <Lang xml:lang="ja">筋力低下、四肢痛、頚部痛、顔面痛、咽喉絞扼感、注入部位不快感</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE12" frequencyRef="OTHER1_FRQ3">
+              <Detail>
+                <Lang xml:lang="ja">咽喉頭疼痛、口腔咽頭水疱形成</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE13" frequencyRef="OTHER1_FRQ1">
+              <Detail>
+                <Lang xml:lang="ja">アラニンアミノトランスフェラーゼ増加、アスパラギン酸アミノトランスフェラーゼ増加</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE13" frequencyRef="OTHER1_FRQ2">
+              <Detail>
+                <Lang xml:lang="ja">血中乳酸脱水素酵素増加、クームス試験陽性</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE13" frequencyRef="OTHER1_FRQ3">
+              <Detail>
+                <Lang xml:lang="ja">ヘモグロビン減少、赤血球数減少、ヘマトクリット減少</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+          </AdverseReactions>
+        </OtherAdverse>
+        <ExplanatoryNotesForOtherAdverse>
+          <Lang xml:lang="ja">
+            <Comment id="TBLFN_PMDA_02">
+              <Lang xml:lang="ja">頻度不明は市販後の報告及び承認された効能以外の臨床試験に基づく</Lang>
+            </Comment>
+          </Lang>
+        </ExplanatoryNotesForOtherAdverse>
+      </OtherAdverseEvent>
+    </OtherAdverseEvents>
+  </AdverseEvents>
+  <!--１２.臨床検査結果に及ぼす影響-->
+  <InfluenceOnLaboratoryValues heading="fixing" id="HDR_InfluenceOnLaboratoryValues">
+    <Detail modified="今回">
+      <Lang xml:lang="ja">本剤には供血者由来の各種抗体（各種感染症の病原体又はその産生物質に対する免疫抗体、自己抗体等）が含まれており、投与後の血中にこれらの抗体が一時検出されることがあるので、臨床診断には注意を要する。また、供血者由来の赤血球型抗原に対する抗体（抗A、抗B及び抗D抗体）により、赤血球型同種抗体の血清学的検査（クームス試験）に干渉することがある。</Lang>
+    </Detail>
+  </InfluenceOnLaboratoryValues>
+  <!--１４.適用上の注意-->
+  <PrecautionsForApplication id="HDR_PrecautionsForApplication" heading="fixing">
+    <OtherInformation heading="free" id="HDR_PMDA_PrecautionsForApplication_20200219181316_32">
+      <Header>
+        <Lang xml:lang="ja">薬剤調製時の注意</Lang>
+      </Header>
+      <OrderedList numberContinued="false">
+        <Item heading="free" id="HDR_PMDA_PrecautionsForApplication_20200219181316_33">
+          <Detail>
+            <Lang xml:lang="ja">室温程度に戻した後投与すること。</Lang>
+          </Detail>
+        </Item>
+        <Item heading="free" id="HDR_PMDA_PrecautionsForApplication_20200219181316_34">
+          <Detail>
+            <Lang xml:lang="ja">他の製剤との混注は避けること。</Lang>
+          </Detail>
+        </Item>
+        <Item heading="free" id="HDR_PMDA_PrecautionsForApplication_20200219181316_35">
+          <Detail>
+            <Lang xml:lang="ja">本剤の希釈が必要な場合は、5%ブドウ糖注射液を用い、無菌的に希釈調製を行うこと。なお、希釈後は速やかに使用すること。</Lang>
+          </Detail>
+        </Item>
+        <Item heading="free" id="HDR_PMDA_PrecautionsForApplication_20200219181316_36">
+          <Detail>
+            <Lang xml:lang="ja">本剤は開封後できるだけ速やかに使用すること。</Lang>
+          </Detail>
+        </Item>
+        <Item heading="free" id="HDR_PMDA_PrecautionsForApplication_20200219181316_37">
+          <Detail>
+            <Lang xml:lang="ja">使用後の残液は、細菌汚染のおそれがあるので再使用しないこと。本剤は細菌の増殖に好適な蛋白であり、保存剤を含有していない。</Lang>
+          </Detail>
+        </Item>
+      </OrderedList>
+    </OtherInformation>
+    <OtherInformation heading="free" id="HDR_PMDA_PrecautionsForApplication_20200219181316_38">
+      <Header>
+        <Lang xml:lang="ja">薬剤投与時の注意</Lang>
+      </Header>
+      <OrderedList numberContinued="false">
+        <Item heading="free" id="HDR_PMDA_PrecautionsForApplication_20200219181316_39">
+          <Detail>
+            <Lang xml:lang="ja">不溶物又は混濁が認められるものは使用しないこと。</Lang>
+          </Detail>
+        </Item>
+        <Item heading="free" id="HDR_PrecautionsForApplication_OtherInformation_2_2">
+          <Header>
+            <Lang xml:lang="ja">投与速度</Lang>
+          </Header>
+          <SimpleList>
+            <Item>
+              <Header>
+                <Lang xml:lang="ja">〈効能共通〉</Lang>
+              </Header>
+              <OrderedList numberContinued="false">
+                <Item heading="free" id="HDR_PMDA_PrecautionsForApplication_20200219181316_41">
+                  <Detail>
+                    <Lang xml:lang="ja">ショック等の副作用は初日の投与開始30分以内、また投与速度を上げた際に起こる可能性があるので、これらの時間帯については特に注意すること。<HeaderRef ref="HDR_InfoPrecautionsDosage_1" />,<HeaderRef ref="HDR_PediatricUse_1" /></Lang>
+                  </Detail>
+                </Item>
+              </OrderedList>
+            </Item>
+            <Item>
+              <Header>
+                <Lang xml:lang="ja">〈無又は低ガンマグロブリン血症〉</Lang>
+              </Header>
+              <OrderedList numberContinued="true">
+                <Item heading="free" id="HDR_PMDA_PrecautionsForApplication_20200219181316_42">
+                  <Detail>
+                    <Lang xml:lang="ja">初回の投与開始から約30分は0.6mL/kg体重/時間で投与し、副作用等の異常所見が認められなければ、投与速度を7.2mL/kg体重/時間まで徐々に上げることができる。その後の投与は、耐容した速度で開始することができる。</Lang>
+                  </Detail>
+                </Item>
+              </OrderedList>
+            </Item>
+            <Item>
+              <Header>
+                <Lang xml:lang="ja">〈慢性炎症性脱髄性多発根神経炎〉</Lang>
+              </Header>
+              <OrderedList numberContinued="true">
+                <Item heading="free" id="HDR_PMDA_PrecautionsForApplication_20200219181316_43">
+                  <Detail>
+                    <Lang xml:lang="ja">初回の投与開始から約30分は0.3mL/kg体重/時間で投与し、副作用等の異常所見が認められなければ、投与速度を4.8mL/kg体重/時間まで徐々に上げることができる。その後の投与は、耐容した速度で開始することができる。</Lang>
+                  </Detail>
+                </Item>
+              </OrderedList>
+            </Item>
+          </SimpleList>
+        </Item>
+      </OrderedList>
+    </OtherInformation>
+  </PrecautionsForApplication>
+  <!--１６.薬物動態-->
+  <Pharmacokinetics id="HDR_Pharmacokinetics" heading="fixing">
+    <!--１６.１ 血中濃度-->
+    <BloodLevel id="HDR_BloodLevel" heading="fixing">
+      <SimpleList>
+        <Item>
+          <Header>
+            <Lang xml:lang="ja">〈無又は低ガンマグロブリン血症〉</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">国内臨床試験<ReferenceBookRef ref="DOC_01" /> において、小児及び成人の原発性免疫不全症候群患者10例を対象に本剤を3週間隔又は4週間隔で4ヵ月間静脈内投与した。本剤の最終投与前の血清IgGトラフ値の平均値±標準偏差は、3週間隔投与（2例）で10.0g/L、4週間隔投与（8例）で8.0±3.8g/Lであった。<?enter?>また、3週間隔投与及び4週間隔投与における血清総IgG濃度推移は以下のとおりであった。</Lang>
+          </Detail>
+          <Graphic>
+            <GraphicCaption>
+              <Lang xml:lang="ja">血清総IgG濃度（平均値±標準偏差）の推移：薬物動態解析対象集団</Lang>
+            </GraphicCaption>
+            <GraphicBody gfname="fig01.gif" />
+          </Graphic>
+        </Item>
+        <Item>
+          <Header>
+            <Lang xml:lang="ja">〈慢性炎症性脱髄性多発根神経炎〉</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">国際共同第III相試験（多施設共同二重盲検試験）<ReferenceBookRef ref="DOC_02" /> において、Day 1に導入用量（2g/kg体重）を2～5日間に分割して投与し、その後3週ごとに1g/kg体重の維持用量を投与したところ、Day 1（ベースライン）からDay 5までに血清IgGトラフ値の平均値±標準偏差は12.7±3.2g/L（日本人患者：15.4±3.1g/L）から33.2±6.9g/L（日本人患者：34.3±4.2g/L）まで上昇した。Week 7で、3週ごとに維持用量（1g/kg体重）を1日又は2日かけて投与する維持療法の2回目の投与前に血清IgGトラフ値の平均値±標準偏差は17.7±4.0g/L（日本人患者：18.6±2.6g/L）となり、その後Week 7からWeek 13（日本人患者：Week 10）まで安定的に推移した。</Lang>
+          </Detail>
+        </Item>
+      </SimpleList>
+    </BloodLevel>
+  </Pharmacokinetics>
+  <!--１７.臨床成績-->
+  <ResultsOfClinicalTrials id="HDR_ResultsOfClinicalTrials" heading="fixing">
+    <!--１７.１ 有効性及び安全性に関する試験-->
+    <EfficacyAndSafety id="HDR_EfficacyAndSafety" heading="fixing">
+      <SimpleList>
+        <Item>
+          <Header>
+            <Lang xml:lang="ja">〈無又は低ガンマグロブリン血症〉</Lang>
+          </Header>
+          <OrderedList numberContinued="false">
+            <Item id="HDR_EfficacyAndSafety_1" heading="free">
+              <Header>
+                <Lang xml:lang="ja">海外第III相多施設共同試験</Lang>
+              </Header>
+              <Detail>
+                <Lang xml:lang="ja">小児及び成人の原発性免疫不全症候群患者80例を対象に本剤0.2～0.8g/kg体重を3週間隔又は4週間隔で12ヵ月間静脈内投与した<ReferenceBookRef ref="DOC_03" /> 。患者あたりの急性重篤細菌感染症の年間発現回数（主要評価項目）は、0.08回／人・年、その片側97.5%信頼区間の上限値は0.182回／人・年であり、この上限値は事前に設定した基準値1.0回／人・年を下回った。また、急性重篤細菌感染症を発症した患者は80例中6例（7.5%）であった。急性重篤細菌感染症の内訳は肺炎が3例（3.8%）、化膿性関節炎、骨髄炎、内臓膿瘍が各1例（1.3%）であった。</Lang>
+              </Detail>
+              <TblBlock>
+                <WidthDefinition totalWidth="100%">
+                  <Col width="33.33%" />
+                  <Col width="33.33%" />
+                  <Col width="33.33%" />
+                </WidthDefinition>
+                <SimpleTable>
+                  <SimpTblRow>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">急性重篤細菌感染症</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">発現例数（%）</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">年間発現回数（回／人・年）</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                  <SimpTblRow>
+                    <SimpTblCell align="left" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">全体</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">6（7.5）</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">0.08</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                  <SimpTblRow>
+                    <SimpTblCell align="left" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">　肺炎</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">3（3.8）</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">0.04</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                  <SimpTblRow>
+                    <SimpTblCell align="left" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">　化膿性関節炎</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">1（1.3）</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">0.01</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                  <SimpTblRow>
+                    <SimpTblCell align="left" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">　骨髄炎</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">1（1.3）</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">0.01</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                  <SimpTblRow>
+                    <SimpTblCell align="left" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">　内臓膿瘍</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">1（1.3）</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">0.01</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                </SimpleTable>
+              </TblBlock>
+              <Detail>
+                <Lang xml:lang="ja">また、本剤投与後の血清IgGトラフ値の平均値±標準偏差は、3週間隔投与で9.8±3.2g/L、4週間隔投与で9.3±2.6g/Lであった。<?enter?>副作用は80例中33例（41.3%）に認められ、主な副作用は、頭痛24例（30.0%）、悪心10例（12.5%）、悪寒、疲労各9例（11.3%）であった。</Lang>
+              </Detail>
+            </Item>
+            <Item id="HDR_EfficacyAndSafety_2" heading="free">
+              <Header>
+                <Lang xml:lang="ja">国内第III相多施設共同試験</Lang>
+              </Header>
+              <Detail>
+                <Lang xml:lang="ja">小児及び成人の原発性免疫不全症候群患者11例を対象に本剤0.2～0.6g/kg体重を3週間隔又は4週間隔で4ヵ月間静脈内投与した結果、本剤投与後の血清IgGトラフ値の平均値±標準偏差は、3週間隔投与で10.0g/L、4週間隔投与で8.0±3.8g/Lであった<ReferenceBookRef ref="DOC_03" /> 。<?enter?>副作用は、11例中1例（9.1%）に注入部位不快感が認められた。</Lang>
+              </Detail>
+            </Item>
+          </OrderedList>
+        </Item>
+        <Item>
+          <Header>
+            <Lang xml:lang="ja">〈慢性炎症性脱髄性多発根神経炎の筋力低下の改善〉</Lang>
+          </Header>
+          <OrderedList numberContinued="true">
+            <Item id="HDR_EfficacyAndSafety_3" heading="free">
+              <Header>
+                <Lang xml:lang="ja">国際共同第III相試験における無作為化前期間の急性期治療</Lang>
+              </Header>
+              <Detail>
+                <Lang xml:lang="ja">静注用人免疫グロブリン製剤（IVIG）休薬期間（IVIGを投与しない最長12週の期間）後、IVIG休薬期間中に慢性炎症性脱髄性多発根神経炎の臨床症状が悪化した成人患者207例（日本人患者15例を含む）に急性期治療として本剤2g/kg体重を連続する2～5日間に分割して静脈内投与し（無作為化前期間の急性期治療）、本剤1g/kg体重を1日又は0.5g/kg体重を2日連日で3週ごとにWeek 4からWeek 10又はWeek 13まで静脈内投与した（無作為化前期間の維持療法）<ReferenceBookRef ref="DOC_04" /> 。その後、無作為化の後に、異なる2用量の人免疫グロブリン（0.2g/kg体重又は0.4g/kg体重）又はプラセボを皮下投与した（無作為化後期間）。<?enter?>急性期治療後の来院別のレスポンダー（調整INCATスコアの1ポイント以上の改善と定義）の割合は以下のとおりであった。</Lang>
+              </Detail>
+              <TblBlock>
+                <WidthDefinition totalWidth="100%">
+                  <Col width="33.33%" />
+                  <Col width="33.33%" />
+                  <Col width="33.33%" />
+                </WidthDefinition>
+                <SimpleTable>
+                  <SimpTblRow>
+                    <SimpTblCell align="left" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">レスポンダー数（%）</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">日本人<?enter?>（N=15）</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">全体<?enter?>（N=207）</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                  <SimpTblRow>
+                    <SimpTblCell align="left" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">Week 4</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">5（33.3）</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">103（49.8）</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                </SimpleTable>
+              </TblBlock>
+              <Detail>
+                <Lang xml:lang="ja">また、IVIG休薬期間のINCATスコアの悪化及び本剤再安定化期間のINCATスコアの改善のみを考慮した場合、日本人患者のレスポンダー率は83.3%（5/6例）であった。<?enter?>副作用は207例（日本人15例を含む）中42例（20.3%、日本人6例を含む）に認められ、主な副作用は、頭痛19例（9.2%）、悪心6例（2.9%）、溶血4例（1.9%）、発熱3例（1.4%）であった。</Lang>
+              </Detail>
+            </Item>
+          </OrderedList>
+        </Item>
+        <Item>
+          <Header>
+            <Lang xml:lang="ja">〈慢性炎症性脱髄性多発根神経炎の運動機能低下の進行抑制〉</Lang>
+          </Header>
+          <OrderedList numberContinued="true">
+            <Item id="HDR_EfficacyAndSafety_4" heading="free">
+              <Header>
+                <Lang xml:lang="ja">国際共同第III相試験における無作為化前期間の維持療法</Lang>
+              </Header>
+              <Detail>
+                <Lang xml:lang="ja">維持療法後の来院別のレスポンダー（調整INCATスコアの1ポイント以上の改善と定義）の割合は以下のとおりであった<ReferenceBookRef ref="DOC_04" /> 。</Lang>
+              </Detail>
+              <TblBlock>
+                <WidthDefinition totalWidth="100%">
+                  <Col width="33.33%" />
+                  <Col width="33.33%" />
+                  <Col width="33.33%" />
+                </WidthDefinition>
+                <SimpleTable>
+                  <SimpTblRow>
+                    <SimpTblCell align="left" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">レスポンダー数（%）</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">日本人<?enter?>（N=15）</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">全体<?enter?>（N=207）</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                  <SimpTblRow>
+                    <SimpTblCell align="left" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">Week 7</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">NA</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">135（65.2）</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                  <SimpTblRow>
+                    <SimpTblCell align="left" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">Week 10</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">6（40.0）</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">149（72.0）</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                  <SimpTblRow>
+                    <SimpTblCell align="left" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">Week 13</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">6（40.0）</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">151（72.9）</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                </SimpleTable>
+              </TblBlock>
+              <Detail>
+                <Lang xml:lang="ja">また、IVIG休薬期間のINCATスコアの悪化及び本剤再安定化期間のINCATスコアの改善のみを考慮した場合、維持療法期間の日本人患者のレスポンダー率は100.0%（6/6例）であった。</Lang>
+              </Detail>
+              <Graphic>
+                <GraphicBody gfname="fig02.gif" />
+              </Graphic>
+              <Detail>
+                <Lang xml:lang="ja">副作用は201例（日本人14例を含む）中28例（13.9%、日本人2例を含む）に認められ、主な副作用は、頭痛7例（3.5%）、溶血3例（1.5%）、悪心2例（1.0%）であった。</Lang>
+              </Detail>
+            </Item>
+          </OrderedList>
+        </Item>
+      </SimpleList>
+    </EfficacyAndSafety>
+  </ResultsOfClinicalTrials>
+  <!--１８.薬効薬理-->
+  <EfficacyPharmacology id="HDR_EfficacyPharmacology" heading="fixing">
+    <!--１８.１ 作用機序-->
+    <MechanismOfAction id="HDR_MechanismOfAction" heading="fixing">
+      <Detail>
+        <Lang xml:lang="ja">本剤の作用機序は完全には解明されていない。</Lang>
+      </Detail>
+    </MechanismOfAction>
+    <OtherInformation id="HDR_EfficacyPharmacology_OtherInformation_1" heading="free">
+      <Header>
+        <Lang xml:lang="ja">抗体活性</Lang>
+      </Header>
+      <Detail>
+        <Lang xml:lang="ja">本剤に含有されているIgGは適切なFcエフェクター機能及びFab機能を保持しており、本剤は広範囲の細菌、細菌毒素及びウイルス等に対して広いスペクトルの抗体を有している<ReferenceBookRef ref="DOC_05" /><Sup>,</Sup><ReferenceBookRef ref="DOC_06" /> 。</Lang>
+      </Detail>
+    </OtherInformation>
+    <OtherInformation id="HDR_EfficacyPharmacology_OtherInformation_2" heading="free">
+      <Header>
+        <Lang xml:lang="ja">脱髄性疾患モデルに対する作用</Lang>
+      </Header>
+      <Detail>
+        <Lang xml:lang="ja">本剤はラット実験的アレルギー性脳脊髄炎モデルに対して症状の発現及び進行を抑制した<ReferenceBookRef ref="DOC_06" /> 。</Lang>
+      </Detail>
+    </OtherInformation>
+  </EfficacyPharmacology>
+  <!--１９.有効成分に関する理化学的知見-->
+  <PhyschemOfActIngredients id="HDR_PhyschemOfActIngredients" heading="fixing">
+    <PhyschemOfActIngredientsSection>
+      <GeneralName>
+        <Detail>
+          <Lang xml:lang="ja">pH4処理酸性人免疫グロブリン</Lang>
+        </Detail>
+      </GeneralName>
+      <Nature>
+        <Detail>
+          <Lang xml:lang="ja">本剤は、L-プロリンを安定剤として含有する高濃度人免疫グロブリンである。<?enter?>本剤は、25μg/mL以下のIgAを含む。<?enter?>IgGサブクラスの分布は以下の通りである。<?enter?>　IgG1　69%<?enter?>　IgG2　26%<?enter?>　IgG3　3%<?enter?>　IgG4　2%</Lang>
+        </Detail>
+      </Nature>
+    </PhyschemOfActIngredientsSection>
+  </PhyschemOfActIngredients>
+  <!--２０.取扱い上の注意-->
+  <PrecautionsForHandling heading="fixing" id="HDR_PrecautionsForHandling">
+    <OrderedList numberContinued="false">
+      <Item heading="free" id="HDR_PMDA_PrecautionsForHandling_20200219181316_44">
+        <Detail>
+          <Lang xml:lang="ja">外箱開封後は遮光して保存すること。</Lang>
+        </Detail>
+      </Item>
+      <Item heading="free" id="HDR_PMDA_PrecautionsForHandling_20200219181316_45">
+        <Detail>
+          <Lang xml:lang="ja">本剤は特定生物由来製品に該当することから、本剤を投与又は処方した場合は、医薬品名（販売名）、その製造番号（ロット番号）、投与又は処方した日、投与又は処方を受けた患者の氏名、住所等を記録し、使用日から少なくとも20年間保存すること。</Lang>
+        </Detail>
+      </Item>
+    </OrderedList>
+  </PrecautionsForHandling>
+  <!--２１.承認条件-->
+  <ConditionsOfApproval id="HDR_ConditionsOfApproval" heading="fixing">
+    <Detail>
+      <Lang xml:lang="ja">医薬品リスク管理計画を策定の上、適切に実施すること。</Lang>
+    </Detail>
+  </ConditionsOfApproval>
+  <!--２２.包装-->
+  <Package id="HDR_Package" heading="fixing">
+    <Detail>
+      <Lang xml:lang="ja">
+        <ApprovalBrandNameRef ref="BRD_Drug4" /> 　1バイアル<?enter?><ApprovalBrandNameRef ref="BRD_Drug1" /> 　1バイアル<?enter?><ApprovalBrandNameRef ref="BRD_Drug2" /> 　1バイアル<?enter?><ApprovalBrandNameRef ref="BRD_Drug3" /> 　1バイアル</Lang>
+    </Detail>
+  </Package>
+  <!--２３.主要文献-->
+  <MainLiterature id="HDR_MainLiterature" heading="fixing">
+    <Reference id="DOC_01">
+      <Lang xml:lang="ja">社内資料：臨床薬理試験（2020年2月21日承認、CTD2.7.2.2）</Lang>
+    </Reference>
+    <Reference id="DOC_02">
+      <Lang xml:lang="ja">社内資料：臨床薬理試験（2019年3月26日承認、CTD2.7.2.2）</Lang>
+    </Reference>
+    <Reference id="DOC_03">
+      <Lang xml:lang="ja">社内資料：臨床概要（2020年2月21日承認、CTD2.7.3.2及び2.7.4.2）</Lang>
+    </Reference>
+    <Reference id="DOC_04">
+      <Lang xml:lang="ja">社内資料：臨床概要（2019年3月26日承認、CTD2.7.3.3、2.7.4.2及び2.7.4.3）</Lang>
+    </Reference>
+    <Reference id="DOC_05">
+      <Lang xml:lang="ja">Cramer. M., et al.：Vox Sanguinis 96, 219, 2009</Lang>
+    </Reference>
+    <Reference id="DOC_06">
+      <Lang xml:lang="ja">社内資料：非臨床試験の概括評価（2019年3月26日承認、CTD2.4.2.1）</Lang>
+    </Reference>
+  </MainLiterature>
+  <!--２４.文献請求先及び問い合わせ先-->
+  <AddresseeOfLiteratureRequest id="HDR_AddresseeOfLiteratureRequest" heading="fixing">
+    <AddresseeInfo>
+      <AddresseeOfInquiry>
+        <Lang xml:lang="ja">CSLベーリング株式会社<?enter?>くすり相談窓口</Lang>
+      </AddresseeOfInquiry>
+      <Address>
+        <Lang xml:lang="ja">〒107-0061 東京都港区北青山一丁目2番3号</Lang>
+      </Address>
+      <ContactInformation>
+        <Detail>
+          <Lang xml:lang="ja">電話：0120-534-587</Lang>
+        </Detail>
+      </ContactInformation>
+    </AddresseeInfo>
+  </AddresseeOfLiteratureRequest>
+  <!--２６.製造販売業者等-->
+  <NameAddressManufact id="HDR_NameAddressManufact" heading="fixing">
+    <Manufacturer>
+      <TypeOfIndustry>
+        <Lang xml:lang="ja">製造販売（輸入）</Lang>
+      </TypeOfIndustry>
+      <Name>
+        <Lang xml:lang="ja">CSLベーリング株式会社</Lang>
+      </Name>
+      <Address>
+        <Lang xml:lang="ja">東京都港区北青山一丁目2番3号</Lang>
+      </Address>
+    </Manufacturer>
+  </NameAddressManufact>
+  <ReferenceInformation>
+    <SimpleList>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">［献血又は非献血の区別の考え方］</Lang>
+        </Header>
+        <Detail>
+          <Lang xml:lang="ja">献血又は非献血の区別は製剤の安全性の優劣を示すものではありません。この表示区別は、下記の手順に従って決められています。</Lang>
+        </Detail>
+        <Graphic>
+          <GraphicBody gfname="fig03.gif" scale="90" />
+        </Graphic>
+      </Item>
+    </SimpleList>
+  </ReferenceInformation>
+</PackIns>

@@ -1,0 +1,2166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackIns version="1.0" xmlKind="Packins" drugType="Medicine" referenceOfPrecautionsForUse="6343400-S0001" referenceOfPrecautionsForHandling="6343400-T0001" containedLang="ja" xmlns="http://info.pmda.go.jp/namespace/prescription_drugs/package_insert/1.0">
+  <PackageInsertNo>6343400X1041_3_11</PackageInsertNo>
+  <CompanyIdentifier>261976</CompanyIdentifier>
+  <!--ア.作成又は改訂年月-->
+  <DateOfPreparationOrRevision>
+    <PreparationOrRevision id="今回">
+      <YearMonth>2026-02</YearMonth>
+      <Version>
+        <Lang xml:lang="ja">第5版</Lang>
+      </Version>
+    </PreparationOrRevision>
+    <PreparationOrRevision id="前回">
+      <YearMonth>2025-10</YearMonth>
+    </PreparationOrRevision>
+  </DateOfPreparationOrRevision>
+  <!--イ.日本標準商品分類番号-->
+  <Sccj>
+    <SccjNo>876343</SccjNo>
+  </Sccj>
+  <!--オ.薬効分類名-->
+  <TherapeuticClassification>
+    <Detail>
+      <Lang xml:lang="ja">血漿分画製剤<?enter?>静注用人免疫グロブリン製剤</Lang>
+    </Detail>
+  </TherapeuticClassification>
+  <ApprovalEtc>
+    <DetailBrandName id="BRD_Drug1">
+      <ApprovalBrandName>
+        <Lang xml:lang="ja">献血ベニロン−I静注用500mg</Lang>
+      </ApprovalBrandName>
+      <BrandCode>
+        <YJCode>6343400X1041</YJCode>
+      </BrandCode>
+      <TrademarkInEnglish>
+        <TrademarkName>Kenketsu Venilon-I I.V. Injection 500 mg</TrademarkName>
+      </TrademarkInEnglish>
+      <BrandNameInHiragana>
+        <NameInHiragana>けんけつべにろんIじょうちゅうよう500mg</NameInHiragana>
+      </BrandNameInHiragana>
+      <!--ウ.承認番号-->
+      <ApprovalAndLicenseNo>
+        <ApprovalNo>22100AMX01040</ApprovalNo>
+      </ApprovalAndLicenseNo>
+      <!--ウ.販売開始年月-->
+      <StartingDateOfMarketing>1992-01</StartingDateOfMarketing>
+      <!--エ.貯法、有効期間-->
+      <Storage>
+        <StorageMethod modified="今回">
+          <Lang xml:lang="ja">30℃以下に凍結を避けて保存</Lang>
+        </StorageMethod>
+        <ShelfLife modified="今回">
+          <Lang xml:lang="ja">製造日から3年</Lang>
+        </ShelfLife>
+      </Storage>
+      <!--キ.基準名-->
+      <StandardName>
+        <StandardNameCategory>
+          <StandardNameCategoryCode>2</StandardNameCategoryCode>
+          <StandardNameDetail>
+            <Lang xml:lang="ja">乾燥スルホ化人免疫グロブリン</Lang>
+          </StandardNameDetail>
+        </StandardNameCategory>
+      </StandardName>
+      <!--カ.規制区分-->
+      <RegulatoryClassification>
+        <RegulatoryClassificationCodeAndNote>
+          <RegulatoryClassificationCode>14</RegulatoryClassificationCode>
+        </RegulatoryClassificationCodeAndNote>
+        <RegulatoryClassificationCodeAndNote>
+          <RegulatoryClassificationCode>12</RegulatoryClassificationCode>
+        </RegulatoryClassificationCodeAndNote>
+      </RegulatoryClassification>
+    </DetailBrandName>
+    <DetailBrandName id="BRD_Drug2">
+      <ApprovalBrandName>
+        <Lang xml:lang="ja">献血ベニロン−I静注用2500mg</Lang>
+      </ApprovalBrandName>
+      <BrandCode>
+        <YJCode>6343400X3044</YJCode>
+      </BrandCode>
+      <TrademarkInEnglish>
+        <TrademarkName>Kenketsu Venilon-I I.V. Injection 2500 mg</TrademarkName>
+      </TrademarkInEnglish>
+      <BrandNameInHiragana>
+        <NameInHiragana>けんけつべにろんIじょうちゅうよう2500mg</NameInHiragana>
+      </BrandNameInHiragana>
+      <!--ウ.承認番号-->
+      <ApprovalAndLicenseNo>
+        <ApprovalNo>22100AMX01042</ApprovalNo>
+      </ApprovalAndLicenseNo>
+      <!--ウ.販売開始年月-->
+      <StartingDateOfMarketing>1992-01</StartingDateOfMarketing>
+      <!--エ.貯法、有効期間-->
+      <Storage>
+        <StorageMethod modified="今回">
+          <Lang xml:lang="ja">30℃以下に凍結を避けて保存</Lang>
+        </StorageMethod>
+        <ShelfLife modified="今回">
+          <Lang xml:lang="ja">製造日から3年</Lang>
+        </ShelfLife>
+      </Storage>
+      <!--キ.基準名-->
+      <StandardName>
+        <StandardNameCategory>
+          <StandardNameCategoryCode>2</StandardNameCategoryCode>
+          <StandardNameDetail>
+            <Lang xml:lang="ja">乾燥スルホ化人免疫グロブリン</Lang>
+          </StandardNameDetail>
+        </StandardNameCategory>
+      </StandardName>
+      <!--カ.規制区分-->
+      <RegulatoryClassification>
+        <RegulatoryClassificationCodeAndNote>
+          <RegulatoryClassificationCode>14</RegulatoryClassificationCode>
+        </RegulatoryClassificationCodeAndNote>
+        <RegulatoryClassificationCodeAndNote>
+          <RegulatoryClassificationCode>12</RegulatoryClassificationCode>
+        </RegulatoryClassificationCodeAndNote>
+      </RegulatoryClassification>
+    </DetailBrandName>
+    <DetailBrandName id="BRD_Drug3">
+      <ApprovalBrandName>
+        <Lang xml:lang="ja">献血ベニロン−I静注用5000mg</Lang>
+      </ApprovalBrandName>
+      <BrandCode>
+        <YJCode>6343400X5020</YJCode>
+      </BrandCode>
+      <TrademarkInEnglish>
+        <TrademarkName>Kenketsu Venilon-I I.V. Injection 5000 mg</TrademarkName>
+      </TrademarkInEnglish>
+      <BrandNameInHiragana>
+        <NameInHiragana>けんけつべにろんIじょうちゅうよう5000mg</NameInHiragana>
+      </BrandNameInHiragana>
+      <!--ウ.承認番号-->
+      <ApprovalAndLicenseNo>
+        <ApprovalNo>22100AMX01043</ApprovalNo>
+      </ApprovalAndLicenseNo>
+      <!--ウ.販売開始年月-->
+      <StartingDateOfMarketing>2001-11</StartingDateOfMarketing>
+      <!--エ.貯法、有効期間-->
+      <Storage>
+        <StorageMethod modified="今回">
+          <Lang xml:lang="ja">30℃以下に凍結を避けて保存</Lang>
+        </StorageMethod>
+        <ShelfLife modified="今回">
+          <Lang xml:lang="ja">製造日から3年</Lang>
+        </ShelfLife>
+      </Storage>
+      <!--キ.基準名-->
+      <StandardName>
+        <StandardNameCategory>
+          <StandardNameCategoryCode>2</StandardNameCategoryCode>
+          <StandardNameDetail>
+            <Lang xml:lang="ja">乾燥スルホ化人免疫グロブリン</Lang>
+          </StandardNameDetail>
+        </StandardNameCategory>
+      </StandardName>
+      <!--カ.規制区分-->
+      <RegulatoryClassification>
+        <RegulatoryClassificationCodeAndNote>
+          <RegulatoryClassificationCode>14</RegulatoryClassificationCode>
+        </RegulatoryClassificationCodeAndNote>
+        <RegulatoryClassificationCodeAndNote>
+          <RegulatoryClassificationCode>12</RegulatoryClassificationCode>
+        </RegulatoryClassificationCodeAndNote>
+      </RegulatoryClassification>
+    </DetailBrandName>
+  </ApprovalEtc>
+  <!--キ.一般的名称-->
+  <GenericName>
+    <Detail>
+      <Lang xml:lang="ja">乾燥スルホ化人免疫グロブリン</Lang>
+    </Detail>
+  </GenericName>
+  <SpeciallyDescribedItems>
+    <Detail>
+      <Lang xml:lang="ja">本剤は、貴重なヒト血液を原材料として製剤化したものである。有効成分及び添加剤としてヒト血液由来成分を含有しており、原材料となったヒト血液を採取する際には、問診、感染症関連の検査を実施するとともに、製造工程における一定の不活化・除去処理などを実施し、感染症に対する安全対策を講じているが、ヒト血液を原材料としていることによる感染症伝播のリスクを完全に排除することはできないため、疾病の治療上の必要性を十分に検討の上、必要最小限の使用にとどめること。</Lang>
+    </Detail>
+  </SpeciallyDescribedItems>
+  <!--２.禁忌（次の患者には投与しないこと）-->
+  <ContraIndications id="HDR_ContraIndications" heading="fixing">
+    <Detail>
+      <Lang xml:lang="ja">本剤の成分に対しショックの既往歴のある患者</Lang>
+    </Detail>
+  </ContraIndications>
+  <!--３.組成・性状-->
+  <CompositionAndProperty id="HDR_CompositionAndProperty" heading="fixing">
+    <!--３.１ 組成-->
+    <Composition id="HDR_Composition" heading="fixing">
+      <OverviewOfComposition>
+        <Lang xml:lang="ja">本剤は、スルホ化人免疫グロブリンGを含む凍結乾燥製剤で、1バイアル中に各々下記の成分を含有する。</Lang>
+      </OverviewOfComposition>
+      <CompositionForBrand ref="BRD_Drug1">
+        <CompositionForConstituentUnits>
+          <CompositionTable>
+            <ContainedAmount>
+              <ActiveIngredientName>
+                <Lang xml:lang="ja">1バイアル中<?enter?>スルホ化人免疫グロブリンG 500mg</Lang>
+              </ActiveIngredientName>
+            </ContainedAmount>
+            <Additives>
+              <ListOfAdditives modified="今回">
+                <Lang xml:lang="ja">1バイアル中<?enter?>グリシン 195mg<?enter?>人血清アルブミン 25mg<?enter?><Sub>D</Sub>-マンニトール 90mg<?enter?>塩化ナトリウム 100mg<?enter?>pH調節剤 適量</Lang>
+              </ListOfAdditives>
+            </Additives>
+            <OtherComposition>
+              <CategoryName>
+                <Lang xml:lang="ja">添付溶剤</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail>
+                  <Lang xml:lang="ja">日本薬局方注射用水 10mL</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherComposition>
+          </CompositionTable>
+        </CompositionForConstituentUnits>
+      </CompositionForBrand>
+      <CompositionForBrand ref="BRD_Drug2">
+        <CompositionForConstituentUnits>
+          <CompositionTable>
+            <ContainedAmount>
+              <ActiveIngredientName>
+                <Lang xml:lang="ja">1バイアル中<?enter?>スルホ化人免疫グロブリンG 2,500mg</Lang>
+              </ActiveIngredientName>
+            </ContainedAmount>
+            <Additives>
+              <ListOfAdditives modified="今回">
+                <Lang xml:lang="ja">1バイアル中<?enter?>グリシン 975mg<?enter?>人血清アルブミン 125mg<?enter?><Sub>D</Sub>-マンニトール 450mg<?enter?>塩化ナトリウム 500mg<?enter?>pH調節剤 適量</Lang>
+              </ListOfAdditives>
+            </Additives>
+            <OtherComposition>
+              <CategoryName>
+                <Lang xml:lang="ja">添付溶剤</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail>
+                  <Lang xml:lang="ja">日本薬局方注射用水 50mL</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherComposition>
+          </CompositionTable>
+        </CompositionForConstituentUnits>
+      </CompositionForBrand>
+      <CompositionForBrand ref="BRD_Drug3">
+        <CompositionForConstituentUnits>
+          <CompositionTable>
+            <ContainedAmount>
+              <ActiveIngredientName>
+                <Lang xml:lang="ja">1バイアル中<?enter?>スルホ化人免疫グロブリンG 5,000mg</Lang>
+              </ActiveIngredientName>
+            </ContainedAmount>
+            <Additives>
+              <ListOfAdditives modified="今回">
+                <Lang xml:lang="ja">1バイアル中<?enter?>グリシン 1,950mg<?enter?>人血清アルブミン 250mg<?enter?><Sub>D</Sub>-マンニトール 900mg<?enter?>塩化ナトリウム 1,000mg<?enter?>pH調節剤 適量</Lang>
+              </ListOfAdditives>
+            </Additives>
+            <OtherComposition>
+              <CategoryName>
+                <Lang xml:lang="ja">添付溶剤</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail>
+                  <Lang xml:lang="ja">日本薬局方注射用水 100mL</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherComposition>
+          </CompositionTable>
+        </CompositionForConstituentUnits>
+      </CompositionForBrand>
+      <CompositionComments modified="今回">
+        <Lang xml:lang="ja">本剤の有効成分であるスルホ化人免疫グロブリンG及び添加剤の人血清アルブミンは、ヒトの血液（採血国：日本、採血方法：献血）を原材料としている。また、本剤は製造工程でブタ由来成分（ヘパリン）を使用している。</Lang>
+      </CompositionComments>
+    </Composition>
+    <!--３.２ 製剤の性状-->
+    <Property id="HDR_Property" heading="fixing">
+      <PropertyForBrand ref="BRD_Drug1">
+        <PropertyForConstituentUnits>
+          <PropertyTable>
+            <OtherProperty>
+              <CategoryName>
+                <Lang xml:lang="ja">性状</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail modified="今回">
+                  <Lang xml:lang="ja">本剤は白色または淡黄色の凍結乾燥製剤であり添付の溶剤で溶解するとき、微黄色の澄明又はわずかに白濁した液剤となり、肉眼的にほとんど沈殿を認めない。</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherProperty>
+            <OtherProperty>
+              <CategoryName>
+                <Lang xml:lang="ja">pH</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail>
+                  <Lang xml:lang="ja">6.4～7.2</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherProperty>
+            <OtherProperty>
+              <CategoryName>
+                <Lang xml:lang="ja">浸透圧比<?enter?>（生理食塩液<?enter?>対比）</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail>
+                  <Lang xml:lang="ja">約2</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherProperty>
+          </PropertyTable>
+        </PropertyForConstituentUnits>
+      </PropertyForBrand>
+      <PropertyForBrand ref="BRD_Drug2">
+        <PropertyForConstituentUnits>
+          <PropertyTable>
+            <OtherProperty>
+              <CategoryName>
+                <Lang xml:lang="ja">性状</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail modified="今回">
+                  <Lang xml:lang="ja">本剤は白色または淡黄色の凍結乾燥製剤であり添付の溶剤で溶解するとき、微黄色の澄明又はわずかに白濁した液剤となり、肉眼的にほとんど沈殿を認めない。</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherProperty>
+            <OtherProperty>
+              <CategoryName>
+                <Lang xml:lang="ja">pH</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail>
+                  <Lang xml:lang="ja">6.4～7.2</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherProperty>
+            <OtherProperty>
+              <CategoryName>
+                <Lang xml:lang="ja">浸透圧比<?enter?>（生理食塩液<?enter?>対比）</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail>
+                  <Lang xml:lang="ja">約2</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherProperty>
+          </PropertyTable>
+        </PropertyForConstituentUnits>
+      </PropertyForBrand>
+      <PropertyForBrand ref="BRD_Drug3">
+        <PropertyForConstituentUnits>
+          <PropertyTable>
+            <OtherProperty>
+              <CategoryName>
+                <Lang xml:lang="ja">性状</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail modified="今回">
+                  <Lang xml:lang="ja">本剤は白色または淡黄色の凍結乾燥製剤であり添付の溶剤で溶解するとき、微黄色の澄明又はわずかに白濁した液剤となり、肉眼的にほとんど沈殿を認めない。</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherProperty>
+            <OtherProperty>
+              <CategoryName>
+                <Lang xml:lang="ja">pH</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail>
+                  <Lang xml:lang="ja">6.4～7.2</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherProperty>
+            <OtherProperty>
+              <CategoryName>
+                <Lang xml:lang="ja">浸透圧比<?enter?>（生理食塩液<?enter?>対比）</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail>
+                  <Lang xml:lang="ja">約2</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherProperty>
+          </PropertyTable>
+        </PropertyForConstituentUnits>
+      </PropertyForBrand>
+    </Property>
+  </CompositionAndProperty>
+  <!--４.効能又は効果-->
+  <IndicationsOrEfficacy wordingPatternOfIndications="3" id="HDR_IndicationsOrEfficacy" heading="fixing">
+    <UnorderedList>
+      <Item>
+        <Detail>
+          <Lang xml:lang="ja">低又は無ガンマグロブリン血症</Lang>
+        </Detail>
+      </Item>
+      <Item>
+        <Detail>
+          <Lang xml:lang="ja">重症感染症における抗生物質との併用</Lang>
+        </Detail>
+      </Item>
+      <Item>
+        <Detail modified="前回">
+          <Lang xml:lang="ja">免疫性血小板減少症（他剤が無効で著明な出血傾向があり、外科的処置又は出産等一時的止血管理を必要とする場合）</Lang>
+        </Detail>
+      </Item>
+      <Item>
+        <Detail>
+          <Lang xml:lang="ja">川崎病の急性期（重症であり、冠動脈障害の発生の危険がある場合）</Lang>
+        </Detail>
+      </Item>
+      <Item>
+        <Detail>
+          <Lang xml:lang="ja">ギラン・バレー症候群（急性増悪期で歩行困難な重症例）</Lang>
+        </Detail>
+      </Item>
+      <Item>
+        <Detail>
+          <Lang xml:lang="ja">好酸球性多発血管炎性肉芽腫症における神経障害の改善（ステロイド剤が効果不十分な場合に限る）</Lang>
+        </Detail>
+      </Item>
+      <Item>
+        <Detail>
+          <Lang xml:lang="ja">慢性炎症性脱髄性多発根神経炎（多巣性運動ニューロパチーを含む）の筋力低下の改善</Lang>
+        </Detail>
+      </Item>
+      <Item>
+        <Detail>
+          <Lang xml:lang="ja">視神経炎の急性期（ステロイド剤が効果不十分な場合）</Lang>
+        </Detail>
+      </Item>
+    </UnorderedList>
+  </IndicationsOrEfficacy>
+  <!--５.効能又は効果に関連する注意-->
+  <EfficacyRelatedPrecautions wordingPatternOfEfficacyRelatedPrecautions="3" id="HDR_EfficacyRelatedPrecautions" heading="fixing">
+    <SimpleList>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">〈重症感染症における抗生物質との併用〉</Lang>
+        </Header>
+      </Item>
+    </SimpleList>
+    <OrderedList numberContinued="false">
+      <Item id="HDR_EfficacyRelatedPrecautions_1" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">適切な抗菌化学療法によっても十分な効果の得られない重症感染症を対象とすること。</Lang>
+        </Detail>
+      </Item>
+    </OrderedList>
+    <SimpleList>
+      <Item>
+        <Header modified="前回">
+          <Lang xml:lang="ja">〈免疫性血小板減少症〉</Lang>
+        </Header>
+      </Item>
+    </SimpleList>
+    <OrderedList numberContinued="true">
+      <Item id="HDR_EfficacyRelatedPrecautions_2" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">本剤による治療は原因療法ではなく、対症療法であることに留意すること。</Lang>
+        </Detail>
+      </Item>
+    </OrderedList>
+    <OrderedList numberContinued="true">
+      <Item id="HDR_EfficacyRelatedPrecautions_3" heading="free">
+        <Detail modified="前回">
+          <Lang xml:lang="ja">小児の新規診断又は持続性免疫性血小板減少症は多くの場合自然寛解するものであることを考慮すること。</Lang>
+        </Detail>
+      </Item>
+    </OrderedList>
+    <SimpleList>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">〈川崎病の急性期〉</Lang>
+        </Header>
+      </Item>
+    </SimpleList>
+    <OrderedList numberContinued="true">
+      <Item id="HDR_EfficacyRelatedPrecautions_4" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">発病後7日以内に投与を開始することが望ましい。</Lang>
+        </Detail>
+      </Item>
+    </OrderedList>
+    <SimpleList>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">〈好酸球性多発血管炎性肉芽腫症における神経障害の改善〉</Lang>
+        </Header>
+      </Item>
+    </SimpleList>
+    <OrderedList numberContinued="true">
+      <Item id="HDR_EfficacyRelatedPrecautions_5" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">ステロイド剤による適切な治療（原則として、副腎皮質ステロイドをプレドニゾロン換算で40mg/日を4週間以上投与）によっても十分な効果の得られない患者を対象とすること。<HeaderRef ref="HDR_EfficacyAndSafety_7" /></Lang>
+        </Detail>
+      </Item>
+    </OrderedList>
+    <SimpleList>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">〈慢性炎症性脱髄性多発根神経炎（多巣性運動ニューロパチーを含む）の筋力低下の改善〉</Lang>
+        </Header>
+      </Item>
+    </SimpleList>
+    <OrderedList numberContinued="true">
+      <Item id="HDR_EfficacyRelatedPrecautions_6" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">本剤による治療は原因療法ではなく対症療法であること及び反復投与による有効性、安全性は確立していないことに留意すること。</Lang>
+        </Detail>
+      </Item>
+    </OrderedList>
+    <SimpleList>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">〈視神経炎の急性期〉</Lang>
+        </Header>
+      </Item>
+    </SimpleList>
+    <OrderedList numberContinued="true">
+      <Item id="HDR_EfficacyRelatedPrecautions_7" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">ステロイド剤による適切な治療（原則として、メチルプレドニゾロン1,000mg/日を3日間以上点滴静注）によっても十分な効果の得られない患者を対象とすること。<HeaderRef ref="HDR_EfficacyAndSafety_10" /></Lang>
+        </Detail>
+      </Item>
+    </OrderedList>
+    <OrderedList numberContinued="true">
+      <Item id="HDR_EfficacyRelatedPrecautions_8" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">原則として、抗アクアポリン4（AQP4）抗体陽性の患者へ投与すること。抗AQP4抗体陰性の患者は種々の病態を含むため、自己免疫性の病態が疑われ、他の治療で改善が認められない又は他の治療が困難な場合にのみ投与を検討すること。<HeaderRef ref="HDR_ImportantPrecautions_8" />,<HeaderRef ref="HDR_EfficacyAndSafety_10" /></Lang>
+        </Detail>
+      </Item>
+    </OrderedList>
+  </EfficacyRelatedPrecautions>
+  <!--６.用法及び用量-->
+  <InfoDoseAdmin wordingPatternOfDoseAdmin="3" id="HDR_InfoDoseAdmin" heading="fixing">
+    <DoseAdmin>
+      <SimpleList>
+        <Item>
+          <Header modified="今回">
+            <Lang xml:lang="ja">〈効能共通〉</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">本剤は、添付の日局注射用水（500mg製剤では10mL、2,500mg製剤では50mL、5,000mg製剤では100mL）に溶解して、以下のとおり効能又は効果に応じて投与する。直接静注する場合は、極めて緩徐に行う。 </Lang>
+          </Detail>
+        </Item>
+        <Item>
+          <Header>
+            <Lang xml:lang="ja">〈低又は無ガンマグロブリン血症〉</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">通常、1回にスルホ化人免疫グロブリンG 200～600mg（4～12mL）/kg体重を3～4週間隔で点滴静注又は直接静注する。なお、患者の状態に応じて適宜増減する。</Lang>
+          </Detail>
+        </Item>
+        <Item>
+          <Header>
+            <Lang xml:lang="ja">〈重症感染症における抗生物質との併用〉</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">通常、成人に対しては、1回にスルホ化人免疫グロブリンG 2,500～5,000mg（50～100mL）を、小児に対しては、1回にスルホ化人免疫グロブリンG 50～150mg（1～3mL）/kg体重を点滴静注又は直接静注する。なお、年齢及び症状に応じて適宜増減する。</Lang>
+          </Detail>
+        </Item>
+        <Item>
+          <Header modified="前回">
+            <Lang xml:lang="ja">〈免疫性血小板減少症〉</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">通常、1日にスルホ化人免疫グロブリンG 200～400mg（4～8mL）/kg体重を点滴静注又は直接静注する。なお、5日間投与しても症状の改善が認められない場合は以降の投与を中止すること。年齢及び症状に応じて適宜増減する。</Lang>
+          </Detail>
+        </Item>
+        <Item>
+          <Header>
+            <Lang xml:lang="ja">〈川崎病の急性期〉</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">通常、1日にスルホ化人免疫グロブリンG 200mg（4mL）/kg体重を5日間点滴静注又は直接静注、若しくは2,000mg（40mL）/kg体重を1回点滴静注する。なお、年齢及び症状に応じて5日間投与の場合は適宜増減、1回投与の場合は適宜減量する。</Lang>
+          </Detail>
+        </Item>
+        <Item>
+          <Header>
+            <Lang xml:lang="ja">〈ギラン・バレー症候群〉</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">通常、1日にスルホ化人免疫グロブリンG 400mg（8mL）/kg体重を5日間点滴静注又は直接静注する。</Lang>
+          </Detail>
+        </Item>
+        <Item>
+          <Header>
+            <Lang xml:lang="ja">〈好酸球性多発血管炎性肉芽腫症における神経障害の改善〉</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">通常、1日にスルホ化人免疫グロブリンG 400mg（8mL）/kg体重を5日間点滴静注する。</Lang>
+          </Detail>
+        </Item>
+        <Item>
+          <Header>
+            <Lang xml:lang="ja">〈慢性炎症性脱髄性多発根神経炎（多巣性運動ニューロパチーを含む）の筋力低下の改善〉</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">通常、1日にスルホ化人免疫グロブリンG 400mg（8mL）/kg体重を5日間連日点滴静注する。なお、年齢及び症状に応じて適宜減量する。</Lang>
+          </Detail>
+        </Item>
+        <Item>
+          <Header>
+            <Lang xml:lang="ja">〈視神経炎の急性期（ステロイド剤が効果不十分な場合）〉</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">通常、1日にスルホ化人免疫グロブリンG 400mg（8mL）/kg体重を5日間点滴静注する。</Lang>
+          </Detail>
+        </Item>
+      </SimpleList>
+    </DoseAdmin>
+  </InfoDoseAdmin>
+  <!--７.用法及び用量に関連する注意-->
+  <InfoPrecautionsDosage wordingPatternOfInfoPrecautionsDosage="3" id="HDR_InfoPrecautionsDosage" heading="fixing">
+    <SimpleList>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">〈効能共通〉</Lang>
+        </Header>
+      </Item>
+    </SimpleList>
+    <OrderedList numberContinued="false">
+      <Item id="HDR_InfoPrecautionsDosage_1" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">急速に注射すると血圧降下を起こす可能性がある。特に低又は無ガンマグロブリン血症の患者には注意すること。<HeaderRef ref="HDR_PediatricUse_1" /></Lang>
+        </Detail>
+      </Item>
+      <Item id="HDR_InfoPrecautionsDosage_2" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">初日の投与開始から30分間は0.01～0.02mL/kg/分で投与し、副作用等の異常所見が認められなければ、0.03～0.06mL/kg/分まで徐々に投与速度を上げてもよい。2日目以降は、前日に耐容した速度で投与することができる<ReferenceBookRef ref="DOC_01" />。<HeaderRef ref="HDR_PediatricUse_1" /></Lang>
+        </Detail>
+      </Item>
+    </OrderedList>
+    <SimpleList>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">〈低又は無ガンマグロブリン血症〉</Lang>
+        </Header>
+      </Item>
+    </SimpleList>
+    <OrderedList numberContinued="true">
+      <Item id="HDR_InfoPrecautionsDosage_3" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">血清IgGトラフ値を参考に、基礎疾患や感染症などの臨床症状に応じて、投与量、投与間隔を調節する必要があることを考慮すること。</Lang>
+        </Detail>
+      </Item>
+    </OrderedList>
+    <SimpleList>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">〈川崎病の急性期〉</Lang>
+        </Header>
+      </Item>
+    </SimpleList>
+    <OrderedList numberContinued="true">
+      <Item id="HDR_InfoPrecautionsDosage_4" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">2,000mg（40mL）/kgを1回投与する場合には、基本的には7.2の投与速度を遵守することとするが、目安としては12時間以上かけて点滴静注すること<ReferenceBookRef ref="DOC_01" />。<HeaderRef ref="HDR_PediatricUse_1" /></Lang>
+        </Detail>
+      </Item>
+    </OrderedList>
+    <OrderedList numberContinued="true">
+      <Item id="HDR_InfoPrecautionsDosage_5" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">追加投与は、本剤投与における効果不十分（発熱の持続等）で症状の改善が見られない等、必要と思われる時のみに行うこと。</Lang>
+        </Detail>
+      </Item>
+    </OrderedList>
+    <SimpleList>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">〈好酸球性多発血管炎性肉芽腫症における神経障害の改善〉</Lang>
+        </Header>
+      </Item>
+    </SimpleList>
+    <OrderedList numberContinued="true">
+      <Item id="HDR_InfoPrecautionsDosage_6" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">本剤投与後4週間は再投与を行わないこと。4週間以内に再投与した場合の有効性及び安全性は検討されていない。</Lang>
+        </Detail>
+      </Item>
+    </OrderedList>
+    <OrderedList numberContinued="true">
+      <Item id="HDR_InfoPrecautionsDosage_7" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">本剤投与後に明らかな臨床症状の悪化や新たな神経症状の発現等が認められた場合には、治療上の有益性と危険性を十分に考慮した上で、本剤の再投与を判断すること。本剤を再投与した場合の有効性及び安全性は確立していない。</Lang>
+        </Detail>
+      </Item>
+    </OrderedList>
+    <SimpleList>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">〈慢性炎症性脱髄性多発根神経炎（多巣性運動ニューロパチーを含む）の筋力低下の改善〉</Lang>
+        </Header>
+      </Item>
+    </SimpleList>
+    <OrderedList numberContinued="true">
+      <Item id="HDR_InfoPrecautionsDosage_8" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">本剤投与開始4週間は追加投与を行わないこと。4週間以内に追加投与した場合の有効性及び安全性は検討されていない。</Lang>
+        </Detail>
+      </Item>
+    </OrderedList>
+    <SimpleList>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">〈視神経炎の急性期〉</Lang>
+        </Header>
+      </Item>
+    </SimpleList>
+    <OrderedList numberContinued="true">
+      <Item id="HDR_InfoPrecautionsDosage_9" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">本剤投与後4週間は再投与を行わないこと。4週間以内に再投与した場合の有効性及び安全性は検討されていない。</Lang>
+        </Detail>
+      </Item>
+    </OrderedList>
+    <OrderedList numberContinued="true">
+      <Item id="HDR_InfoPrecautionsDosage_10" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">本剤投与後に明らかな臨床症状の悪化や新たな視神経炎の発現等が認められた場合には、治療上の有益性と危険性を十分に考慮した上で、本剤の再投与を判断すること。本剤を再投与した場合の有効性及び安全性は確立していない。</Lang>
+        </Detail>
+      </Item>
+    </OrderedList>
+  </InfoPrecautionsDosage>
+  <!--８.重要な基本的注意-->
+  <ImportantPrecautions id="HDR_ImportantPrecautions" heading="fixing">
+    <SimpleList>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">〈効能共通〉</Lang>
+        </Header>
+      </Item>
+    </SimpleList>
+    <OrderedList numberContinued="false">
+      <Item id="HDR_ImportantPrecautions_1" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">本剤の使用にあたっては、疾病の治療における本剤の必要性とともに、本剤の製造に際しては感染症の伝播を防止するための安全対策が講じられているものの、ヒトの血液を原材料としていることに由来する感染症伝播のリスクを完全に排除することができないことを、患者に対して説明し、その理解を得るよう努めること。</Lang>
+        </Detail>
+      </Item>
+    </OrderedList>
+    <OrderedList numberContinued="true">
+      <Item id="HDR_ImportantPrecautions_2" heading="free">
+        <Detail modified="今回">
+          <Lang xml:lang="ja">本剤の原材料となる献血者の血液については、HBs抗原、抗HCV抗体、抗HIV-1抗体、抗HIV-2抗体及び抗HTLV-1抗体陰性で、かつALT値でスクリーニングを実施している。さらに、HBV、HCV及びHIVについては個別の試験血漿で、HAV及びヒトパルボウイルスB19についてはプールした試験血漿で核酸増幅検査（NAT）を実施し、適合した血漿を本剤の製造に使用しているが、当該NATの検出限界以下のウイルスが混入している可能性が常に存在する。その後の本剤の製造工程であるカプリル酸分画、スルホ化処理及びウイルス除去膜処理は、HIVをはじめとする各種ウイルスの除去・不活化効果を有することが確認されているが、投与に際しては、次の点に十分注意すること。</Lang>
+        </Detail>
+        <OrderedList numberContinued="false">
+          <Item id="HDR_ImportantPrecautions_3" heading="free">
+            <Detail>
+              <Lang xml:lang="ja">血漿分画製剤の現在の製造工程では、ヒトパルボウイルスB19等のウイルスを完全に不活化・除去することが困難であるため、本剤の投与によりその感染の可能性を否定できないので、投与後の経過を十分に観察すること。<HeaderRef ref="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_5" />,<HeaderRef ref="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_6" />,<HeaderRef ref="HDR_UseInPregnant" /></Lang>
+            </Detail>
+          </Item>
+          <Item id="HDR_ImportantPrecautions_4" heading="free">
+            <Detail>
+              <Lang xml:lang="ja">現在までに本剤の投与により変異型クロイツフェルト・ヤコブ病（vCJD）等が伝播したとの報告はない。しかしながら、製造工程において異常プリオンを低減し得るとの報告があるものの、理論的なvCJD等の伝播のリスクを完全には排除できないので、投与の際には患者への説明を十分行い、治療上の必要性を十分検討の上投与すること。</Lang>
+            </Detail>
+          </Item>
+        </OrderedList>
+      </Item>
+    </OrderedList>
+    <OrderedList numberContinued="true">
+      <Item id="HDR_ImportantPrecautions_5" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">本剤は抗A及び抗B血液型抗体を有する。したがって、血液型がO型以外の患者に大量投与したとき、溶血性貧血を起こすことがある。</Lang>
+        </Detail>
+      </Item>
+    </OrderedList>
+    <OrderedList numberContinued="true">
+      <Item id="HDR_ImportantPrecautions_6" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">急性腎障害があらわれることがあるので、投与に先立って患者が脱水状態にないことを確認すること。<HeaderRef ref="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_8" />,<HeaderRef ref="HDR_SeriousAdverseEvents_4" /></Lang>
+        </Detail>
+      </Item>
+    </OrderedList>
+    <SimpleList>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">〈ギラン・バレー症候群〉</Lang>
+        </Header>
+      </Item>
+    </SimpleList>
+    <OrderedList numberContinued="true">
+      <Item id="HDR_ImportantPrecautions_7" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">筋力低下の改善が認められた後、再燃することがあるので、その場合には本剤の再投与を含め、適切な処置を考慮すること。</Lang>
+        </Detail>
+      </Item>
+    </OrderedList>
+    <SimpleList>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">〈視神経炎の急性期〉</Lang>
+        </Header>
+      </Item>
+    </SimpleList>
+    <OrderedList numberContinued="true">
+      <Item id="HDR_ImportantPrecautions_8" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">視神経炎の病態・診断及び本剤に関する十分な知識を有し、本剤の副作用への対処が可能な医師との連携のもとで投与すること。<HeaderRef ref="HDR_EfficacyRelatedPrecautions_8" /></Lang>
+        </Detail>
+      </Item>
+    </OrderedList>
+  </ImportantPrecautions>
+  <!--９.特定の背景を有する患者に関する注意-->
+  <UseInSpecificPopulations id="HDR_UseInSpecificPopulations" heading="fixing">
+    <!--９.１ 合併症・既往歴等のある患者-->
+    <UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc id="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc" heading="fixing">
+      <OrderedList numberContinued="false">
+        <Item id="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_1" heading="free">
+          <Header>
+            <Lang xml:lang="ja">本剤の成分に対し過敏症の既往歴のある患者</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">治療上やむを得ないと判断される場合を除き、投与しないこと。</Lang>
+          </Detail>
+        </Item>
+        <Item id="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_2" heading="free">
+          <Header>
+            <Lang xml:lang="ja">IgA欠損症の患者</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">抗IgA抗体を保有する患者では過敏反応を起こすおそれがある。</Lang>
+          </Detail>
+        </Item>
+        <Item id="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_3" heading="free">
+          <Header>
+            <Lang xml:lang="ja">脳・心臓血管障害又はその既往歴のある患者</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">適宜減量し、できるだけゆっくりと投与することが望ましい。大量投与による血液粘度の上昇等により脳梗塞又は心筋梗塞等の血栓塞栓症を起こすおそれがある。<HeaderRef ref="HDR_UseInTheElderly" />,<HeaderRef ref="HDR_SeriousAdverseEvents_7" /></Lang>
+          </Detail>
+        </Item>
+        <Item id="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_4" heading="free">
+          <Header>
+            <Lang xml:lang="ja">血栓塞栓症の危険性の高い患者</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">適宜減量し、できるだけゆっくりと投与することが望ましい。大量投与による血液粘度の上昇等により血栓塞栓症を起こすおそれがある。<HeaderRef ref="HDR_SeriousAdverseEvents_7" /></Lang>
+          </Detail>
+        </Item>
+        <Item id="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_5" heading="free">
+          <Header>
+            <Lang xml:lang="ja">溶血性・失血性貧血の患者</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">ヒトパルボウイルスB19の感染を起こす可能性を否定できない。感染した場合には、発熱と急激な貧血を伴う重篤な全身症状を起こすことがある。<HeaderRef ref="HDR_ImportantPrecautions_3" /></Lang>
+          </Detail>
+        </Item>
+        <Item id="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_6" heading="free">
+          <Header>
+            <Lang xml:lang="ja">免疫不全患者・免疫抑制状態の患者</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">ヒトパルボウイルスB19の感染を起こす可能性を否定できない。感染した場合には、持続性の貧血を起こすことがある。<HeaderRef ref="HDR_ImportantPrecautions_3" /></Lang>
+          </Detail>
+        </Item>
+        <Item id="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_7" heading="free">
+          <Header>
+            <Lang xml:lang="ja">心機能の低下している患者</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">適宜減量し、できるだけゆっくりと投与することが望ましい。大量投与により、心不全を発症又は悪化させるおそれがある。<HeaderRef ref="HDR_SeriousAdverseEvents_8" /></Lang>
+          </Detail>
+        </Item>
+        <Item id="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_8" heading="free">
+          <Header>
+            <Lang xml:lang="ja">急性腎障害の危険性の高い患者</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">適宜減量し、できるだけゆっくりと投与することが望ましい。<HeaderRef ref="HDR_ImportantPrecautions_6" />,<HeaderRef ref="HDR_SeriousAdverseEvents_4" /></Lang>
+          </Detail>
+        </Item>
+      </OrderedList>
+    </UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc>
+    <!--９.２ 腎機能障害患者-->
+    <PatientsWithRenalImpairment id="HDR_PatientsWithRenalImpairment" heading="fixing">
+      <Detail>
+        <Lang xml:lang="ja">腎機能を悪化させるおそれがある。<HeaderRef ref="HDR_SeriousAdverseEvents_4" /></Lang>
+      </Detail>
+    </PatientsWithRenalImpairment>
+    <!--９.５ 妊婦-->
+    <UseInPregnant id="HDR_UseInPregnant" heading="fixing">
+      <Detail>
+        <Lang xml:lang="ja">妊婦又は妊娠している可能性のある女性には、治療上の有益性が危険性を上回ると判断される場合にのみ投与すること。本剤の投与によりヒトパルボウイルスB19の感染の可能性を否定できない。感染した場合には胎児への障害（流産、胎児水腫、胎児死亡）が起こる可能性がある。<HeaderRef ref="HDR_ImportantPrecautions_3" /></Lang>
+      </Detail>
+    </UseInPregnant>
+    <!--９.６ 授乳婦-->
+    <UseInNursing id="HDR_UseInNursing" heading="fixing">
+      <Detail>
+        <Lang xml:lang="ja">治療上の有益性及び母乳栄養の有益性を考慮し、授乳の継続又は中止を検討すること。</Lang>
+      </Detail>
+    </UseInNursing>
+    <!--９.７ 小児等-->
+    <PediatricUse id="HDR_PediatricUse" heading="fixing">
+      <OrderedList numberContinued="false">
+        <Item id="HDR_PediatricUse_1" heading="free">
+          <Detail>
+            <Lang xml:lang="ja">投与速度に注意するとともに、経過を十分に観察すること。ショック等重篤な副作用を起こすことがある。<HeaderRef ref="HDR_InfoPrecautionsDosage_1" />,<HeaderRef ref="HDR_InfoPrecautionsDosage_2" />,<HeaderRef ref="HDR_InfoPrecautionsDosage_4" /></Lang>
+          </Detail>
+        </Item>
+        <Item id="HDR_PediatricUse_2" heading="free">
+          <Detail>
+            <Lang xml:lang="ja">低出生体重児、新生児を対象とした有効性及び安全性を指標とした臨床試験は実施していない。</Lang>
+          </Detail>
+        </Item>
+      </OrderedList>
+    </PediatricUse>
+    <!--９.８ 高齢者-->
+    <UseInTheElderly id="HDR_UseInTheElderly" heading="fixing">
+      <Detail>
+        <Lang xml:lang="ja">患者の状態を観察しながら慎重に投与すること。一般に生理機能が低下している。また、一般に脳・心臓血管障害又はその既往歴のある患者がみられ、血栓塞栓症を起こすおそれがある。<HeaderRef ref="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_3" />,<HeaderRef ref="HDR_SeriousAdverseEvents_7" /></Lang>
+      </Detail>
+    </UseInTheElderly>
+  </UseInSpecificPopulations>
+  <!--１０.相互作用-->
+  <Interactions id="HDR_Interactions" heading="fixing">
+    <!--１０.２ 併用注意（併用に注意すること）-->
+    <PrecautionsForCombinations id="HDR_PrecautionsForCombinations" heading="fixing">
+      <PrecautionsForCombination>
+        <PrecautionsForCombi>
+          <WidthDefinition totalWidth="582.05px">
+            <Col width="172.83px" />
+            <Col width="269.57px" />
+            <Col width="139.65px" />
+          </WidthDefinition>
+          <Drug>
+            <DrugName>
+              <SimpleList>
+                <Item>
+                  <Detail>
+                    <Lang xml:lang="ja">非経口用生ワクチン</Lang>
+                  </Detail>
+                </Item>
+                <Item>
+                  <Detail>
+                    <Lang xml:lang="ja">麻疹ワクチン</Lang>
+                  </Detail>
+                </Item>
+                <Item>
+                  <Detail>
+                    <Lang xml:lang="ja">おたふくかぜワクチン</Lang>
+                  </Detail>
+                </Item>
+                <Item>
+                  <Detail>
+                    <Lang xml:lang="ja">風疹ワクチン</Lang>
+                  </Detail>
+                </Item>
+                <Item>
+                  <Detail>
+                    <Lang xml:lang="ja">これら混合ワクチン</Lang>
+                  </Detail>
+                </Item>
+                <Item>
+                  <Detail>
+                    <Lang xml:lang="ja">水痘ワクチン等</Lang>
+                  </Detail>
+                </Item>
+              </SimpleList>
+            </DrugName>
+            <ClinSymptomsAndMeasures>
+              <SimpleList>
+                <Item>
+                  <Detail>
+                    <Lang xml:lang="ja">本剤の投与を受けた者は、生ワクチンの効果が得られないおそれがあるので、生ワクチンの接種は本剤投与後3か月以上延期すること。また、生ワクチン接種後14日以内に本剤を投与した場合は、投与後3か月以上経過した後に生ワクチンを再接種することが望ましい。</Lang>
+                  </Detail>
+                </Item>
+                <Item>
+                  <Detail modified="前回">
+                    <Lang xml:lang="ja">なお、免疫性血小板減少症、川崎病、ギラン・バレー症候群、好酸球性多発血管炎性肉芽腫症、多巣性運動ニューロパチー（MMN）を含む慢性炎症性脱髄性多発根神経炎（CIDP）、視神経炎の急性期に対する大量療法（200mg/kg以上）後に生ワクチンを接種する場合は、原則として生ワクチンの接種を6か月以上（麻疹感染の危険性が低い場合の麻疹ワクチン接種は11か月以上）延期すること<ReferenceBookRef ref="DOC_02" /><Sup>,</Sup><ReferenceBookRef ref="DOC_03" />。</Lang>
+                  </Detail>
+                </Item>
+              </SimpleList>
+            </ClinSymptomsAndMeasures>
+            <MechanismAndRiskFactors>
+              <SimpleList>
+                <Item>
+                  <Detail>
+                    <Lang xml:lang="ja">本剤の主成分は免疫抗体であるため、中和反応により生ワクチンの効果が減弱されるおそれがある。</Lang>
+                  </Detail>
+                </Item>
+              </SimpleList>
+            </MechanismAndRiskFactors>
+          </Drug>
+        </PrecautionsForCombi>
+      </PrecautionsForCombination>
+    </PrecautionsForCombinations>
+  </Interactions>
+  <!--１１.副作用-->
+  <AdverseEvents id="HDR_AdverseEvents" heading="fixing">
+    <CommonPrecautionsForAdverse>
+      <Lang xml:lang="ja">次の副作用があらわれることがあるので、観察を十分に行い、異常が認められた場合には投与を中止するなど適切な処置を行うこと。</Lang>
+    </CommonPrecautionsForAdverse>
+    <!--１１.１ 重大な副作用-->
+    <SeriousAdverseEvents id="HDR_SeriousAdverseEvents" heading="fixing">
+      <SeriousAdverse>
+        <OrderedList numberContinued="false">
+          <Item id="HDR_SeriousAdverseEvents_1" heading="free">
+            <Header>
+              <Lang xml:lang="ja">ショック、アナフィラキシー（0.1％未満）</Lang>
+            </Header>
+            <Detail>
+              <Lang xml:lang="ja">呼吸困難、頻脈、不安感、胸内苦悶、血圧低下、チアノーゼ等が認められた場合には、直ちに投与を中止し、適切な処置を行うこと。</Lang>
+            </Detail>
+          </Item>
+          <Item id="HDR_SeriousAdverseEvents_2" heading="free">
+            <Header>
+              <Lang xml:lang="ja">肝機能障害、黄疸（いずれも頻度不明）</Lang>
+            </Header>
+            <Detail>
+              <Lang xml:lang="ja">AST、ALT、Al-P、γ-GTP、LDHの著しい上昇等を伴う肝機能障害、黄疸があらわれることがある。</Lang>
+            </Detail>
+          </Item>
+          <Item id="HDR_SeriousAdverseEvents_3" heading="free">
+            <Header>
+              <Lang xml:lang="ja">無菌性髄膜炎（頻度不明）</Lang>
+            </Header>
+            <Detail>
+              <Lang xml:lang="ja">大量投与により無菌性髄膜炎（項部硬直、発熱、頭痛、悪心・嘔吐あるいは意識混濁等）があらわれることがある。</Lang>
+            </Detail>
+          </Item>
+          <Item id="HDR_SeriousAdverseEvents_4" heading="free">
+            <Header>
+              <Lang xml:lang="ja">急性腎障害（頻度不明）</Lang>
+            </Header>
+            <Detail>
+              <Lang xml:lang="ja">腎機能検査値（BUN，血清クレアチニン等）の悪化、尿量減少が認められた場合には投与を中止し、適切な処置を行うこと。<HeaderRef ref="HDR_ImportantPrecautions_6" />,<HeaderRef ref="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_8" />,<HeaderRef ref="HDR_PatientsWithRenalImpairment" /></Lang>
+            </Detail>
+          </Item>
+          <Item id="HDR_SeriousAdverseEvents_5" heading="free">
+            <Header>
+              <Lang xml:lang="ja">血小板減少（頻度不明）</Lang>
+            </Header>
+          </Item>
+          <Item id="HDR_SeriousAdverseEvents_6" heading="free">
+            <Header>
+              <Lang xml:lang="ja">肺水腫（頻度不明）</Lang>
+            </Header>
+            <Detail>
+              <Lang xml:lang="ja">呼吸困難等の症状があらわれた場合には投与を中止し、適切な処置を行うこと。</Lang>
+            </Detail>
+          </Item>
+          <Item id="HDR_SeriousAdverseEvents_7" heading="free">
+            <Header>
+              <Lang xml:lang="ja">血栓塞栓症（頻度不明）</Lang>
+            </Header>
+            <Detail>
+              <Lang xml:lang="ja">大量投与例で、血液粘度の上昇等により、脳梗塞、心筋梗塞、肺塞栓症、深部静脈血栓症等の血栓塞栓症があらわれることがある。中枢神経症状（めまい、意識障害、四肢麻痺等）、胸痛、突然の呼吸困難、息切れ、下肢の疼痛・浮腫等の症状が認められた場合には、投与を中止し、適切な処置を行うこと。<HeaderRef ref="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_3" />,<HeaderRef ref="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_4" />,<HeaderRef ref="HDR_UseInTheElderly" /></Lang>
+            </Detail>
+          </Item>
+          <Item id="HDR_SeriousAdverseEvents_8" heading="free">
+            <Header>
+              <Lang xml:lang="ja">心不全（頻度不明）</Lang>
+            </Header>
+            <Detail>
+              <Lang xml:lang="ja">主として大量投与例で、循環血漿量過多により心不全を発症又は悪化させることがある。呼吸困難、心雑音、心機能低下、浮腫、尿量減少等が認められた場合には、投与を中止し、適切な処置を行うこと。<HeaderRef ref="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_7" /></Lang>
+            </Detail>
+          </Item>
+        </OrderedList>
+      </SeriousAdverse>
+    </SeriousAdverseEvents>
+    <!--１１.２ その他の副作用-->
+    <OtherAdverseEvents id="HDR_OtherAdverseEvents" heading="fixing">
+      <OtherAdverseEvent>
+        <OtherAdverse>
+          <WidthDefinition totalWidth="583.03px">
+            <Col width="102.27px" />
+            <Col width="124.95px" />
+            <Col width="174.58px" />
+            <Col width="181.23px" />
+          </WidthDefinition>
+          <CategoryDefinition>
+            <Category id="OTHER1_TYPE1">
+              <Detail>
+                <Lang xml:lang="ja">過敏症</Lang>
+              </Detail>
+            </Category>
+            <Category id="OTHER1_TYPE2">
+              <Detail>
+                <Lang xml:lang="ja">循環器</Lang>
+              </Detail>
+            </Category>
+            <Category id="OTHER1_TYPE3">
+              <Detail>
+                <Lang xml:lang="ja">肝臓</Lang>
+              </Detail>
+            </Category>
+            <Category id="OTHER1_TYPE4">
+              <Detail>
+                <Lang xml:lang="ja">消化器</Lang>
+              </Detail>
+            </Category>
+            <Category id="OTHER1_TYPE5">
+              <Detail>
+                <Lang xml:lang="ja">血液</Lang>
+              </Detail>
+            </Category>
+            <Category id="OTHER1_TYPE6">
+              <Detail>
+                <Lang xml:lang="ja">その他</Lang>
+              </Detail>
+            </Category>
+          </CategoryDefinition>
+          <FrequencyDefinition>
+            <Frequency id="OTHER1_FRQ1">
+              <Detail>
+                <Lang xml:lang="ja">0.1～5％未満</Lang>
+              </Detail>
+            </Frequency>
+            <Frequency id="OTHER1_FRQ2">
+              <Detail>
+                <Lang xml:lang="ja">0.1％未満</Lang>
+              </Detail>
+            </Frequency>
+            <Frequency id="OTHER1_FRQ3">
+              <Detail>
+                <Lang xml:lang="ja">頻度不明</Lang>
+              </Detail>
+            </Frequency>
+          </FrequencyDefinition>
+          <AdverseReactions>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE1" frequencyRef="OTHER1_FRQ1">
+              <Detail>
+                <Lang xml:lang="ja">発疹</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE1" frequencyRef="OTHER1_FRQ2">
+              <Detail>
+                <Lang xml:lang="ja">熱感、蕁麻疹、そう痒感、局所性浮腫等</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE1" frequencyRef="OTHER1_FRQ3">
+              <Detail>
+                <Lang xml:lang="ja">発赤、腫脹、水疱、<?enter?>汗疱</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE2" frequencyRef="OTHER1_FRQ3">
+              <Detail>
+                <Lang xml:lang="ja">血圧低下、血圧上昇</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE3" frequencyRef="OTHER1_FRQ1">
+              <Detail>
+                <Lang xml:lang="ja">AST・ALT等の上昇</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE4" frequencyRef="OTHER1_FRQ2">
+              <Detail>
+                <Lang xml:lang="ja">悪心、嘔吐、<?enter?>食欲不振、腹痛</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE5" frequencyRef="OTHER1_FRQ3">
+              <Detail>
+                <Lang xml:lang="ja">白血球減少、好中球減少、好酸球増多、溶血性貧血、貧血</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE6" frequencyRef="OTHER1_FRQ1">
+              <Detail>
+                <Lang xml:lang="ja">頭痛、発熱、<?enter?>悪寒、戦慄</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE6" frequencyRef="OTHER1_FRQ2">
+              <Detail>
+                <Lang xml:lang="ja">倦怠感</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE6" frequencyRef="OTHER1_FRQ3">
+              <Detail>
+                <Lang xml:lang="ja">胸痛、体温低下、<?enter?>CK上昇、喘息様症状</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+          </AdverseReactions>
+        </OtherAdverse>
+      </OtherAdverseEvent>
+    </OtherAdverseEvents>
+  </AdverseEvents>
+  <!--１２.臨床検査結果に及ぼす影響-->
+  <InfluenceOnLaboratoryValues id="HDR_InfluenceOnLaboratoryValues" heading="fixing">
+    <Detail>
+      <Lang xml:lang="ja">本剤には供血者由来の各種抗体（各種感染症の病原体又はその産生物質に対する免疫抗体、自己抗体等）が含まれており、投与後の血中にこれらの抗体が一時検出されることがあるので、臨床診断には注意を要する。</Lang>
+    </Detail>
+  </InfluenceOnLaboratoryValues>
+  <!--１４.適用上の注意-->
+  <PrecautionsForApplication id="HDR_PrecautionsForApplication" heading="fixing">
+    <OtherInformation id="HDR_PrecautionsForApplication_OtherInformation_1" heading="free">
+      <Header>
+        <Lang xml:lang="ja">薬剤調製時の注意</Lang>
+      </Header>
+      <OrderedList numberContinued="false">
+        <Item id="HDR_PrecautionsForApplication_1" heading="free">
+          <Detail>
+            <Lang xml:lang="ja">【溶解方法】に従い、溶解すること。また、通気針は【通気針の使用方法】に従い、使用すること。</Lang>
+          </Detail>
+        </Item>
+        <Item id="HDR_PrecautionsForApplication_2" heading="free">
+          <Detail>
+            <Lang xml:lang="ja">他の製剤との混注は避けること。</Lang>
+          </Detail>
+        </Item>
+        <Item id="HDR_PrecautionsForApplication_3" heading="free">
+          <Detail>
+            <Lang xml:lang="ja">一度溶解したものはできるだけ速やかに使用を開始すること。</Lang>
+          </Detail>
+        </Item>
+        <Item id="HDR_PrecautionsForApplication_4" heading="free">
+          <Detail>
+            <Lang xml:lang="ja">使用後の残液は、細菌汚染のおそれがあるので再使用しないこと。本剤は細菌の増殖に好適なたん白であり、しかも保存剤を含有していない。</Lang>
+          </Detail>
+        </Item>
+      </OrderedList>
+    </OtherInformation>
+    <OtherInformation id="HDR_PrecautionsForApplication_OtherInformation_2" heading="free">
+      <Header>
+        <Lang xml:lang="ja">薬剤投与時の注意</Lang>
+      </Header>
+      <OrderedList numberContinued="false">
+        <Item id="HDR_PrecautionsForApplication_5" heading="free">
+          <Detail>
+            <Lang xml:lang="ja">溶解時に不溶物の認められるものは使用しないこと。</Lang>
+          </Detail>
+        </Item>
+        <Item id="HDR_PrecautionsForApplication_6" heading="free">
+          <Detail>
+            <Lang xml:lang="ja">溶解した液をシリコンオイルが塗布されているシリンジで採取した場合、浮遊物が発生する可能性がある。投与前に薬液中に浮遊物がないか目視で確認すること。浮遊物が認められた場合には投与しないこと。</Lang>
+          </Detail>
+        </Item>
+      </OrderedList>
+    </OtherInformation>
+  </PrecautionsForApplication>
+  <!--１６.薬物動態-->
+  <Pharmacokinetics id="HDR_Pharmacokinetics" heading="fixing">
+    <!--１６.１ 血中濃度-->
+    <BloodLevel id="HDR_BloodLevel" heading="fixing">
+      <OrderedList numberContinued="false">
+        <Item id="HDR_BloodLevel_1" heading="free">
+          <Detail>
+            <Lang xml:lang="ja">低又は無ガンマグロブリン血症患者7例にスルホ化人免疫グロブリンG 100mg/kg体重を静脈内へ単回投与した場合の平均血中濃度（投与前149mg/dL）は、投与24時間後では313mg/dL、2週間後では206mg/dLであった<ReferenceBookRef ref="DOC_04" />。</Lang>
+          </Detail>
+        </Item>
+        <Item id="HDR_BloodLevel_2" heading="free">
+          <Detail>
+            <Lang xml:lang="ja">スルホ化人免疫グロブリンGを、健康成人6例に対して300～400mg及び低又は無ガンマグロブリン血症の患者6例に対して100mg/kg体重でいずれも静脈内へ単回投与した試験成績から、スルホ化人免疫グロブリンGの血中半減期は約25日であることが確認されている<ReferenceBookRef ref="DOC_04" /><Sup>,</Sup><ReferenceBookRef ref="DOC_05" />。</Lang>
+          </Detail>
+        </Item>
+      </OrderedList>
+    </BloodLevel>
+  </Pharmacokinetics>
+  <!--１７.臨床成績-->
+  <ResultsOfClinicalTrials id="HDR_ResultsOfClinicalTrials" heading="fixing">
+    <!--１７.１ 有効性及び安全性に関する試験-->
+    <EfficacyAndSafety id="HDR_EfficacyAndSafety" heading="fixing">
+      <SimpleList>
+        <Item>
+          <Header>
+            <Lang xml:lang="ja">〈低又は無ガンマグロブリン血症〉</Lang>
+          </Header>
+          <OrderedList numberContinued="false">
+            <Item id="HDR_EfficacyAndSafety_1" heading="free">
+              <Header>
+                <Lang xml:lang="ja">海外レトロスペクティブ研究</Lang>
+              </Header>
+              <Detail>
+                <Lang xml:lang="ja">免疫グロブリン補充療法を受けたX連鎖無ガンマグロブリン血症患者29例を対象としたレトロスペクティブな研究において、高用量の静注用人免疫グロブリン（IVIG）（3週間ごとに350～600mg/kg）の治療を受け、血清IgGトラフ値が500mg/dL以上となった患者の感染症の発症頻度及び入院期間は1.04回/年及び0.70日/年であったが、未治療、筋注用人免疫グロブリンもしくは低用量IVIG（3週間ごとに200mg/kg未満）で治療され、血清IgGトラフ値が151mg/dL以上500mg/dL未満だった患者では、1.75回/年及び9.00日/年であったとの報告がある。<?enter?>高用量のIVIG投与294回中1件（0.4％）、低用量のIVIG投与279回中7件（2.5％）に副作用が認められた<ReferenceBookRef ref="DOC_06" />。</Lang>
+              </Detail>
+            </Item>
+          </OrderedList>
+        </Item>
+        <Item>
+          <Header modified="前回">
+            <Lang xml:lang="ja">〈免疫性血小板減少症〉</Lang>
+          </Header>
+          <OrderedList numberContinued="true">
+            <Item id="HDR_EfficacyAndSafety_2" heading="free">
+              <Header modified="前回">
+                <Lang xml:lang="ja">国内臨床試験</Lang>
+              </Header>
+              <Detail modified="前回">
+                <Lang xml:lang="ja">免疫性血小板減少症患者で副腎皮質ステロイド剤が無効な症例及び摘脾後再発し、薬剤が無効な症例又は主治医が適当と認めた症例の計177症例（成人75例、小児102例）のうち本剤400mg/kg/日を5日間投与された93例（成人33例、小児60例）での成績の概要は以下の通りであった。</Lang>
+              </Detail>
+              <SimpleList>
+                <Item>
+                  <Detail>
+                    <Lang xml:lang="ja">・有効率は68.8％（64例/93例）であった。</Lang>
+                  </Detail>
+                </Item>
+                <Item>
+                  <Detail>
+                    <Lang xml:lang="ja">・血小板数は、投与前2.7万/mm<Sup>3</Sup>、投与1日後3.8万/mm<Sup>3</Sup>、投与2日後6.6万/mm<Sup>3</Sup>、投与3日後7.8万/mm<Sup>3</Sup>、投与4日後10.2万/mm<Sup>3</Sup>、投与5日後13.2万/mm<Sup>3</Sup>、投与7日後12.8万/mm<Sup>3</Sup>と増加した。</Lang>
+                  </Detail>
+                </Item>
+                <Item>
+                  <Detail>
+                    <Lang xml:lang="ja">・93例のうち、副腎ステロイド剤が無効であった60例に対する有効率は63.3％（38例/60例）であった。また、摘脾の効果が一過性あるいは無効であった12例に対する有効率は66.7％（8例/12例）であった。</Lang>
+                  </Detail>
+                </Item>
+              </SimpleList>
+              <Detail>
+                <Lang xml:lang="ja">177例中11例（6.2％）に副作用18件が認められた。主な副作用は、頭痛、発熱各5件（2.8％）、食欲不振、悪心各2件（1.1％）であった<ReferenceBookRef ref="DOC_07" />。</Lang>
+              </Detail>
+            </Item>
+          </OrderedList>
+        </Item>
+        <Item>
+          <Header>
+            <Lang xml:lang="ja">〈川崎病の急性期〉</Lang>
+          </Header>
+          <OrderedList numberContinued="true">
+            <Item id="HDR_EfficacyAndSafety_3" heading="free">
+              <Header>
+                <Lang xml:lang="ja">国内臨床試験（200mg（4mL）/kg体重を5日間）</Lang>
+              </Header>
+              <Detail>
+                <Lang xml:lang="ja">本剤200mg/kg/日を5日間投与された151症例のうち冠動脈障害が認められなかった有効以上の症例は127例であり、有効率は84.1％（127例/151例）であった。<?enter?>上記川崎病に対する効果は本剤とアスピリンを併用した100症例（有効率84.0％）、本剤単独の51症例（有効率84.3％）から得られたものである。<?enter?>151例中2例（1.3％）に副作用4件が認められた。発現した副作用は、発熱2件（1.3％）、振戦、口唇チアノーゼ各1件（0.7％）であった<ReferenceBookRef ref="DOC_08" />。</Lang>
+              </Detail>
+            </Item>
+          </OrderedList>
+          <OrderedList numberContinued="true">
+            <Item id="HDR_EfficacyAndSafety_4" heading="free">
+              <Header>
+                <Lang xml:lang="ja">国内臨床試験（2,000mg（40mL）/kg体重を1回）</Lang>
+              </Header>
+              <Detail>
+                <Lang xml:lang="ja">信頼の出来る学術雑誌に掲載された科学的根拠となり得る論文の試験成績では、静注用人免疫グロブリン2g/kgを1回投与された原田スコア4以上の急性期ハイリスク患児72例のうち冠動脈障害が認められなかった症例は69例（95.8％）であった。<?enter?>また、副作用は認められなかった<ReferenceBookRef ref="DOC_09" />。</Lang>
+              </Detail>
+            </Item>
+          </OrderedList>
+        </Item>
+        <Item>
+          <Header>
+            <Lang xml:lang="ja">〈ギラン・バレー症候群〉</Lang>
+          </Header>
+          <OrderedList numberContinued="true">
+            <Item id="HDR_EfficacyAndSafety_5" heading="free">
+              <Header>
+                <Lang xml:lang="ja">国内第Ⅲ相試験（成人）</Lang>
+              </Header>
+              <Detail>
+                <Lang xml:lang="ja">本剤400mg/kg体重/日を5日間投与された重症成人患者23例において、Hughesの運動機能尺度が1段階以上改善した治療開始4週目の改善率は60.9％（14例/23例）であった。<?enter?>23例中5例（21.7％）に副作用（自他覚症状）7件が認められた。主な副作用（自他覚症状）は、皮疹3件（13.0％）であった。<?enter?>また、23例中10例（43.5％）に本剤との因果関係を否定できない臨床検査値の異常変動が認められた。主な臨床検査値異常変動は、ALT上昇4件（17.4％）、AST上昇、γ-GTP上昇、白血球減少各3件（13.0％）であった<ReferenceBookRef ref="DOC_10" />。</Lang>
+              </Detail>
+            </Item>
+          </OrderedList>
+          <OrderedList numberContinued="true">
+            <Item id="HDR_EfficacyAndSafety_6" heading="free">
+              <Header>
+                <Lang xml:lang="ja">国内第Ⅲ相試験（小児）</Lang>
+              </Header>
+              <Detail>
+                <Lang xml:lang="ja">本剤400mg/kg体重/日を5日間投与された重症小児患者11例において、Hughesの運動機能尺度が1段階以上改善した治療開始4週目の改善率は81.8％（9例/11例）であった。<?enter?>11例中2例（18.2％）に副作用（自他覚症状）3件が認められた。発現した副作用（自他覚症状）は、発熱2件（18.2％）、無菌性髄膜炎1件（9.1％）であった。<?enter?>また、11例中4例（36.4％）に本剤との因果関係を否定できない臨床検査値の異常変動が認められた。主な臨床検査値異常変動は、顆粒球減少3件（27.3％）、好酸球増多、髄液細胞数増加各2件（18.2％）であった<ReferenceBookRef ref="DOC_11" />。</Lang>
+              </Detail>
+            </Item>
+          </OrderedList>
+        </Item>
+        <Item>
+          <Header>
+            <Lang xml:lang="ja">〈好酸球性多発血管炎性肉芽腫症における神経障害の改善〉</Lang>
+          </Header>
+          <OrderedList numberContinued="true">
+            <Item id="HDR_EfficacyAndSafety_7" heading="free">
+              <Header>
+                <Lang xml:lang="ja">国内第Ⅲ相試験</Lang>
+              </Header>
+              <Detail>
+                <Lang xml:lang="ja">ステロイド抵抗性（ステロイド剤を寛解導入療法としてプレドニゾロン換算で40mg/日以上を4週間以上投与、漸減後に維持療法としてプレドニゾロン換算で5～20mg/日の一定用量を4週間以上投与）で、徒手筋力検査（MMT）スコア合計が130以下、かつMMTスコアが3以下となる神経障害箇所を有する患者23例に本剤400mg/kg/日を5日間投与した。その結果、本剤投与開始2週間後のMMTスコア合計変化量が本剤投与前に比し有意に改善した（表1）。なお、第1期でのMMTスコア合計変化量は本剤群でプラセボ群の変化量を上回った（本試験では、本剤のプラセボに対する優越性を検証するための検出力は考慮されていない）（表2）。<HeaderRef ref="HDR_EfficacyRelatedPrecautions_5" /></Lang>
+              </Detail>
+              <TblBlock>
+                <TblCaption align="top">
+                  <Lang xml:lang="ja">表1　本剤投与開始2週間後のMMTスコア合計の変化量</Lang>
+                </TblCaption>
+                <WidthDefinition totalWidth="581.07px">
+                  <Col width="176.68px" />
+                  <Col width="176.82px" />
+                  <Col width="122.64px" />
+                  <Col width="104.93px" />
+                </WidthDefinition>
+                <SimpleTable>
+                  <SimpTblRow>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">本剤投与開始<?enter?>直前</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">本剤投与開始<?enter?>2週間後</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">変化量</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">p値<Sup>注1）</Sup></Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                  <SimpTblRow>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">113.37±16.02</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">120.50±11.91</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">7.13±9.76</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">0.002</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                </SimpleTable>
+                <SimpTblFoot align="left">
+                  <Detail>
+                    <Lang xml:lang="ja">平均値±標準偏差（23例）</Lang>
+                  </Detail>
+                </SimpTblFoot>
+              </TblBlock>
+              <Detail>
+                <Lang xml:lang="ja">注1）対応のあるt検定</Lang>
+              </Detail>
+              <TblBlock>
+                <TblCaption align="top">
+                  <Lang xml:lang="ja">表2　第1期の本剤及びプラセボ投与開始2週間後のベースラインからのMMTスコア合計変化量</Lang>
+                </TblCaption>
+                <WidthDefinition totalWidth="581.56px">
+                  <Col width="160.79px" />
+                  <Col width="86.94px" />
+                  <Col width="87.08px" />
+                  <Col width="87.08px" />
+                  <Col width="159.67px" />
+                </WidthDefinition>
+                <SimpleTable>
+                  <SimpTblRow>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">第1期<?enter?>投与薬剤</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">ベース<?enter?>ライン</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">投与開始<?enter?>2週間後</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">変化量</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">群間差<?enter?>［95％信頼区間］</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                  <SimpTblRow>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">本剤<?enter?>（A群、8例）</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">110.00<?enter?>±12.56</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">118.13<?enter?>±11.15</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">8.13<?enter?>±9.49</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle" rspan="2">
+                      <Detail>
+                        <Lang xml:lang="ja">4.99<?enter?> ［-0.64,10.63］</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                  <SimpTblRow>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">プラセボ<?enter?>（B＋C群、15例）</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">109.97<?enter?>±16.95</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">113.10<?enter?>±17.42</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">3.13<?enter?>±3.52</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                </SimpleTable>
+                <SimpTblFoot align="left">
+                  <Detail>
+                    <Lang xml:lang="ja">平均値±標準偏差<?enter?>本試験では、3つの投与期を設定し、A、B及びC群の各投与期における投与薬剤は以下のとおり設定した。<?enter?>A群：第1期 本剤、第2期 プラセボ、第3期 プラセボ<?enter?>B群：第1期 プラセボ、第2期 本剤、第3期 プラセボ<?enter?>C群：第1期 プラセボ、第2期 プラセボ、第3期 本剤</Lang>
+                  </Detail>
+                </SimpTblFoot>
+              </TblBlock>
+              <Detail>
+                <Lang xml:lang="ja">23例中14例（60.9％）に副作用21件が認められた。主な副作用は、頭痛4件（17.4％）、ALT上昇3件（13.0％）、倦怠感2件（8.7％）であった<ReferenceBookRef ref="DOC_12" />。</Lang>
+              </Detail>
+            </Item>
+          </OrderedList>
+        </Item>
+        <Item>
+          <Header>
+            <Lang xml:lang="ja">〈慢性炎症性脱髄性多発根神経炎（多巣性運動ニューロパチーを含む）の筋力低下の改善〉</Lang>
+          </Header>
+          <OrderedList numberContinued="true">
+            <Item id="HDR_EfficacyAndSafety_8" heading="free">
+              <Header>
+                <Lang xml:lang="ja">国内第Ⅲ相試験</Lang>
+              </Header>
+              <Detail>
+                <Lang xml:lang="ja">慢性炎症性脱髄性多発根神経炎患者31例に対して、本剤400mg/kg/日を5日間連日投与した。本剤投与前に比べ投与開始3週間後時点で1点以上の調整INCAT（adjusted Inflammatory Neuropathy Cause and Treatment）スコア合計の改善を示した患者の割合は67.7％（21例/31例）であった。<?enter?>31例中11例（35.5％）に副作用14件が認められた。主な副作用は頭痛6件（19.4％）であった<ReferenceBookRef ref="DOC_13" />。</Lang>
+              </Detail>
+            </Item>
+          </OrderedList>
+          <OrderedList numberContinued="true">
+            <Item id="HDR_EfficacyAndSafety_9" heading="free">
+              <Header>
+                <Lang xml:lang="ja">国内第Ⅲ相試験</Lang>
+              </Header>
+              <Detail>
+                <Lang xml:lang="ja">多巣性運動ニューロパチー患者5例に対して、本剤400mg/kg/日を5日間連日投与した。本剤投与前に比べ投与開始2週間後の時点でMRC（Medical Research Council）スコア合計が1段階以上改善を示した被験者数は5例中4例であった。<?enter?>5例中3例（60.0％）に副作用5件が認められた。主な副作用は頭痛2件（40.0％）であった<ReferenceBookRef ref="DOC_14" />。</Lang>
+              </Detail>
+            </Item>
+          </OrderedList>
+        </Item>
+        <Item>
+          <Header>
+            <Lang xml:lang="ja">〈視神経炎の急性期〉</Lang>
+          </Header>
+          <OrderedList numberContinued="true">
+            <Item id="HDR_EfficacyAndSafety_10" heading="free">
+              <Header>
+                <Lang xml:lang="ja">国内第Ⅲ相試験</Lang>
+              </Header>
+              <Detail>
+                <Lang xml:lang="ja">ステロイドパルス療法により効果不十分な視神経炎患者<Sup>注2）</Sup>32例に対し、本剤400mg/kg/日を5日間投与又はステロイドパルス療法（メチルプレドニゾロン1,000mg/日を3日間点滴静注）<Sup>注3）</Sup>を実施した。その結果、投与開始2週間後の視力（logMAR値）の変化量は、本剤群-0.631、ステロイドパルス群-0.280、群間差は-0.352であった（表3）。また、抗AQP4抗体陽性・陰性別の投与開始2週間後の視力（logMAR値）の変化量は、表4のとおりであった。<HeaderRef ref="HDR_EfficacyRelatedPrecautions_7" />,<HeaderRef ref="HDR_EfficacyRelatedPrecautions_8" /></Lang>
+              </Detail>
+              <Detail>
+                <Lang xml:lang="ja">注2）視神経炎の発症後にステロイドパルス療法（メチルプレドニゾロン1,000mg/日を3日間点滴静注）を1クール実施し、ステロイドパルス療法開始7日後のlogMAR値が1.0を超え、かつステロイドパルス療法開始前と比較してlogMAR値0.3以上の改善を認めない患者</Lang>
+              </Detail>
+              <Detail>
+                <Lang xml:lang="ja">注3）ステロイドパルス群には、ステロイドパルス療法開始2週間後の有効性評価終了後に本剤400mg/kg/日を5日間投与した。</Lang>
+              </Detail>
+              <TblBlock>
+                <TblCaption align="top">
+                  <Lang xml:lang="ja">表3　投与開始前に対する投与開始2週間後のlogMAR値の変化量</Lang>
+                </TblCaption>
+                <WidthDefinition totalWidth="581.84px">
+                  <Col width="95.20px" />
+                  <Col width="66.57px" />
+                  <Col width="82.60px" />
+                  <Col width="117.53px" />
+                  <Col width="151.90px" />
+                  <Col width="68.04px" />
+                </WidthDefinition>
+                <SimpleTable>
+                  <SimpTblRow>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">投与群</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">投与<?enter?>開始前</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">投与開始<?enter?>2週間後</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">logMAR値の<?enter?>変化量<Sup>a,b）</Sup></Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">群間差<?enter?>［95％信頼区間］<Sup>b）</Sup></Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">p値<Sup>b）</Sup></Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                  <SimpTblRow>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">本剤<?enter?>（16例）</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">1.859<?enter?>±0.271</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">1.163<?enter?>±0.685</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">-0.631<?enter?>±0.179</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle" rspan="2">
+                      <Detail>
+                        <Lang xml:lang="ja">-0.352<?enter?> ［-0.850,0.147］</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle" rspan="2">
+                      <Detail>
+                        <Lang xml:lang="ja">0.160</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                  <SimpTblRow>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">ステロイド<?enter?>パルス<?enter?>（16例）</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">1.914<?enter?>±0.159</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">1.548<?enter?>±0.713</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">-0.280<?enter?>±0.185</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                </SimpleTable>
+                <SimpTblFoot align="left">
+                  <Detail>
+                    <Lang xml:lang="ja">平均値±標準偏差</Lang>
+                  </Detail>
+                  <Detail>
+                    <Lang xml:lang="ja">a）最小二乗平均値±標準誤差</Lang>
+                  </Detail>
+                  <Detail>
+                    <Lang xml:lang="ja">b）スクリーニング時の抗AQP4抗体陰性・陽性を因子とする分散分析モデルによる</Lang>
+                  </Detail>
+                </SimpTblFoot>
+              </TblBlock>
+              <TblBlock>
+                <TblCaption align="top">
+                  <Lang xml:lang="ja">表4　投与開始前に対する投与開始2週間後の抗AQP4抗体陽性・陰性別のlogMAR値の変化量</Lang>
+                </TblCaption>
+                <WidthDefinition totalWidth="583.94px">
+                  <Col width="95.20px" />
+                  <Col width="48.30px" />
+                  <Col width="91.77px" />
+                  <Col width="104.30px" />
+                  <Col width="48.30px" />
+                  <Col width="91.77px" />
+                  <Col width="104.30px" />
+                </WidthDefinition>
+                <SimpleTable>
+                  <SimpTblRow>
+                    <SimpTblCell align="center" valign="middle" rspan="2">
+                      <Detail>
+                        <Lang xml:lang="ja">投与群</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle" cspan="3">
+                      <Detail>
+                        <Lang xml:lang="ja">抗AQP4抗体陽性</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle" cspan="3">
+                      <Detail>
+                        <Lang xml:lang="ja">抗AQP4抗体陰性</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                  <SimpTblRow>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">例数</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">logMAR値の変化量</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">群間差<?enter?>［95％信頼<?enter?>区間］</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">例数</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">logMAR値の変化量</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">群間差<?enter?>［95％信頼<?enter?>区間］</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                  <SimpTblRow>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">本剤</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">11例</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">-0.936<?enter?>±0.705</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle" rspan="2">
+                      <Detail>
+                        <Lang xml:lang="ja">-0.605<?enter?>［-1.210,0.001］</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">5例</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">-0.168<?enter?>±0.184</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle" rspan="2">
+                      <Detail>
+                        <Lang xml:lang="ja">0.302<?enter?>［-0.981,1.585］</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                  <SimpTblRow>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">ステロイド<?enter?>パルス</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">12例</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">-0.332<?enter?>±0.692</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">4例</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                    <SimpTblCell align="center" valign="middle">
+                      <Detail>
+                        <Lang xml:lang="ja">-0.470<?enter?>±0.824</Lang>
+                      </Detail>
+                    </SimpTblCell>
+                  </SimpTblRow>
+                </SimpleTable>
+                <SimpTblFoot align="left">
+                  <Detail>
+                    <Lang xml:lang="ja">平均値±標準偏差</Lang>
+                  </Detail>
+                </SimpTblFoot>
+              </TblBlock>
+              <Detail>
+                <Lang xml:lang="ja">29例<Sup>注4）</Sup>中20例（69.0％）に副作用56件が認められた。主な副作用は、頭痛7件（24.1％）、白血球数減少6件（20.7％）、ALT上昇5件（17.2％）、AST上昇5件（17.2％）であった<ReferenceBookRef ref="DOC_15" />。</Lang>
+              </Detail>
+            </Item>
+          </OrderedList>
+          <Detail>
+            <Lang xml:lang="ja">注4）ステロイドパルス群のうち、有効性評価終了後に本剤を投与した13例を含む。</Lang>
+          </Detail>
+        </Item>
+      </SimpleList>
+    </EfficacyAndSafety>
+    <!--１７.２ 製造販売後調査等-->
+    <PostMarketingSurveylancesEtc id="HDR_PostMarketingSurveylancesEtc" heading="fixing">
+      <SimpleList>
+        <Item>
+          <Header>
+            <Lang xml:lang="ja">〈重症感染症における抗生物質との併用〉</Lang>
+          </Header>
+          <OrderedList numberContinued="false">
+            <Item id="HDR_PostMarketingSurveylancesEtc_1" heading="free">
+              <Header>
+                <Lang xml:lang="ja">国内製造販売後臨床試験</Lang>
+              </Header>
+              <Detail>
+                <Lang xml:lang="ja">再評価に対する市販後臨床試験において、広範囲抗生物質を3日間投与しても感染主要症状の十分な改善が認められない重症感染症の患者682例を対象として、抗生物質と静注用人免疫グロブリン（5g/日、3日間）の併用群（IVIG群）又は抗生物質単独投与群（対照群）に割り付けた非盲検群間比較試験を行った。<?enter?>解熱効果、臨床症状の改善効果又は検査所見（炎症マーカーであるCRP値の推移）を評価基準として有効性を評価した結果、IVIG群はいずれにおいても対照群に比べ有意に優れており、有効率はIVIG群61.5％（163例/265例）、対照群47.3％（113例/239例）であった。<?enter?>安全性評価対象321例中14例（4.4％）に副作用21件が認められた。主な副作用は、悪寒4件（1％）、嘔気（嘔吐）3件（1％）、皮疹（発疹）、そう痒感、発熱、総ビリルビン上昇各2件（1％）であった<ReferenceBookRef ref="DOC_16" />。</Lang>
+              </Detail>
+            </Item>
+          </OrderedList>
+        </Item>
+        <Item>
+          <Header>
+            <Lang xml:lang="ja">〈川崎病の急性期〉</Lang>
+          </Header>
+          <OrderedList numberContinued="true">
+            <Item id="HDR_PostMarketingSurveylancesEtc_2" heading="free">
+              <Header>
+                <Lang xml:lang="ja">国内使用成績調査（200mg（4mL）/kg体重を5日間）</Lang>
+              </Header>
+              <Detail>
+                <Lang xml:lang="ja">川崎病の急性期を対象とした使用成績調査における副作用の発現率は1.14％（12例/1,053例）で、そのうちショック0％（0例0件）、ショック又はショックが疑われる症状（チアノーゼ、血圧低下等）0.28％（3例4件）であり、重篤な副作用の発現率は0％（0例0件）であった。</Lang>
+              </Detail>
+            </Item>
+          </OrderedList>
+        </Item>
+      </SimpleList>
+    </PostMarketingSurveylancesEtc>
+  </ResultsOfClinicalTrials>
+  <!--１８.薬効薬理-->
+  <EfficacyPharmacology id="HDR_EfficacyPharmacology" heading="fixing">
+    <!--１８.１ 作用機序-->
+    <MechanismOfAction id="HDR_MechanismOfAction" heading="fixing">
+      <Detail>
+        <Lang xml:lang="ja">本剤の作用機序の詳細は明らかではない。</Lang>
+      </Detail>
+    </MechanismOfAction>
+    <OtherInformation id="HDR_EfficacyPharmacology_OtherInformation_1" heading="free">
+      <Header>
+        <Lang xml:lang="ja">抗体活性</Lang>
+      </Header>
+      <Detail>
+        <Lang xml:lang="ja">10,000人以上の健康成人血漿から精製濃縮された高純度の免疫グロブリンGを原料としているため、種々の細菌、毒素、ウイルス等に対する抗体を有している<ReferenceBookRef ref="DOC_17" />。</Lang>
+      </Detail>
+    </OtherInformation>
+    <OtherInformation id="HDR_EfficacyPharmacology_OtherInformation_2" heading="free">
+      <Header>
+        <Lang xml:lang="ja">オプソニン効果</Lang>
+      </Header>
+      <Detail>
+        <Lang xml:lang="ja">大腸菌を用いて検討した結果、スルホ化人免疫グロブリンGは生体本来の免疫グロブリンGと同様、食細胞の貪食能、殺菌能の増強効果等のオプソニン効果が認められている<ReferenceBookRef ref="DOC_18" /><Sup>,</Sup><ReferenceBookRef ref="DOC_19" />。</Lang>
+      </Detail>
+    </OtherInformation>
+    <OtherInformation id="HDR_EfficacyPharmacology_OtherInformation_3" heading="free">
+      <Header>
+        <Lang xml:lang="ja">溶菌活性</Lang>
+      </Header>
+      <Detail>
+        <Lang xml:lang="ja">スルホ化人免疫グロブリンGは正常な補体の活性化にもとづく溶菌活性能を有している<ReferenceBookRef ref="DOC_20" /><Sup>,</Sup><ReferenceBookRef ref="DOC_21" />。</Lang>
+      </Detail>
+    </OtherInformation>
+    <OtherInformation id="HDR_EfficacyPharmacology_OtherInformation_4" heading="free">
+      <Header>
+        <Lang xml:lang="ja">血小板減少抑制効果</Lang>
+      </Header>
+      <Detail>
+        <Lang xml:lang="ja">抗血小板抗血清を投与したラットの実験的血小板減少症において、スルホ化人免疫グロブリンGを投与することにより、血小板減少抑制作用が認められている<ReferenceBookRef ref="DOC_22" />。</Lang>
+      </Detail>
+    </OtherInformation>
+    <OtherInformation id="HDR_EfficacyPharmacology_OtherInformation_5" heading="free">
+      <Header>
+        <Lang xml:lang="ja">冠動脈障害抑制効果</Lang>
+      </Header>
+      <Detail>
+        <Lang xml:lang="ja">離乳期ウサギに馬血清をくり返し投与することによって作成した冠動脈障害モデルに対して冠動脈障害抑制効果が認められている<ReferenceBookRef ref="DOC_23" />。</Lang>
+      </Detail>
+    </OtherInformation>
+    <OtherInformation id="HDR_EfficacyPharmacology_OtherInformation_6" heading="free">
+      <Header>
+        <Lang xml:lang="ja">末梢神経障害抑制効果</Lang>
+      </Header>
+      <Detail>
+        <Lang xml:lang="ja">ウシ末梢神経抗原の免疫により惹起されたラットアレルギー性神経炎モデルにおいて、ラット免疫グロブリン又はスルホ化人免疫グロブリンGを投与することにより末梢神経障害の抑制作用が認められている<ReferenceBookRef ref="DOC_24" /><Sup>,</Sup><ReferenceBookRef ref="DOC_25" />。</Lang>
+      </Detail>
+    </OtherInformation>
+    <OtherInformation id="HDR_EfficacyPharmacology_OtherInformation_7" heading="free">
+      <Header>
+        <Lang xml:lang="ja">視神経炎抑制効果</Lang>
+      </Header>
+      <Detail>
+        <Lang xml:lang="ja">マウス実験的自己免疫性脳脊髄炎及び実験的自己免疫性視神経炎モデルにおいて、スルホ化人免疫グロブリンGを投与することにより、視神経における抗炎症作用及び脱髄抑制作用が認められている<ReferenceBookRef ref="DOC_26" />。</Lang>
+      </Detail>
+    </OtherInformation>
+  </EfficacyPharmacology>
+  <!--２０.取扱い上の注意-->
+  <PrecautionsForHandling id="HDR_PrecautionsForHandling" heading="fixing">
+    <OrderedList numberContinued="false">
+      <Item id="HDR_PrecautionsForHandling_1" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">凍結を避けること。</Lang>
+        </Detail>
+      </Item>
+      <Item id="HDR_PrecautionsForHandling_2" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">本剤は特定生物由来製品に該当することから、本剤を使用した場合は、医薬品名（販売名）、その製造番号又は製造記号（ロット番号）、使用年月日、使用した患者の氏名、住所等を記録し、少なくとも20年間保存すること。</Lang>
+        </Detail>
+      </Item>
+    </OrderedList>
+  </PrecautionsForHandling>
+  <!--２１.承認条件-->
+  <ConditionsOfApproval id="HDR_ConditionsOfApproval" heading="fixing">
+    <Detail>
+      <Lang xml:lang="ja">医薬品リスク管理計画を策定の上、適切に実施すること。</Lang>
+    </Detail>
+  </ConditionsOfApproval>
+  <!--２２.包装-->
+  <Package id="HDR_Package" heading="fixing">
+    <SimpleList>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">〈<ApprovalBrandNameRef ref="BRD_Drug1" />〉</Lang>
+        </Header>
+        <Detail>
+          <Lang xml:lang="ja">1バイアル<?enter?>溶剤：日本薬局方注射用水10mL　1バイアル添付</Lang>
+        </Detail>
+      </Item>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">〈<ApprovalBrandNameRef ref="BRD_Drug2" />〉</Lang>
+        </Header>
+        <Detail>
+          <Lang xml:lang="ja">1バイアル<?enter?>溶剤：日本薬局方注射用水50mL、薬液調整用針（溶解液注入針）、通気針添付</Lang>
+        </Detail>
+      </Item>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">〈<ApprovalBrandNameRef ref="BRD_Drug3" />〉</Lang>
+        </Header>
+        <Detail>
+          <Lang xml:lang="ja">1バイアル<?enter?>溶剤：日本薬局方注射用水100mL、薬液調整用針（溶解液注入針）、通気針添付</Lang>
+        </Detail>
+      </Item>
+    </SimpleList>
+  </Package>
+  <!--２３.主要文献-->
+  <MainLiterature id="HDR_MainLiterature" heading="fixing">
+    <Reference id="DOC_01">
+      <Lang xml:lang="ja">USP DI（United States Pharmacopeia Dispensing Information）. 1998：1624-1628</Lang>
+    </Reference>
+    <Reference id="DOC_02">
+      <Lang xml:lang="ja">Hall, C. B., et al.：Pediatrics. 1994；93（4）：682-685</Lang>
+    </Reference>
+    <Reference id="DOC_03">
+      <Lang xml:lang="ja">薗部友良：小児内科. 1994；26（11）：1929-1933</Lang>
+    </Reference>
+    <Reference id="DOC_04">
+      <Lang xml:lang="ja">安保　亘ほか：臨牀小児医学. 1978；26（2）：147-154</Lang>
+    </Reference>
+    <Reference id="DOC_05">
+      <Lang xml:lang="ja">岸本　進ほか：基礎と臨床. 1978；12（3）：493-496</Lang>
+    </Reference>
+    <Reference id="DOC_06">
+      <Lang xml:lang="ja">Liese, J. G., et al.：Am. J. Dis. Child. 1992；146（3）：335-339</Lang>
+    </Reference>
+    <Reference id="DOC_07">
+      <Lang xml:lang="ja">社内資料：試験成績（特発性血小板減少性紫斑病）（1985年4月16日承認、申請資料概要ト）</Lang>
+    </Reference>
+    <Reference id="DOC_08">
+      <Lang xml:lang="ja">社内資料：試験成績（川崎病の急性期）（1990年9月28日承認、申請資料概要ト）</Lang>
+    </Reference>
+    <Reference id="DOC_09">
+      <Lang xml:lang="ja">Sato, N., et al.：Pediatr. Int. 1999；41（1）：1-7</Lang>
+    </Reference>
+    <Reference id="DOC_10">
+      <Lang xml:lang="ja">野村恭一ほか：神経治療学. 2001；18（1）：69-81</Lang>
+    </Reference>
+    <Reference id="DOC_11">
+      <Lang xml:lang="ja">社内資料：試験成績（小児）（ギラン・バレー症候群）（2000年12月12日承認、申請資料概要ト（4））</Lang>
+    </Reference>
+    <Reference id="DOC_12">
+      <Lang xml:lang="ja">社内資料：臨床試験（好酸球性多発血管炎性肉芽腫症）. 2009（2010年1月20日承認、CTD2.5.4.2、2.5.5.2）</Lang>
+    </Reference>
+    <Reference id="DOC_13">
+      <Lang xml:lang="ja">社内資料：臨床試験（慢性炎症性脱髄性多発根神経炎）. 2019（2019年8月22日承認、CTD2.5.4.4、2.5.5.6）</Lang>
+    </Reference>
+    <Reference id="DOC_14">
+      <Lang xml:lang="ja">社内資料：臨床試験（多巣性運動ニューロパチー）. 2019（2019年8月22日承認、CTD2.5.4.4、2.5.5.6）</Lang>
+    </Reference>
+    <Reference id="DOC_15">
+      <Lang xml:lang="ja">社内資料：臨床試験（視神経炎の急性期）. 2019（2019年12月20日承認、CTD2.5.4.4、2.5.5.4）</Lang>
+    </Reference>
+    <Reference id="DOC_16">
+      <Lang xml:lang="ja">正岡　徹ほか：日本化学療法学会雑誌. 2000；48（3）：199-217</Lang>
+    </Reference>
+    <Reference id="DOC_17">
+      <Lang xml:lang="ja">岩村善利ほか：臨牀と研究. 1978；55（6）：1900-1907</Lang>
+    </Reference>
+    <Reference id="DOC_18">
+      <Lang xml:lang="ja">増保安彦ほか：臨牀と研究. 1978；55（11）：3722-3726</Lang>
+    </Reference>
+    <Reference id="DOC_19">
+      <Lang xml:lang="ja">笹田昌孝ほか：日本血液学会雑誌. 1983；46（3）：671-676</Lang>
+    </Reference>
+    <Reference id="DOC_20">
+      <Lang xml:lang="ja">鈴木洋二ほか：日本薬学会第101年会　講演要旨集. 1981；306</Lang>
+    </Reference>
+    <Reference id="DOC_21">
+      <Lang xml:lang="ja">新井俊彦：感染症学雑誌. 1985；59（1）：41-46</Lang>
+    </Reference>
+    <Reference id="DOC_22">
+      <Lang xml:lang="ja">斉藤典之ほか：ITPに対する免疫グロブリン療法、ライフサイエンス・メディカ（東京）. 1982：59-65</Lang>
+    </Reference>
+    <Reference id="DOC_23">
+      <Lang xml:lang="ja">田宮　寛ほか：Prog. Med. 1989；9（1）：49-54</Lang>
+    </Reference>
+    <Reference id="DOC_24">
+      <Lang xml:lang="ja">社内資料：末梢神経障害抑制効果（ラット）. 1996</Lang>
+    </Reference>
+    <Reference id="DOC_25">
+      <Lang xml:lang="ja">Miyagi, F., et al.：J. Neuroimmunol. 1997；78（1-2）：127-131</Lang>
+    </Reference>
+    <Reference id="DOC_26">
+      <Lang xml:lang="ja">Takahashi, H., et al.：Biol. Pharm. Bull. 2019；42（2）：173-178</Lang>
+    </Reference>
+  </MainLiterature>
+  <!--２４.文献請求先及び問い合わせ先-->
+  <AddresseeOfLiteratureRequest id="HDR_AddresseeOfLiteratureRequest" heading="fixing">
+    <AddresseeInfo>
+      <AddresseeOfInquiry>
+        <Lang xml:lang="ja">帝人ファーマ株式会社　メディカル情報グループ</Lang>
+      </AddresseeOfInquiry>
+      <Address>
+        <Lang xml:lang="ja">〒100-8585　東京都千代田区霞が関3丁目2番1号</Lang>
+      </Address>
+      <ContactInformation>
+        <Detail>
+          <Lang xml:lang="ja">フリーダイヤル　0120-189-315</Lang>
+        </Detail>
+      </ContactInformation>
+    </AddresseeInfo>
+  </AddresseeOfLiteratureRequest>
+  <!--２６.製造販売業者等-->
+  <NameAddressManufact id="HDR_NameAddressManufact" heading="fixing">
+    <Manufacturer>
+      <TypeOfIndustry>
+        <Lang xml:lang="ja">製造販売元</Lang>
+      </TypeOfIndustry>
+      <Name>
+        <Lang xml:lang="ja">KMバイオロジクス株式会社</Lang>
+      </Name>
+      <Address>
+        <Lang xml:lang="ja">熊本市北区大窪一丁目6番1号</Lang>
+      </Address>
+    </Manufacturer>
+    <Manufacturer>
+      <TypeOfIndustry>
+        <Lang xml:lang="ja">販売元</Lang>
+      </TypeOfIndustry>
+      <Name>
+        <Lang xml:lang="ja">帝人ファーマ株式会社</Lang>
+      </Name>
+      <Address>
+        <Lang xml:lang="ja">東京都千代田区霞が関3丁目2番1号<?enter?><?enter?><?enter?></Lang>
+      </Address>
+    </Manufacturer>
+  </NameAddressManufact>
+  <ReferenceInformation>
+    <Detail modified="今回">
+      <Lang xml:lang="ja">【溶解方法】</Lang>
+    </Detail>
+    <Detail>
+      <Lang xml:lang="ja">冷蔵保存をしていた場合は製剤及び添付の溶剤（日本薬局方注射用水）バイアルを冷蔵庫から取り出し、室温にもどす。製剤バイアルは陰圧となっているため、必ず下記の順序に従って溶解すること。</Lang>
+    </Detail>
+    <Detail>
+      <Lang xml:lang="ja">500mg製剤</Lang>
+    </Detail>
+    <Detail>
+      <Lang xml:lang="ja">1. 製剤及び溶剤バイアルのゴム栓を消毒する。</Lang>
+    </Detail>
+    <Detail>
+      <Lang xml:lang="ja">2. 注射器で溶剤を全量抜き取り、製剤バイアルに突き刺し、溶剤の全量を壁面に沿ってゆっくり注入する。</Lang>
+    </Detail>
+    <Detail>
+      <Lang xml:lang="ja">3. 製剤バイアルをできるだけ泡をたてないようゆるやかに回転振盪しながら完全に溶解する（激しく振盪しないこと）。</Lang>
+    </Detail>
+    <Detail>
+      <Lang xml:lang="ja">2,500mg、5,000mg製剤</Lang>
+    </Detail>
+    <Detail>
+      <Lang xml:lang="ja">1. 製剤及び溶剤バイアルのゴム栓を消毒する。</Lang>
+    </Detail>
+    <Detail>
+      <Lang xml:lang="ja">2. 添付の薬液調整用針の保護キャップのついている側を上にし、針に指を触れないようにして溶剤バイアル1にまっすぐにさし込む（図1）。</Lang>
+    </Detail>
+    <Detail>
+      <Lang xml:lang="ja">3. 薬液調整用針の保護キャップを外した後、薬液調整用針を溶剤バイアルにさしたまま逆さまにし、針に指を触れないようにして製剤バイアル2にまっすぐにすばやくさし込む（図2）。</Lang>
+    </Detail>
+    <Detail>
+      <Lang xml:lang="ja">4. 溶剤が全量注入されたら、製剤バイアルから薬液調整用針を溶剤バイアルとともに抜き去る。</Lang>
+    </Detail>
+    <Detail>
+      <Lang xml:lang="ja">5. 製剤バイアルをできるだけ泡をたてないようゆるやかに回転振盪しながら完全に溶解する（激しく振盪しないこと）。</Lang>
+    </Detail>
+    <Detail>
+      <Lang xml:lang="ja"><InlineGraphic gfname="261976_6343400X1041_3_11_fig01.gif" scale="90" /></Lang>
+    </Detail>
+    <Detail>
+      <Lang xml:lang="ja">注：なお、誤って、先に製剤バイアルに薬液調整用針を取り付けると、製剤バイアル内の陰圧が解除され、溶剤を移注出来ません。この場合は500mg製剤の溶解方法に準じて、注射器を使用して移注して下さい。</Lang>
+    </Detail>
+    <Detail modified="今回">
+      <Lang xml:lang="ja">【通気針の使用方法】</Lang>
+    </Detail>
+    <Detail>
+      <Lang xml:lang="ja">2,500mg、5,000mg製剤</Lang>
+    </Detail>
+    <Detail>
+      <Lang xml:lang="ja">1. 製剤バイアルに点滴チューブの針を刺し、バイアルを逆さまにつるしておく。</Lang>
+    </Detail>
+    <Detail>
+      <Lang xml:lang="ja">2. 通気針のフィルターの部分を指で蓋をした状態のまま、通気針を製剤バイアルに差し込み、先端が液面上に出たことを確認してからフィルター部分の指を放す。</Lang>
+    </Detail>
+    <Detail>
+      <Lang xml:lang="ja"><InlineGraphic gfname="261976_6343400X1041_3_11_fig02.gif" scale="69" /></Lang>
+    </Detail>
+    <Detail>
+      <Lang xml:lang="ja"><InlineGraphic gfname="261976_6343400X1041_3_11_fig03.gif" scale="83" /></Lang>
+    </Detail>
+  </ReferenceInformation>
+</PackIns>

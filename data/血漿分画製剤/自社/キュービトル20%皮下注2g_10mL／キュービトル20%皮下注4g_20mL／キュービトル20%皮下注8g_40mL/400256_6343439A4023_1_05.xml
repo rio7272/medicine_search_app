@@ -1,0 +1,1242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PackIns version="1.0" xmlKind="Packins" drugType="Medicine" referenceOfPrecautionsForUse="6343439-S0002" referenceOfPrecautionsForHandling="6343439-T0002" xmlns="http://info.pmda.go.jp/namespace/prescription_drugs/package_insert/1.0">
+  <PackageInsertNo>6343439A4023_1_05</PackageInsertNo>
+  <CompanyIdentifier>400256</CompanyIdentifier>
+  <!--ア.作成又は改訂年月-->
+  <DateOfPreparationOrRevision>
+    <PreparationOrRevision id="前回">
+      <YearMonth>2024-12</YearMonth>
+    </PreparationOrRevision>
+    <PreparationOrRevision id="今回">
+      <YearMonth>2025-03</YearMonth>
+      <Version>
+        <Lang xml:lang="ja">第4版</Lang>
+      </Version>
+    </PreparationOrRevision>
+  </DateOfPreparationOrRevision>
+  <!--イ.日本標準商品分類番号-->
+  <Sccj>
+    <SccjNo>876343</SccjNo>
+  </Sccj>
+  <!--オ.薬効分類名-->
+  <TherapeuticClassification>
+    <Detail>
+      <Lang xml:lang="ja">血漿分画製剤</Lang>
+    </Detail>
+    <Detail>
+      <Lang xml:lang="ja">皮下注用人免疫グロブリン製剤</Lang>
+    </Detail>
+  </TherapeuticClassification>
+  <ApprovalEtc>
+    <DetailBrandName id="BRD_Drug2">
+      <ApprovalBrandName>
+        <Lang xml:lang="ja">キュービトル20%皮下注2g/10mL</Lang>
+      </ApprovalBrandName>
+      <BrandCode>
+        <YJCode>6343439A4023</YJCode>
+      </BrandCode>
+      <TrademarkInEnglish>
+        <TrademarkName>Cuvitru 20% S.C. Injection 2g/10mL</TrademarkName>
+      </TrademarkInEnglish>
+      <BrandNameInHiragana>
+        <NameInHiragana>きゅーびとる20％ひかちゅう2g/10mL</NameInHiragana>
+      </BrandNameInHiragana>
+      <!--ウ.承認番号-->
+      <ApprovalAndLicenseNo>
+        <ApprovalNo>30500AMX00255</ApprovalNo>
+      </ApprovalAndLicenseNo>
+      <!--ウ.販売開始年月-->
+      <StartingDateOfMarketing>2024-01</StartingDateOfMarketing>
+      <!--エ.貯法、有効期間-->
+      <Storage>
+        <StorageMethod>
+          <Lang xml:lang="ja">凍結を避けて25℃以下で保存</Lang>
+        </StorageMethod>
+        <ShelfLife>
+          <Lang xml:lang="ja">製造日から24ヵ月</Lang>
+        </ShelfLife>
+      </Storage>
+      <!--キ.基準名-->
+      <StandardName>
+        <StandardNameCategory>
+          <StandardNameCategoryCode>2</StandardNameCategoryCode>
+          <StandardNameDetail>
+            <Lang xml:lang="ja">pH4処理酸性人免疫グロブリン（皮下注射）</Lang>
+          </StandardNameDetail>
+        </StandardNameCategory>
+      </StandardName>
+      <!--カ.規制区分-->
+      <RegulatoryClassification>
+        <RegulatoryClassificationCodeAndNote>
+          <RegulatoryClassificationCode>12</RegulatoryClassificationCode>
+        </RegulatoryClassificationCodeAndNote>
+        <RegulatoryClassificationCodeAndNote>
+          <RegulatoryClassificationCode>14</RegulatoryClassificationCode>
+        </RegulatoryClassificationCodeAndNote>
+      </RegulatoryClassification>
+    </DetailBrandName>
+    <DetailBrandName id="BRD_Drug3">
+      <ApprovalBrandName>
+        <Lang xml:lang="ja">キュービトル20%皮下注4g/20mL</Lang>
+      </ApprovalBrandName>
+      <BrandCode>
+        <YJCode>6343439A5020</YJCode>
+      </BrandCode>
+      <TrademarkInEnglish>
+        <TrademarkName>Cuvitru 20% S.C. Injection 4g/20mL</TrademarkName>
+      </TrademarkInEnglish>
+      <BrandNameInHiragana>
+        <NameInHiragana>きゅーびとる20％ひかちゅう4g/20mL</NameInHiragana>
+      </BrandNameInHiragana>
+      <!--ウ.承認番号-->
+      <ApprovalAndLicenseNo>
+        <ApprovalNo>30500AMX00256</ApprovalNo>
+      </ApprovalAndLicenseNo>
+      <!--ウ.販売開始年月-->
+      <StartingDateOfMarketing>2024-01</StartingDateOfMarketing>
+      <!--エ.貯法、有効期間-->
+      <Storage>
+        <StorageMethod>
+          <Lang xml:lang="ja">凍結を避けて25℃以下で保存</Lang>
+        </StorageMethod>
+        <ShelfLife>
+          <Lang xml:lang="ja">製造日から24ヵ月</Lang>
+        </ShelfLife>
+      </Storage>
+      <!--キ.基準名-->
+      <StandardName>
+        <StandardNameCategory>
+          <StandardNameCategoryCode>2</StandardNameCategoryCode>
+          <StandardNameDetail>
+            <Lang xml:lang="ja">pH4処理酸性人免疫グロブリン（皮下注射）</Lang>
+          </StandardNameDetail>
+        </StandardNameCategory>
+      </StandardName>
+      <!--カ.規制区分-->
+      <RegulatoryClassification>
+        <RegulatoryClassificationCodeAndNote>
+          <RegulatoryClassificationCode>12</RegulatoryClassificationCode>
+        </RegulatoryClassificationCodeAndNote>
+        <RegulatoryClassificationCodeAndNote>
+          <RegulatoryClassificationCode>14</RegulatoryClassificationCode>
+        </RegulatoryClassificationCodeAndNote>
+      </RegulatoryClassification>
+    </DetailBrandName>
+    <DetailBrandName id="BRD_Drug4">
+      <ApprovalBrandName>
+        <Lang xml:lang="ja">キュービトル20%皮下注8g/40mL</Lang>
+      </ApprovalBrandName>
+      <BrandCode>
+        <YJCode>6343439A6026</YJCode>
+      </BrandCode>
+      <TrademarkInEnglish>
+        <TrademarkName>Cuvitru 20% S.C. Injection 8g/40mL</TrademarkName>
+      </TrademarkInEnglish>
+      <BrandNameInHiragana>
+        <NameInHiragana>きゅーびとる20％ひかちゅう8g/40mL</NameInHiragana>
+      </BrandNameInHiragana>
+      <!--ウ.承認番号-->
+      <ApprovalAndLicenseNo>
+        <ApprovalNo>30500AMX00257</ApprovalNo>
+      </ApprovalAndLicenseNo>
+      <!--ウ.販売開始年月-->
+      <StartingDateOfMarketing>2024-01</StartingDateOfMarketing>
+      <!--エ.貯法、有効期間-->
+      <Storage>
+        <StorageMethod>
+          <Lang xml:lang="ja">凍結を避けて25℃以下で保存</Lang>
+        </StorageMethod>
+        <ShelfLife>
+          <Lang xml:lang="ja">製造日から24ヵ月</Lang>
+        </ShelfLife>
+      </Storage>
+      <!--キ.基準名-->
+      <StandardName>
+        <StandardNameCategory>
+          <StandardNameCategoryCode>2</StandardNameCategoryCode>
+          <StandardNameDetail>
+            <Lang xml:lang="ja">pH4処理酸性人免疫グロブリン（皮下注射）</Lang>
+          </StandardNameDetail>
+        </StandardNameCategory>
+      </StandardName>
+      <!--カ.規制区分-->
+      <RegulatoryClassification>
+        <RegulatoryClassificationCodeAndNote>
+          <RegulatoryClassificationCode>12</RegulatoryClassificationCode>
+        </RegulatoryClassificationCodeAndNote>
+        <RegulatoryClassificationCodeAndNote>
+          <RegulatoryClassificationCode>14</RegulatoryClassificationCode>
+        </RegulatoryClassificationCodeAndNote>
+      </RegulatoryClassification>
+    </DetailBrandName>
+  </ApprovalEtc>
+  <!--キ.一般的名称-->
+  <GenericName>
+    <Detail>
+      <Lang xml:lang="ja">pH4処理酸性人免疫グロブリン（皮下注射）</Lang>
+    </Detail>
+  </GenericName>
+  <SpeciallyDescribedItems>
+    <Detail>
+      <Lang xml:lang="ja">本剤は、ヒト血漿を原料として製剤化したものである。原料となった血漿を採取する際には、問診、感染症関連の検査を実施するとともに、製造工程における一定の不活化・除去処理等を実施し、感染症に対する安全対策を講じているが、ヒト血漿を原料としていることによる感染症伝播のリスクを完全に排除することはできないため、疾病の治療上の必要性を十分に検討の上、必要最小限の使用にとどめること。</Lang>
+    </Detail>
+  </SpeciallyDescribedItems>
+  <!--２.禁忌（次の患者には投与しないこと）-->
+  <ContraIndications heading="fixing" id="HDR_ContraIndications">
+    <Detail>
+      <Lang xml:lang="ja">本剤の成分に対しショックの既往歴のある患者</Lang>
+    </Detail>
+  </ContraIndications>
+  <!--３.組成・性状-->
+  <CompositionAndProperty id="HDR_CompositionAndProperty" heading="fixing">
+    <!--３.１ 組成-->
+    <Composition id="HDR_Composition" heading="fixing">
+      <CompositionForBrand ref="BRD_Drug2">
+        <CompositionForConstituentUnits>
+          <CompositionTable>
+            <ContainedAmount>
+              <ActiveIngredientName>
+                <Lang xml:lang="ja">人免疫グロブリンG</Lang>
+              </ActiveIngredientName>
+              <ValueAndUnit>
+                <Lang xml:lang="ja">2g</Lang>
+              </ValueAndUnit>
+            </ContainedAmount>
+            <Additives>
+              <IndividualAdditives>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">グリシン<Sup>注1）</Sup></Lang>
+                  </IndividualAdditive>
+                  <ValueAndUnit>
+                    <Lang xml:lang="ja">0.25mol/L</Lang>
+                  </ValueAndUnit>
+                </InfoIndividualAdditive>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">pH調節剤</Lang>
+                  </IndividualAdditive>
+                  <ValueAndUnit>
+                    <Lang xml:lang="ja">適量</Lang>
+                  </ValueAndUnit>
+                </InfoIndividualAdditive>
+              </IndividualAdditives>
+            </Additives>
+            <OtherComposition>
+              <CategoryName>
+                <Lang xml:lang="ja">備考</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail>
+                  <Lang xml:lang="ja">人免疫グロブリンGは、ヒト血液に由来する。（採血国：米国、採血の区別：非献血）<Sup>注2）</Sup><?enter?>本剤は製造工程において、ブタの腸粘膜由来成分（ヘパリンナトリウム）を使用している。</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherComposition>
+          </CompositionTable>
+          <CommentsForConstituentUnits>
+            <Lang xml:lang="ja">注1）グリシン濃度は0.20～0.30mol/Lの範囲である。<?enter?>注2）「献血又は非献血の区別の考え方」の項を参照。</Lang>
+          </CommentsForConstituentUnits>
+        </CompositionForConstituentUnits>
+      </CompositionForBrand>
+      <CompositionForBrand ref="BRD_Drug3">
+        <CompositionForConstituentUnits>
+          <CompositionTable>
+            <ContainedAmount>
+              <ActiveIngredientName>
+                <Lang xml:lang="ja">人免疫グロブリンG</Lang>
+              </ActiveIngredientName>
+              <ValueAndUnit>
+                <Lang xml:lang="ja">4g</Lang>
+              </ValueAndUnit>
+            </ContainedAmount>
+            <Additives>
+              <IndividualAdditives>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">グリシン<Sup>注1）</Sup></Lang>
+                  </IndividualAdditive>
+                  <ValueAndUnit>
+                    <Lang xml:lang="ja">0.25mol/L</Lang>
+                  </ValueAndUnit>
+                </InfoIndividualAdditive>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">pH調節剤</Lang>
+                  </IndividualAdditive>
+                  <ValueAndUnit>
+                    <Lang xml:lang="ja">適量</Lang>
+                  </ValueAndUnit>
+                </InfoIndividualAdditive>
+              </IndividualAdditives>
+            </Additives>
+            <OtherComposition>
+              <CategoryName>
+                <Lang xml:lang="ja">備考</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail>
+                  <Lang xml:lang="ja">人免疫グロブリンGは、ヒト血液に由来する。（採血国：米国、採血の区別：非献血）<Sup>注2）</Sup><?enter?>本剤は製造工程において、ブタの腸粘膜由来成分（ヘパリンナトリウム）を使用している。</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherComposition>
+          </CompositionTable>
+          <CommentsForConstituentUnits>
+            <Lang xml:lang="ja">注1）グリシン濃度は0.20～0.30mol/Lの範囲である。<?enter?>注2）「献血又は非献血の区別の考え方」の項を参照。</Lang>
+          </CommentsForConstituentUnits>
+        </CompositionForConstituentUnits>
+      </CompositionForBrand>
+      <CompositionForBrand ref="BRD_Drug4">
+        <CompositionForConstituentUnits>
+          <CompositionTable>
+            <ContainedAmount>
+              <ActiveIngredientName>
+                <Lang xml:lang="ja">人免疫グロブリンG</Lang>
+              </ActiveIngredientName>
+              <ValueAndUnit>
+                <Lang xml:lang="ja">8g</Lang>
+              </ValueAndUnit>
+            </ContainedAmount>
+            <Additives>
+              <IndividualAdditives>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">グリシン<Sup>注1）</Sup></Lang>
+                  </IndividualAdditive>
+                  <ValueAndUnit>
+                    <Lang xml:lang="ja">0.25mol/L</Lang>
+                  </ValueAndUnit>
+                </InfoIndividualAdditive>
+                <InfoIndividualAdditive>
+                  <IndividualAdditive>
+                    <Lang xml:lang="ja">pH調節剤</Lang>
+                  </IndividualAdditive>
+                  <ValueAndUnit>
+                    <Lang xml:lang="ja">適量</Lang>
+                  </ValueAndUnit>
+                </InfoIndividualAdditive>
+              </IndividualAdditives>
+            </Additives>
+            <OtherComposition>
+              <CategoryName>
+                <Lang xml:lang="ja">備考</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail>
+                  <Lang xml:lang="ja">人免疫グロブリンGは、ヒト血液に由来する。（採血国：米国、採血の区別：非献血）<Sup>注2）</Sup><?enter?>本剤は製造工程において、ブタの腸粘膜由来成分（ヘパリンナトリウム）を使用している。</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherComposition>
+          </CompositionTable>
+          <CommentsForConstituentUnits>
+            <Lang xml:lang="ja">注1）グリシン濃度は0.20～0.30mol/Lの範囲である。<?enter?>注2）「献血又は非献血の区別の考え方」の項を参照。</Lang>
+          </CommentsForConstituentUnits>
+        </CompositionForConstituentUnits>
+      </CompositionForBrand>
+    </Composition>
+    <!--３.２ 製剤の性状-->
+    <Property id="HDR_Property" heading="fixing">
+      <PropertyForBrand ref="BRD_Drug2">
+        <PropertyForConstituentUnits>
+          <PropertyTable>
+            <Formulation>
+              <Lang xml:lang="ja">注射剤（バイアル）</Lang>
+            </Formulation>
+            <pH>
+              <Lang xml:lang="ja">4.6～5.1<Sup>注）</Sup></Lang>
+            </pH>
+            <OsmoticRatio>
+              <Lang xml:lang="ja">約0.9（生理食塩液に対する比）</Lang>
+            </OsmoticRatio>
+            <OtherProperty>
+              <CategoryName>
+                <Lang xml:lang="ja">性状</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail>
+                  <Lang xml:lang="ja">本品は無色又は微黄色又は淡褐色の澄明な液体であり、血漿たん白微粒子を認めることがある。</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherProperty>
+          </PropertyTable>
+          <CommentsForConstituentUnits>
+            <Lang xml:lang="ja">注）0.9%塩化ナトリウムを含む1%たん白質溶液におけるpH</Lang>
+          </CommentsForConstituentUnits>
+        </PropertyForConstituentUnits>
+      </PropertyForBrand>
+      <PropertyForBrand ref="BRD_Drug3">
+        <PropertyForConstituentUnits>
+          <PropertyTable>
+            <Formulation>
+              <Lang xml:lang="ja">注射剤（バイアル）</Lang>
+            </Formulation>
+            <pH>
+              <Lang xml:lang="ja">4.6～5.1<Sup>注）</Sup></Lang>
+            </pH>
+            <OsmoticRatio>
+              <Lang xml:lang="ja">約0.9（生理食塩液に対する比）</Lang>
+            </OsmoticRatio>
+            <OtherProperty>
+              <CategoryName>
+                <Lang xml:lang="ja">性状</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail>
+                  <Lang xml:lang="ja">本品は無色又は微黄色又は淡褐色の澄明な液体であり、血漿たん白微粒子を認めることがある。</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherProperty>
+          </PropertyTable>
+          <CommentsForConstituentUnits>
+            <Lang xml:lang="ja">注）0.9%塩化ナトリウムを含む1%たん白質溶液におけるpH</Lang>
+          </CommentsForConstituentUnits>
+        </PropertyForConstituentUnits>
+      </PropertyForBrand>
+      <PropertyForBrand ref="BRD_Drug4">
+        <PropertyForConstituentUnits>
+          <PropertyTable>
+            <Formulation>
+              <Lang xml:lang="ja">注射剤（バイアル）</Lang>
+            </Formulation>
+            <pH>
+              <Lang xml:lang="ja">4.6～5.1<Sup>注）</Sup></Lang>
+            </pH>
+            <OsmoticRatio>
+              <Lang xml:lang="ja">約0.9（生理食塩液に対する比）</Lang>
+            </OsmoticRatio>
+            <OtherProperty>
+              <CategoryName>
+                <Lang xml:lang="ja">性状</Lang>
+              </CategoryName>
+              <Content>
+                <ContentDetail>
+                  <Lang xml:lang="ja">本品は無色又は微黄色又は淡褐色の澄明な液体であり、血漿たん白微粒子を認めることがある。</Lang>
+                </ContentDetail>
+              </Content>
+            </OtherProperty>
+          </PropertyTable>
+          <CommentsForConstituentUnits>
+            <Lang xml:lang="ja">注）0.9%塩化ナトリウムを含む1%たん白質溶液におけるpH</Lang>
+          </CommentsForConstituentUnits>
+        </PropertyForConstituentUnits>
+      </PropertyForBrand>
+    </Property>
+  </CompositionAndProperty>
+  <!--４.効能又は効果-->
+  <IndicationsOrEfficacy wordingPatternOfIndications="1" id="HDR_IndicationsOrEfficacy" heading="fixing">
+    <Detail>
+      <Lang xml:lang="ja">無又は低ガンマグロブリン血症</Lang>
+    </Detail>
+  </IndicationsOrEfficacy>
+  <!--６.用法及び用量-->
+  <InfoDoseAdmin wordingPatternOfDoseAdmin="1" id="HDR_InfoDoseAdmin" heading="fixing">
+    <DoseAdmin>
+      <Detail>
+        <Lang xml:lang="ja">通常、人免疫グロブリンGとして50～200mg（0.25～1mL）/kg体重を週1回皮下投与する。2週間に1回投与する場合には、1週あたりの用量の2倍量〔100～400mg（0.5～2mL）/kg体重〕を皮下投与する。なお、患者の状態に応じて、1週又は2週あたりの投与量及び投与回数は適宜増減する。</Lang>
+      </Detail>
+    </DoseAdmin>
+  </InfoDoseAdmin>
+  <!--７.用法及び用量に関連する注意-->
+  <InfoPrecautionsDosage wordingPatternOfInfoPrecautionsDosage="1" id="HDR_InfoPrecautionsDosage" heading="fixing">
+    <OrderedList numberContinued="false">
+      <Item id="HDR_PMDA_InfoPrecautionsDosage_20230927103652_1" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">皮下注射にのみ使用すること。静脈内に投与してはならない。</Lang>
+        </Detail>
+      </Item>
+      <Item id="HDR_InfoPrecautionsDosage_2" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">本剤の投与開始にあたっては、医療機関において、必ず医師によるか、医師の直接の監督のもとで投与を行うこと。本剤による治療開始後、医師により適用が妥当と判断された患者については、自己投与も可能である。<HeaderRef ref="HDR_PMDA_ImportantPrecautions_20230927103652_12" />,<HeaderRef ref="HDR_PMDA_PrecautionsForApplication_20230927103652_38" /></Lang>
+        </Detail>
+      </Item>
+      <Item id="HDR_PMDA_InfoPrecautionsDosage_20230927103652_3" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">静注用人免疫グロブリン製剤から本剤に切り換える患者において、本剤の1週あたりの人免疫グロブリンG投与量は、静注用人免疫グロブリン製剤を3週間間隔で投与していた場合はその1/3量、また、4週間間隔で投与していた場合はその1/4量から開始し、初回投与は静注用人免疫グロブリン製剤の最終投与1週間後に投与すること。なお、本剤を2週間間隔で投与する場合には、1週あたりの投与量の2倍量とすること。本剤の投与量は、感染頻度や重症度等本剤による治療の臨床反応及び血清IgG濃度を参考に調節すること。</Lang>
+        </Detail>
+      </Item>
+      <Item id="HDR_PMDA_InfoPrecautionsDosage_20230927103652_4" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">他の皮下注用人免疫グロブリン製剤から本剤に切り換える患者では、1週あたり同じ量の人免疫グロブリンGを投与すること。</Lang>
+        </Detail>
+      </Item>
+      <Item id="HDR_PMDA_InfoPrecautionsDosage_20230927103652_5" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">人免疫グロブリン製剤による治療歴のない患者を対象とした本剤の臨床試験は実施されていない。人免疫グロブリン製剤による治療歴のない患者に対して本剤による導入を行う場合は、感染頻度や重症度等本剤による治療の臨床反応と血清IgG濃度を参考に、投与量を慎重に調節すること。また、1週又は2週あたりの投与量を数日に分割して投与するなど、投与間隔の調節も考慮すること。</Lang>
+        </Detail>
+      </Item>
+    </OrderedList>
+  </InfoPrecautionsDosage>
+  <!--８.重要な基本的注意-->
+  <ImportantPrecautions id="HDR_ImportantPrecautions" heading="fixing">
+    <OrderedList numberContinued="false">
+      <Item id="HDR_PMDA_ImportantPrecautions_20230927103652_6" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">本剤の使用にあたっては、疾病の治療における本剤の必要性とともに、本剤の製造に際し感染症の伝播を防止するための安全対策が講じられているが、ヒトの血漿を原料としていることに由来する感染症伝播のリスクを完全に排除することができないことを患者に対して説明し、その理解を得るよう努めること。</Lang>
+        </Detail>
+      </Item>
+      <Item id="HDR_PMDA_ImportantPrecautions_20230927103652_7" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">本剤の原材料となる血漿については、HBs抗原、抗HCV抗体、抗HIV-1抗体及び抗HIV-2抗体が陰性であることを確認している。さらに、プールした試験血漿については、HAV、HBV、HCV、HIV-1及びヒトパルボウイルスB19について核酸増幅検査（NAT）を実施し、適合した血漿を本剤の製造に使用している。また、製造工程段階のプール血漿においてHBs抗原、抗HIV-1抗体及び抗HIV-2抗体が陰性であることを確認している。さらに、HAV、HBV、HCV、HIV-1及びヒトパルボウイルスB19についてNATを実施し、適合していることを確認しているが、当該NATの検出限界以下のウイルスが混入している可能性が常に存在する。本剤の製造工程であるCohnの低温エタノール分画、ウイルス除去膜による濾過工程、有機溶媒／界面活性剤処理及び低pHインキュベーション処理は、各種ウイルスに対して不活化・除去作用を有することが確認されているが、投与に際しては、次の点に十分注意すること。</Lang>
+        </Detail>
+        <OrderedList numberContinued="false">
+          <Item id="HDR_ImportantPrecautions_3" heading="free">
+            <Detail>
+              <Lang xml:lang="ja">血漿分画製剤の現在の製造工程では、ヒトパルボウイルスB19等のウイルスを完全に不活化・除去することが困難であるため、本剤の投与によりその感染の可能性を否定できないので、投与後の経過を十分に観察すること。<HeaderRef ref="HDR_PMDA_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_20230927103652_19" />,<HeaderRef ref="HDR_PMDA_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_20230927103652_20" />,<HeaderRef ref="HDR_UseInPregnant" /></Lang>
+            </Detail>
+          </Item>
+          <Item id="HDR_PMDA_ImportantPrecautions_20230927103652_9" heading="free">
+            <Detail>
+              <Lang xml:lang="ja">現在までに本剤の投与により変異型クロイツフェルト・ヤコブ病（vCJD）等が伝播したとの報告はない。しかしながら、製造工程において異常プリオンを低減し得るとの報告があるものの、理論的なvCJD等の伝播のリスクを完全には排除できないので、投与の際には患者への説明を十分行い、治療上の必要性を十分検討の上投与すること。</Lang>
+            </Detail>
+          </Item>
+        </OrderedList>
+      </Item>
+      <Item id="HDR_ImportantPrecautions_5" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">本剤は抗A及び抗B血液型抗体を有する。したがって、血液型がO型以外の患者に大量投与したとき、溶血性貧血を起こすことがある。<HeaderRef ref="HDR_PMDA_SeriousAdverseEvents_20230927103652_28" /></Lang>
+        </Detail>
+      </Item>
+      <Item id="HDR_ImportantPrecautions_6" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">急性腎障害があらわれることがあるので、投与に先立って患者が脱水状態にないことを確認すること。<HeaderRef ref="HDR_PMDA_SeriousAdverseEvents_20230927103652_23" /></Lang>
+        </Detail>
+      </Item>
+      <Item id="HDR_PMDA_ImportantPrecautions_20230927103652_12" heading="free">
+        <Detail>
+          <Lang xml:lang="ja">在宅自己注射を行う場合、患者に投与方法及び製剤と医療機器の安全な廃棄方法の指導を行うこと。<HeaderRef ref="HDR_InfoPrecautionsDosage_2" />,<HeaderRef ref="HDR_PMDA_PrecautionsForApplication_20230927103652_38" /></Lang>
+        </Detail>
+        <OrderedList numberContinued="false">
+          <Item id="HDR_PMDA_ImportantPrecautions_20230927103652_13" heading="free">
+            <Detail>
+              <Lang xml:lang="ja">自己投与の適用については、医師がその妥当性を慎重に検討し、十分な教育訓練を実施したのち、患者又は介護者が本剤投与による危険性と対処法について理解し、確実に投与できることを確認した上で、医師の管理指導のもとで実施すること。適用後、本剤による副作用が疑われる場合や自己投与の継続が困難な状況となる可能性がある場合には、直ちに自己投与を中止させるなど、適切な処置を行うこと。</Lang>
+            </Detail>
+          </Item>
+          <Item id="HDR_PMDA_ImportantPrecautions_20230927103652_14" heading="free">
+            <Detail>
+              <Lang xml:lang="ja">医療機器を再使用しないように患者に注意を促すこと。</Lang>
+            </Detail>
+          </Item>
+          <Item id="HDR_PMDA_ImportantPrecautions_20230927103652_15" heading="free">
+            <Detail>
+              <Lang xml:lang="ja">製剤及び医療機器の安全な廃棄方法について指導を徹底すること。同時に、使用済みの製剤及び医療機器を廃棄する容器を提供することが望ましい。</Lang>
+            </Detail>
+          </Item>
+        </OrderedList>
+      </Item>
+    </OrderedList>
+  </ImportantPrecautions>
+  <!--９.特定の背景を有する患者に関する注意-->
+  <UseInSpecificPopulations id="HDR_UseInSpecificPopulations" heading="fixing">
+    <!--９.１ 合併症・既往歴等のある患者-->
+    <UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc heading="fixing" id="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc">
+      <OrderedList numberContinued="false">
+        <Item heading="free" id="HDR_PMDA_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_20230927103652_16">
+          <Header>
+            <Lang xml:lang="ja">本剤の成分に対し過敏症の既往歴のある患者</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">治療上やむを得ないと判断される場合を除き、投与しないこと。</Lang>
+          </Detail>
+        </Item>
+        <Item heading="free" id="HDR_PMDA_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_20230927103652_17">
+          <Header>
+            <Lang xml:lang="ja">IgA欠損症の患者</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">抗IgA抗体を保有する患者では過敏反応を起こすおそれがある。</Lang>
+          </Detail>
+        </Item>
+        <Item heading="free" id="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_3">
+          <Header>
+            <Lang xml:lang="ja">血栓塞栓症の危険性の高い患者</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">血液粘度の上昇等により血栓塞栓症を起こすおそれがある。<HeaderRef ref="HDR_UseInTheElderly" />,<HeaderRef ref="HDR_PMDA_SeriousAdverseEvents_20230927103652_24" /></Lang>
+          </Detail>
+        </Item>
+        <Item heading="free" id="HDR_PMDA_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_20230927103652_19">
+          <Header>
+            <Lang xml:lang="ja">溶血性・失血性貧血の患者</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">ヒトパルボウイルスB19の感染を起こす可能性を否定できない。感染した場合には、発熱と急激な貧血を伴う重篤な全身症状を起こすことがある。<HeaderRef ref="HDR_ImportantPrecautions_3" /></Lang>
+          </Detail>
+        </Item>
+        <Item heading="free" id="HDR_PMDA_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_20230927103652_20">
+          <Header>
+            <Lang xml:lang="ja">免疫不全患者・免疫抑制状態の患者</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">ヒトパルボウイルスB19の感染を起こす可能性を否定できない。感染した場合には、持続性の貧血を起こすことがある。<HeaderRef ref="HDR_ImportantPrecautions_3" /></Lang>
+          </Detail>
+        </Item>
+      </OrderedList>
+    </UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc>
+    <!--９.５ 妊婦-->
+    <UseInPregnant heading="fixing" id="HDR_UseInPregnant">
+      <Detail>
+        <Lang xml:lang="ja">妊婦又は妊娠している可能性のある女性には、治療上の有益性が危険性を上回ると判断される場合にのみ投与すること。本剤の投与によりヒトパルボウイルスB19の感染の可能性を否定できない。感染した場合には胎児への障害（流産、胎児水腫、胎児死亡）が起こる可能性を否定できない。<HeaderRef ref="HDR_ImportantPrecautions_3" /></Lang>
+      </Detail>
+    </UseInPregnant>
+    <!--９.６ 授乳婦-->
+    <UseInNursing heading="fixing" id="HDR_UseInNursing">
+      <Detail>
+        <Lang xml:lang="ja">治療上の有益性及び母乳栄養の有益性を考慮し、授乳の継続又は中止を検討すること。</Lang>
+      </Detail>
+    </UseInNursing>
+    <!--９.７ 小児等-->
+    <PediatricUse heading="fixing" id="HDR_PediatricUse">
+      <Detail>
+        <Lang xml:lang="ja">低出生体重児、新生児、乳児及び2歳未満の幼児を対象とした臨床試験は実施していない。</Lang>
+      </Detail>
+    </PediatricUse>
+    <!--９.８ 高齢者-->
+    <UseInTheElderly heading="fixing" id="HDR_UseInTheElderly">
+      <Detail>
+        <Lang xml:lang="ja">患者の状態を観察しながら慎重に投与すること。一般に生理機能が低下している。また、一般に脳・心臓血管障害又はその既往歴のある患者がみられ、血栓塞栓症を起こすおそれがある。<HeaderRef ref="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_3" />,<HeaderRef ref="HDR_PMDA_SeriousAdverseEvents_20230927103652_24" /></Lang>
+      </Detail>
+    </UseInTheElderly>
+  </UseInSpecificPopulations>
+  <!--１０.相互作用-->
+  <Interactions id="HDR_Interactions" heading="fixing">
+    <!--１０.２ 併用注意（併用に注意すること）-->
+    <PrecautionsForCombinations id="HDR_PrecautionsForCombinations" heading="fixing">
+      <PrecautionsForCombination>
+        <PrecautionsForCombi>
+          <WidthDefinition totalWidth="100%">
+            <Col width="32.77%" />
+            <Col width="34.86%" />
+            <Col width="32.34%" />
+          </WidthDefinition>
+          <Drug>
+            <DrugName>
+              <Detail>
+                <Lang xml:lang="ja">非経口用生ワクチン</Lang>
+              </Detail>
+              <SimpleList>
+                <Item>
+                  <Detail>
+                    <Lang xml:lang="ja">麻疹ワクチン<?enter?>おたふくかぜワクチン<?enter?>風疹ワクチン<?enter?>これら混合ワクチン<?enter?>水痘ワクチン等</Lang>
+                  </Detail>
+                </Item>
+              </SimpleList>
+            </DrugName>
+            <ClinSymptomsAndMeasures>
+              <Detail>
+                <Lang xml:lang="ja">本剤の投与を受けた者は、生ワクチンの効果が得られないおそれがあるので、生ワクチンの接種は本剤投与後3ヵ月以上延期すること。また、生ワクチン接種後14日以内に本剤を投与した場合は、投与後3ヵ月以上経過した後に生ワクチンを再接種することが望ましい。</Lang>
+              </Detail>
+            </ClinSymptomsAndMeasures>
+            <MechanismAndRiskFactors>
+              <Detail>
+                <Lang xml:lang="ja">本剤の主成分は免疫抗体であるため、中和反応により生ワクチンの効果が減弱されるおそれがある。</Lang>
+              </Detail>
+            </MechanismAndRiskFactors>
+          </Drug>
+        </PrecautionsForCombi>
+      </PrecautionsForCombination>
+    </PrecautionsForCombinations>
+  </Interactions>
+  <!--１１.副作用-->
+  <AdverseEvents id="HDR_AdverseEvents" heading="fixing">
+    <CommonPrecautionsForAdverse>
+      <Lang xml:lang="ja">次の副作用があらわれることがあるので、観察を十分に行い、異常が認められた場合には投与を中止するなど適切な処置を行うこと。</Lang>
+    </CommonPrecautionsForAdverse>
+    <!--１１.１ 重大な副作用-->
+    <SeriousAdverseEvents id="HDR_SeriousAdverseEvents" heading="fixing">
+      <SeriousAdverse>
+        <OrderedList numberContinued="false">
+          <Item heading="free" id="HDR_PMDA_SeriousAdverseEvents_20230927103652_21">
+            <Header>
+              <Lang xml:lang="ja">アナフィラキシー反応（頻度不明）</Lang>
+            </Header>
+            <Detail>
+              <Lang xml:lang="ja">悪寒、全身紅潮、胸内苦悶、頻脈、脈拍微弱、血圧低下、喘鳴、呼吸困難、チアノーゼ等異常が認められた場合には、直ちに投与を中止し、適切な処置を行うこと。</Lang>
+            </Detail>
+          </Item>
+          <Item heading="free" id="HDR_PMDA_SeriousAdverseEvents_20230927103652_22">
+            <Header>
+              <Lang xml:lang="ja">無菌性髄膜炎症候群（頻度不明）</Lang>
+            </Header>
+            <Detail>
+              <Lang xml:lang="ja">無菌性髄膜炎症候群（項部硬直、頭痛、発熱、羞明、悪心又は嘔吐等）があらわれることがある。</Lang>
+            </Detail>
+          </Item>
+          <Item heading="free" id="HDR_PMDA_SeriousAdverseEvents_20230927103652_23">
+            <Header>
+              <Lang xml:lang="ja">急性腎障害（頻度不明）</Lang>
+            </Header>
+            <Detail>
+              <Lang xml:lang="ja">腎機能検査値（BUN、血清クレアチニン等）の悪化、尿量減少が認められた場合には投与を中止し、適切な処置を行うこと。<HeaderRef ref="HDR_ImportantPrecautions_6" /></Lang>
+            </Detail>
+          </Item>
+          <Item heading="free" id="HDR_PMDA_SeriousAdverseEvents_20230927103652_24">
+            <Header>
+              <Lang xml:lang="ja">血栓塞栓症（頻度不明）</Lang>
+            </Header>
+            <Detail>
+              <Lang xml:lang="ja">血液粘度の上昇等により、脳梗塞、心筋梗塞、肺塞栓症、深部静脈血栓症等の血栓塞栓症があらわれることがある。中枢神経症状（めまい、意識障害、四肢麻痺等）、胸痛、突然の呼吸困難、息切れ、下肢の疼痛・浮腫等の症状が認められた場合には適切な処置を行うこと。<HeaderRef ref="HDR_UseInPatientsWithComplicationsOrHistoryOfDiseasesEtc_3" />,<HeaderRef ref="HDR_UseInTheElderly" /></Lang>
+            </Detail>
+          </Item>
+          <Item heading="free" id="HDR_PMDA_SeriousAdverseEvents_20230927103652_25">
+            <Header>
+              <Lang xml:lang="ja">肝機能障害、黄疸（頻度不明）</Lang>
+            </Header>
+            <Detail>
+              <Lang xml:lang="ja">AST、ALT、Al-P、γ-GTP、LDH、ビリルビンの著しい上昇等を伴う肝機能障害、黄疸があらわれることがある。</Lang>
+            </Detail>
+          </Item>
+          <Item heading="free" id="HDR_PMDA_SeriousAdverseEvents_20230927103652_26">
+            <Header>
+              <Lang xml:lang="ja">血小板減少（頻度不明）</Lang>
+            </Header>
+          </Item>
+          <Item heading="free" id="HDR_PMDA_SeriousAdverseEvents_20230927103652_27">
+            <Header>
+              <Lang xml:lang="ja">肺水腫（頻度不明）</Lang>
+            </Header>
+            <Detail>
+              <Lang xml:lang="ja">呼吸困難等の症状があらわれた場合には投与を中止し、適切な処置を行うこと。</Lang>
+            </Detail>
+          </Item>
+          <Item heading="free" id="HDR_PMDA_SeriousAdverseEvents_20230927103652_28">
+            <Header>
+              <Lang xml:lang="ja">溶血性貧血（頻度不明）</Lang>
+            </Header>
+            <Detail>
+              <Lang xml:lang="ja">
+                <HeaderRef ref="HDR_ImportantPrecautions_5" />
+              </Lang>
+            </Detail>
+          </Item>
+        </OrderedList>
+      </SeriousAdverse>
+    </SeriousAdverseEvents>
+    <!--１１.２ その他の副作用-->
+    <OtherAdverseEvents id="HDR_OtherAdverseEvents" heading="fixing">
+      <OtherAdverseEvent>
+        <OtherAdverse>
+          <WidthDefinition totalWidth="100%">
+            <Col width="18.48%" />
+            <Col width="31.51%" />
+            <Col width="18.48%" />
+            <Col width="31.51%" />
+          </WidthDefinition>
+          <CategoryDefinition>
+            <Category id="OTHER1_TYPE1">
+              <Detail>
+                <Lang xml:lang="ja">精神神経系</Lang>
+              </Detail>
+            </Category>
+            <Category id="OTHER1_TYPE2">
+              <Detail>
+                <Lang xml:lang="ja">循環器</Lang>
+              </Detail>
+            </Category>
+            <Category id="OTHER1_TYPE3">
+              <Detail>
+                <Lang xml:lang="ja">消化器</Lang>
+              </Detail>
+            </Category>
+            <Category id="OTHER1_TYPE4">
+              <Detail>
+                <Lang xml:lang="ja">皮膚</Lang>
+              </Detail>
+            </Category>
+            <Category id="OTHER1_TYPE5">
+              <Detail>
+                <Lang xml:lang="ja">筋・骨格系</Lang>
+              </Detail>
+            </Category>
+            <Category id="OTHER1_TYPE6">
+              <Detail>
+                <Lang xml:lang="ja">投与部位</Lang>
+              </Detail>
+            </Category>
+            <Category id="OTHER1_TYPE7">
+              <Detail>
+                <Lang xml:lang="ja">全身障害</Lang>
+              </Detail>
+            </Category>
+            <Category id="OTHER1_TYPE8">
+              <Detail>
+                <Lang xml:lang="ja">臨床検査</Lang>
+              </Detail>
+            </Category>
+          </CategoryDefinition>
+          <FrequencyDefinition>
+            <Frequency id="OTHER1_FRQ1">
+              <Detail>
+                <Lang xml:lang="ja">5%以上</Lang>
+              </Detail>
+            </Frequency>
+            <Frequency id="OTHER1_FRQ2">
+              <Detail>
+                <Lang xml:lang="ja">1～5%未満</Lang>
+              </Detail>
+            </Frequency>
+            <Frequency id="OTHER1_FRQ3">
+              <Detail>
+                <Lang xml:lang="ja">1%未満</Lang>
+              </Detail>
+            </Frequency>
+          </FrequencyDefinition>
+          <AdverseReactions>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE1" frequencyRef="OTHER1_FRQ1">
+              <Detail>
+                <Lang xml:lang="ja">頭痛</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE1" frequencyRef="OTHER1_FRQ2">
+              <Detail>
+                <Lang xml:lang="ja">浮動性めまい、片頭痛、傾眠</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE1" frequencyRef="OTHER1_FRQ3">
+              <Detail>
+                <Lang xml:lang="ja">灼熱感</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE2" frequencyRef="OTHER1_FRQ3">
+              <Detail>
+                <Lang xml:lang="ja">低血圧</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE3" frequencyRef="OTHER1_FRQ2">
+              <Detail>
+                <Lang xml:lang="ja">下痢、悪心</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE3" frequencyRef="OTHER1_FRQ3">
+              <Detail>
+                <Lang xml:lang="ja">腹痛、下腹部痛</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE4" frequencyRef="OTHER1_FRQ2">
+              <Detail>
+                <Lang xml:lang="ja">じん麻疹</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE4" frequencyRef="OTHER1_FRQ3">
+              <Detail>
+                <Lang xml:lang="ja">そう痒症</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE5" frequencyRef="OTHER1_FRQ2">
+              <Detail>
+                <Lang xml:lang="ja">筋肉痛</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE6" frequencyRef="OTHER1_FRQ1">
+              <Detail>
+                <Lang xml:lang="ja">注射部位反応（疼痛、紅斑、腫脹、そう痒感、じん麻疹、内出血、浮腫）（30.2%）</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE7" frequencyRef="OTHER1_FRQ1">
+              <Detail>
+                <Lang xml:lang="ja">疲労</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE7" frequencyRef="OTHER1_FRQ3">
+              <Detail>
+                <Lang xml:lang="ja">疼痛、倦怠感</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+            <AdverseReactionDescription categoryRef="OTHER1_TYPE8" frequencyRef="OTHER1_FRQ3">
+              <Detail>
+                <Lang xml:lang="ja">抗グルタミン脱炭酸酵素抗体陽性、直接クームス試験陽性</Lang>
+              </Detail>
+            </AdverseReactionDescription>
+          </AdverseReactions>
+        </OtherAdverse>
+      </OtherAdverseEvent>
+    </OtherAdverseEvents>
+  </AdverseEvents>
+  <!--１２.臨床検査結果に及ぼす影響-->
+  <InfluenceOnLaboratoryValues heading="fixing" id="HDR_InfluenceOnLaboratoryValues">
+    <Detail>
+      <Lang xml:lang="ja">本剤には供血者由来の各種抗体（各種感染症の病原体又はその産生物質に対する免疫抗体、自己抗体等）が含まれており、投与後の血中にこれらの免疫抗体が一時検出されることがあるので、臨床診断には注意を要する。また、供血者由来の赤血球型抗原に対する抗体（抗A、抗B及び抗D抗体）により、赤血球型同種抗体の血清学的検査（クームス試験）に干渉することがある。</Lang>
+    </Detail>
+  </InfluenceOnLaboratoryValues>
+  <!--１４.適用上の注意-->
+  <PrecautionsForApplication id="HDR_PrecautionsForApplication" heading="fixing">
+    <OtherInformation heading="free" id="HDR_PMDA_PrecautionsForApplication_20230927103652_29">
+      <Header>
+        <Lang xml:lang="ja">薬剤調製時の注意</Lang>
+      </Header>
+      <OrderedList numberContinued="false">
+        <Item heading="free" id="HDR_PMDA_PrecautionsForApplication_20230927103652_30">
+          <Detail>
+            <Lang xml:lang="ja">冷蔵庫で保存する場合には、使用前に室温に戻し、室温に戻した後は、再び冷蔵庫に戻さないこと。</Lang>
+          </Detail>
+        </Item>
+        <Item heading="free" id="HDR_PMDA_PrecautionsForApplication_20230927103652_31">
+          <Detail>
+            <Lang xml:lang="ja">他の製剤との混注は避けること。</Lang>
+          </Detail>
+        </Item>
+        <Item heading="free" id="HDR_PMDA_PrecautionsForApplication_20230927103652_32">
+          <Detail>
+            <Lang xml:lang="ja">本剤は開封後できるだけ速やかに使用すること。また、使用後の残液は、細菌汚染のおそれがあるので再使用しないこと。</Lang>
+          </Detail>
+        </Item>
+      </OrderedList>
+    </OtherInformation>
+    <OtherInformation heading="free" id="HDR_PMDA_PrecautionsForApplication_20230927103652_33">
+      <Header>
+        <Lang xml:lang="ja">薬剤投与時の注意</Lang>
+      </Header>
+      <OrderedList numberContinued="false">
+        <Item heading="free" id="HDR_PMDA_PrecautionsForApplication_20230927103652_34">
+          <Detail>
+            <Lang xml:lang="ja">不溶物又は混濁が認められるものは使用しないこと。</Lang>
+          </Detail>
+        </Item>
+        <Item heading="free" id="HDR_PMDA_PrecautionsForApplication_20230927103652_35">
+          <Detail>
+            <Lang xml:lang="ja">本剤は腹部、大腿部、上腕部、腰部側面等に皮下投与すること。投与量に応じて複数箇所からの投与を検討し、投与部位は少なくとも5cm離すこと。</Lang>
+          </Detail>
+        </Item>
+        <Item heading="free" id="HDR_PMDA_PrecautionsForApplication_20230927103652_36">
+          <Detail modified="今回">
+            <Lang xml:lang="ja">投与速度の調節可能な注射器具（シリンジポンプ等）を用いて、又はシリンジを用いた手動によって本剤を投与すること。</Lang>
+          </Detail>
+        </Item>
+        <Item heading="free" id="HDR_PMDA_PrecautionsForApplication_20230927103652_37">
+          <Detail>
+            <Lang xml:lang="ja">本剤を希釈しないこと。</Lang>
+          </Detail>
+        </Item>
+        <Item heading="free" id="HDR_PMDA_PrecautionsForApplication_OtherInformation_20250121165027_2_01">
+          <Detail modified="今回">
+            <Lang xml:lang="ja">部位あたりの投与容量は、初回投与では20mL以下とし、以降の投与では患者の状態に応じて最大60mLまで増量することができる。</Lang>
+          </Detail>
+        </Item>
+        <Item heading="free" id="HDR_PMDA_PrecautionsForApplication_20230927103652_38">
+          <Detail modified="今回">
+            <Lang xml:lang="ja">投与速度</Lang>
+          </Detail>
+          <SimpleList>
+            <Item>
+              <Detail modified="今回">
+                <Lang xml:lang="ja">〈シリンジポンプ等を用いて投与する場合〉</Lang>
+              </Detail>
+              <UnorderedList>
+                <Item>
+                  <Detail modified="今回">
+                    <Lang xml:lang="ja">部位あたりの投与速度は、初回及び2回目の投与時は、10mL/時間で投与を開始し、問題がなければ投与開始から10分以上経過後に最大20mL/時間まで増加することができる。3回目以降の投与は、患者の状態に応じて投与速度を最大60mL/時間まで徐々に増加することができる。</Lang>
+                  </Detail>
+                </Item>
+              </UnorderedList>
+            </Item>
+            <Item>
+              <Detail modified="今回">
+                <Lang xml:lang="ja">〈シリンジを用いて手動投与する場合〉</Lang>
+              </Detail>
+              <UnorderedList>
+                <Item>
+                  <Detail modified="今回">
+                    <Lang xml:lang="ja">手動投与では、シリンジポンプ等を用いた場合と比べて注射部位反応が起こりやすくなるおそれがあるため、初回投与時には緩徐に投与を開始すること。その後は患者の状態及び忍容性に応じて適宜調整し、最大約1～2mL/分まで徐々に増加することができる。<HeaderRef ref="HDR_InfoPrecautionsDosage_2" />,<HeaderRef ref="HDR_PMDA_ImportantPrecautions_20230927103652_12" /></Lang>
+                  </Detail>
+                </Item>
+              </UnorderedList>
+            </Item>
+          </SimpleList>
+        </Item>
+        <Item heading="free" id="HDR_PMDA_PrecautionsForApplication_OtherInformation_20250120111721_2_02">
+          <Detail modified="今回">
+            <Lang xml:lang="ja">注射部位反応が報告されているので、推奨投与速度を守り、投与毎に投与部位を変えること。</Lang>
+          </Detail>
+        </Item>
+      </OrderedList>
+    </OtherInformation>
+    <OtherInformation heading="free" id="HDR_PMDA_PrecautionsForApplication_20230927103652_41">
+      <Header>
+        <Lang xml:lang="ja">薬剤交付時の注意</Lang>
+      </Header>
+      <Detail>
+        <Lang xml:lang="ja">最終有効年月日まで貯法に従い保存すること。</Lang>
+      </Detail>
+    </OtherInformation>
+  </PrecautionsForApplication>
+  <!--１６.薬物動態-->
+  <Pharmacokinetics id="HDR_Pharmacokinetics" heading="fixing">
+    <!--１６.１ 血中濃度-->
+    <BloodLevel id="HDR_BloodLevel" heading="fixing">
+      <Detail>
+        <Lang xml:lang="ja">12歳以上の日本人原発性免疫不全症候群患者7例を対象に本剤を平均投与量0.115g/kg体重で週1回皮下投与した際の定常状態（本剤投与開始21週目）における血清IgG濃度推移及び薬物動態パラメータは以下のとおりであった<ReferenceBookRef ref="DOC_01" />。</Lang>
+      </Detail>
+      <Graphic>
+        <GraphicBody gfname="400256_6343439A4023_fig01.gif" />
+        <GraphicCaption>
+          <Lang xml:lang="ja">血清IgG濃度推移（平均値±標準偏差）</Lang>
+        </GraphicCaption>
+      </Graphic>
+      <TblBlock>
+        <TblCaption align="top">
+          <Lang xml:lang="ja">本剤を週1回皮下投与した際の血清IgGの薬物動態パラメータ</Lang>
+        </TblCaption>
+        <WidthDefinition totalWidth="98.34%">
+          <Col width="20%" />
+          <Col width="20%" />
+          <Col width="20%" />
+          <Col width="20%" />
+          <Col width="20%" />
+        </WidthDefinition>
+        <SimpleTable>
+          <SimpTblRow>
+            <SimpTblCell align="center" valign="middle">
+              <Detail>
+                <Lang xml:lang="ja">AUC<Sub>last<?enter?></Sub>（g・day/L）</Lang>
+              </Detail>
+            </SimpTblCell>
+            <SimpTblCell align="center" valign="middle">
+              <Detail>
+                <Lang xml:lang="ja">C<Sub>max</Sub><?enter?>（g/L）</Lang>
+              </Detail>
+            </SimpTblCell>
+            <SimpTblCell align="center" valign="middle">
+              <Detail>
+                <Lang xml:lang="ja">C<Sub>min</Sub><?enter?>（g/L）</Lang>
+              </Detail>
+            </SimpTblCell>
+            <SimpTblCell align="center" valign="middle">
+              <Detail>
+                <Lang xml:lang="ja">T<Sub>max</Sub><?enter?>（h）</Lang>
+              </Detail>
+            </SimpTblCell>
+            <SimpTblCell align="center" valign="middle">
+              <Detail>
+                <Lang xml:lang="ja">CL/F<?enter?>（mL/kg/day）</Lang>
+              </Detail>
+            </SimpTblCell>
+          </SimpTblRow>
+          <SimpTblRow>
+            <SimpTblCell align="center" valign="middle">
+              <Detail>
+                <Lang xml:lang="ja">60.0±12.6</Lang>
+              </Detail>
+            </SimpTblCell>
+            <SimpTblCell align="center" valign="middle">
+              <Detail>
+                <Lang xml:lang="ja">9.26±1.99</Lang>
+              </Detail>
+            </SimpTblCell>
+            <SimpTblCell align="center" valign="middle">
+              <Detail>
+                <Lang xml:lang="ja">7.59±1.69</Lang>
+              </Detail>
+            </SimpTblCell>
+            <SimpTblCell align="center" valign="middle">
+              <Detail>
+                <Lang xml:lang="ja">71.08<?enter?>[22.82, 168.23]</Lang>
+              </Detail>
+            </SimpTblCell>
+            <SimpTblCell align="center" valign="middle">
+              <Detail>
+                <Lang xml:lang="ja">1.95±0.273</Lang>
+              </Detail>
+            </SimpTblCell>
+          </SimpTblRow>
+        </SimpleTable>
+        <SimpTblFoot align="left">
+          <Detail>
+            <Lang xml:lang="ja">平均値±標準偏差、T<Sub>max</Sub>は中央値[最小値, 最大値]</Lang>
+          </Detail>
+        </SimpTblFoot>
+      </TblBlock>
+      <Detail>
+        <Lang xml:lang="ja">なお、2歳以上の日本人原発性免疫不全症候群患者を対象に、本剤を週1回皮下投与（平均投与量0.106g/kg体重/週）又は2週に1回皮下投与（平均投与量0.117g/kg体重/週）した際の平均IgGトラフ値は、それぞれ8.09g/L（15例、本剤投与開始21週目）又は8.48g/L（6例、2週間隔での本剤投与開始13週目又は早期終了時）と、両投与間で類似していた<ReferenceBookRef ref="DOC_01" />。</Lang>
+      </Detail>
+    </BloodLevel>
+  </Pharmacokinetics>
+  <!--１７.臨床成績-->
+  <ResultsOfClinicalTrials id="HDR_ResultsOfClinicalTrials" heading="fixing">
+    <!--１７.１ 有効性及び安全性に関する試験-->
+    <EfficacyAndSafety id="HDR_EfficacyAndSafety" heading="fixing">
+      <OrderedList numberContinued="false">
+        <Item id="HDR_EfficacyAndSafety_1" heading="free">
+          <Header>
+            <Lang xml:lang="ja">国内第Ⅲ相試験</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">一定用量（0.2～0.6g/kg体重/3又は4週相当量）で定期的に静注用人免疫グロブリン製剤の治療を受けていた2歳以上の原発性免疫不全症候群患者計17例を対象とし、静注用人免疫グロブリン製剤の1週間あたりの用量（0.05～0.2g/kg体重/週）の本剤を1週間間隔で24週間投与し、そのうち7例は更に2週間間隔で12週間投与した。17例の平均投与回数は25.9回で、有効性評価期間の1週間あたりの平均投与量は0.107g/kg体重であった。<?enter?>1週間隔治療期及び2週間隔治療期最後の3回の来院における平均IgGトラフ値はそれぞれ8.56g/L及び8.39g/Lであり、静注用人免疫グロブリン製剤による治療（平均IgGトラフ値8.18g/L）と比較し同程度に維持された。本剤で治療中に発生した重篤な細菌感染は0.11件/人・年で、全ての感染症は2.04件/人・年であった。<?enter?>本剤投与中の副作用は17例中12例（70.6%）に51件認められ、主な副作用は注射部位腫脹4例（23.5%）及び注射部位紅斑3例（17.6%）であった<ReferenceBookRef ref="DOC_01" />。</Lang>
+          </Detail>
+        </Item>
+        <Item id="HDR_EfficacyAndSafety_2" heading="free">
+          <Header>
+            <Lang xml:lang="ja">海外第Ⅲ相試験（欧州）</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">一定用量（0.3～1.0g/kg体重/4週相当量）で定期的に免疫グロブリン製剤の治療を受けていた2歳以上の原発性免疫不全症候群患者計48例を対象とし、免疫グロブリン製剤の1週間あたりの等価用量の本剤を1週間隔で51週間投与した。本剤で治療中に発生した重篤な細菌感染は0.02件/人・年、全ての感染症は4.38件/人・年であった。<?enter?>本剤投与中の副作用は48例中20例（41.7%）に237件認められ、主な副作用は注入部位紅斑8例（16.7%）であった<ReferenceBookRef ref="DOC_02" />。</Lang>
+          </Detail>
+        </Item>
+        <Item id="HDR_EfficacyAndSafety_3" heading="free">
+          <Header>
+            <Lang xml:lang="ja">海外第Ⅲ相試験（北米）</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">一定用量（0.3～1.0g/kg体重/4週相当量）で定期的に免疫グロブリン製剤の治療を受けていた2歳以上の原発性免疫不全症候群患者計74例を対象とし、本剤を1週間隔で52～68週間投与した。なお、本剤の投与量は、静注用人免疫グロブリン製剤投与の1週間あたりの等価用量の145%相当量又は個別化用量に調整した。本剤で治療中に発生した重篤な細菌感染は0.01件/人・年、全ての感染症は2.41件/人・年であった。<?enter?>本剤投与中の副作用は74例中28例（37.8%）に157件認められ、主な副作用は注入部位疼痛12例（16.2%）であった<ReferenceBookRef ref="DOC_03" />。</Lang>
+          </Detail>
+        </Item>
+      </OrderedList>
+    </EfficacyAndSafety>
+  </ResultsOfClinicalTrials>
+  <!--１８.薬効薬理-->
+  <EfficacyPharmacology id="HDR_EfficacyPharmacology" heading="fixing">
+    <!--１８.１ 作用機序-->
+    <MechanismOfAction id="HDR_MechanismOfAction" heading="fixing">
+      <Detail>
+        <Lang xml:lang="ja">人免疫グロブリンGの作用機序は完全には解明されていない。</Lang>
+      </Detail>
+    </MechanismOfAction>
+    <OtherInformation id="HDR_EfficacyPharmacology_OtherInformation_1" heading="free">
+      <Header>
+        <Lang xml:lang="ja">薬理作用</Lang>
+      </Header>
+      <OrderedList numberContinued="false">
+        <Item id="HDR_EfficacyPharmacology_OtherInformation_1_1" heading="free">
+          <Header>
+            <Lang xml:lang="ja">抗体価</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">広範囲の細菌及びウイルスに対して抗体価を有する（<Italic>in vitro</Italic>）<ReferenceBookRef ref="DOC_04" />。</Lang>
+          </Detail>
+        </Item>
+        <Item id="HDR_EfficacyPharmacology_OtherInformation_1_2" heading="free">
+          <Header>
+            <Lang xml:lang="ja">オプソニン作用</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">大腸菌及びB群連鎖球菌に対してオプソニン作用が認められた（<Italic>in vitro</Italic>）<ReferenceBookRef ref="DOC_05" />。</Lang>
+          </Detail>
+        </Item>
+        <Item id="HDR_EfficacyPharmacology_OtherInformation_1_3" heading="free">
+          <Header>
+            <Lang xml:lang="ja">感染防御作用</Lang>
+          </Header>
+          <Detail>
+            <Lang xml:lang="ja">マウスにおける肺炎球菌及び肺炎桿菌感染に対して防御作用が認められた<ReferenceBookRef ref="DOC_06" />。</Lang>
+          </Detail>
+        </Item>
+      </OrderedList>
+    </OtherInformation>
+  </EfficacyPharmacology>
+  <!--１９.有効成分に関する理化学的知見-->
+  <PhyschemOfActIngredients id="HDR_PhyschemOfActIngredients" heading="fixing">
+    <PhyschemOfActIngredientsSection>
+      <GeneralName>
+        <Detail>
+          <Lang xml:lang="ja">pH4処理酸性人免疫グロブリン（皮下注射）〔pH4-Treated Acidic Normal Human Immunoglobulin（Subcutaneous injection）〕</Lang>
+        </Detail>
+      </GeneralName>
+      <Nature>
+        <Detail>
+          <Lang xml:lang="ja">グリシンを安定剤として含有する高濃度人免疫グロブリン。平均100μg/mLのIgAを含む。<?enter?>IgGサブクラスの分布は以下の通り。</Lang>
+        </Detail>
+        <SimpleList>
+          <Item>
+            <Detail>
+              <Lang xml:lang="ja">IgG1≧56.9%<?enter?>IgG2≧26.6%<?enter?>IgG3≧3.4%<?enter?>IgG4≧1.7%</Lang>
+            </Detail>
+          </Item>
+        </SimpleList>
+      </Nature>
+    </PhyschemOfActIngredientsSection>
+  </PhyschemOfActIngredients>
+  <!--２０.取扱い上の注意-->
+  <PrecautionsForHandling heading="fixing" id="HDR_PrecautionsForHandling">
+    <Detail>
+      <Lang xml:lang="ja">本剤は特定生物由来製品に該当することから、本剤を投与した場合は、医薬品名（販売名）、製造番号、投与した日、投与を受けた患者の氏名、住所等を記録し、少なくとも20年間保存すること。</Lang>
+    </Detail>
+  </PrecautionsForHandling>
+  <!--２１.承認条件-->
+  <ConditionsOfApproval id="HDR_ConditionsOfApproval" heading="fixing">
+    <Detail>
+      <Lang xml:lang="ja">医薬品リスク管理計画を策定の上、適切に実施すること。</Lang>
+    </Detail>
+  </ConditionsOfApproval>
+  <!--２２.包装-->
+  <Package id="HDR_Package" heading="fixing">
+    <SimpleList>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">〈キュービトル20%皮下注2g/10mL〉</Lang>
+        </Header>
+        <Detail>
+          <Lang xml:lang="ja">瓶 10mL</Lang>
+        </Detail>
+      </Item>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">〈キュービトル20%皮下注4g/20mL〉</Lang>
+        </Header>
+        <Detail>
+          <Lang xml:lang="ja">瓶 20mL</Lang>
+        </Detail>
+      </Item>
+      <Item>
+        <Header>
+          <Lang xml:lang="ja">〈キュービトル20%皮下注8g/40mL〉</Lang>
+        </Header>
+        <Detail>
+          <Lang xml:lang="ja">瓶 40mL</Lang>
+        </Detail>
+      </Item>
+    </SimpleList>
+  </Package>
+  <!--２３.主要文献-->
+  <MainLiterature id="HDR_MainLiterature" heading="fixing">
+    <Reference id="DOC_01">
+      <Lang xml:lang="ja">社内資料：国内第Ⅲ相試験（2023年9月25日承認、CTD2.7.6.1）</Lang>
+    </Reference>
+    <Reference id="DOC_02">
+      <Lang xml:lang="ja">社内資料：海外第Ⅲ相試験（欧州）（2023年9月25日承認、CTD2.7.6.2）</Lang>
+    </Reference>
+    <Reference id="DOC_03">
+      <Lang xml:lang="ja">社内資料：海外第Ⅲ相試験（北米）（2023年9月25日承認、CTD2.7.6.3）</Lang>
+    </Reference>
+    <Reference id="DOC_04">
+      <Lang xml:lang="ja">Teschner W, et al.：Vox Sang. 2007；92：42-55.</Lang>
+    </Reference>
+    <Reference id="DOC_05">
+      <Lang xml:lang="ja">社内資料：オプソニン作用（2023年9月25日承認、CTD2.6.2.2.1.2）</Lang>
+    </Reference>
+    <Reference id="DOC_06">
+      <Lang xml:lang="ja">社内資料：感染防御作用（2023年9月25日承認、CTD2.6.2.2.2.1）</Lang>
+    </Reference>
+  </MainLiterature>
+  <!--２４.文献請求先及び問い合わせ先-->
+  <AddresseeOfLiteratureRequest id="HDR_AddresseeOfLiteratureRequest" heading="fixing">
+    <AddresseeInfo>
+      <AddresseeOfInquiry>
+        <Lang xml:lang="ja">武田薬品工業株式会社　くすり相談室</Lang>
+      </AddresseeOfInquiry>
+      <Address>
+        <Lang xml:lang="ja">〒103-8668　東京都中央区日本橋本町二丁目1番1号</Lang>
+      </Address>
+      <ContactInformation>
+        <Detail>
+          <Lang xml:lang="ja">フリーダイヤル　0120-566-587<?enter?>受付時間　9：00～17：30（土日祝日・弊社休業日を除く）</Lang>
+        </Detail>
+      </ContactInformation>
+    </AddresseeInfo>
+  </AddresseeOfLiteratureRequest>
+  <!--２６.製造販売業者等-->
+  <NameAddressManufact id="HDR_NameAddressManufact" heading="fixing">
+    <Manufacturer>
+      <TypeOfIndustry>
+        <Lang xml:lang="ja">製造販売元</Lang>
+      </TypeOfIndustry>
+      <Name>
+        <Lang xml:lang="ja">武田薬品工業株式会社</Lang>
+      </Name>
+      <Address>
+        <Lang xml:lang="ja">〒540-8645　大阪市中央区道修町四丁目1番1号</Lang>
+      </Address>
+    </Manufacturer>
+  </NameAddressManufact>
+  <ReferenceInformation>
+    <Graphic>
+      <GraphicBody gfname="400256_6343439A4023_fig02.gif" />
+    </Graphic>
+  </ReferenceInformation>
+</PackIns>
