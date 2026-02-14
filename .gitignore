@@ -1,0 +1,33 @@
+# 仮想環境
+env/
+.venv/
+venv/
+
+# 環境変数ファイル(APIキー)
+.env
+.env.local
+
+# Python関連
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# データベース・インデックス
+*.index
+*.db
+storage/
+
+# ログファイル
+*.log
