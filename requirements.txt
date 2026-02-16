@@ -4,4 +4,6 @@ openai==1.12.0
 python-dotenv==1.0.0
 pypdf==4.0.1
 pandas==2.2.0
-plotly==5.18.0
+plotly==5.18.0cryptography>=3.1
+cryptography>=3.1
+openpyxl>=3.0
